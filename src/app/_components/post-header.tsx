@@ -19,7 +19,10 @@ export function PostHeader({ title, date, categories }: Props) {
           {categories &&
             categories.length > 0 &&
             categories.map((category) => (
-              <span className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded">
+              <span
+                key={category}
+                className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded"
+              >
                 {category}
               </span>
             ))}
