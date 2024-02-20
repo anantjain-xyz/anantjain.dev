@@ -9,7 +9,7 @@ redirect_from:
   - /antifragile-things-that-gain-from-disorder-8a0e86257edb
 ---
 
-![](/_next/image?url=%2Fassets%2Fblog%2Fantifragile-things-that-gain-from-disorder%2Fasset-1.jpeg&w=3840&q=75)
+![](/assets/blog/antifragile-things-that-gain-from-disorder/asset-1.jpeg)
 
 Nassim Nicholas Taleb is one of my favorite authors out there. His Wikipedia page’s intro paragraph should convince you that his ideas are worth taking seriously:
 
@@ -86,4 +86,4 @@ This is it for the review. You should follow Nassim Nicholas Taleb on Twitter wh
 
 _This is #31 in a series of book reviews published weekly on this site._
 
-![Nassim Nicholas Taleb](/_next/image?url=%2Fassets%2Fblog%2Fantifragile-things-that-gain-from-disorder%2Fasset-2.png&w=3840&q=75)
+![Nassim Nicholas Taleb](/assets/blog/antifragile-things-that-gain-from-disorder/asset-2.png)
