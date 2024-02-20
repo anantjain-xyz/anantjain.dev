@@ -8,7 +8,7 @@ type Props = {
 
 export function PostList({ title, posts }: Props) {
   return (
-    <section className="mb-16">
+    <section key={title} className="mb-16">
       <h3 className="text-3xl font-bold mb-8">{title}</h3>
       {posts.map((post) => (
         <PostPreview
