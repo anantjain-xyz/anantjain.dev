@@ -20,7 +20,7 @@ export default async function Post({ params }: Params) {
     <main>
       <Container>
         <Header />
-        <article className="mb-32">
+        <article className="mb-32 break-words text-pretty">
           <PostHeader
             title={post.title}
             date={post.date}
