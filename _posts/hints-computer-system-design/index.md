@@ -1,8 +1,8 @@
 ---
-title: 'Hints for Computer System Design'
-description: 'Butler W. Lampson, Xerox PARC'
-date: '2020-09-26'
-categories: ['Paper Review']
+title: "Hints for Computer System Design"
+description: "Butler W. Lampson, Xerox PARC"
+date: "2020-09-26"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -38,7 +38,7 @@ published: true
 
 - **Make it fast**, rather than general or powerful. The trouble with slow, powerful operations is that the client who doesn’t want the power pays more for the basic function. Usually it turns out that the powerful operation is not the right one. Machines like the 801 or the RISC with instructions that do these simple operations quickly can run programs faster (for the same amount of hardware) than machines like the VAX with more general and powerful instructions that take longer in the simple cases.
 
-- **Don’t hide power**: When a low level of abstraction allows something to be done quickly, higher levels should not bury this power inside something more general. The purpose of abstractions is to conceal undesirable properties; desirable ones should not be hidden. 
+- **Don’t hide power**: When a low level of abstraction allows something to be done quickly, higher levels should not bury this power inside something more general. The purpose of abstractions is to conceal undesirable properties; desirable ones should not be hidden.
 
 - Use procedure arguments to provide flexibility in an interface. The cleanest interface allows the client to pass a filter procedure that tests for the property, rather than defining a special language of patterns or whatever.
 
@@ -106,7 +106,7 @@ published: true
 
 - To use the technique, record every update to an object as a log entry consisting of the name of the update procedure and its arguments. The procedure must be functional: when applied to the same arguments it must always have the same effect. In other words, there is no state outside the arguments that affects the operation of the procedure
 
-- The update procedure must be a true function:  Its result does not depend on any state outside its arguments.  It has no side effects, except on the object in whose log it appears.
+- The update procedure must be a true function: Its result does not depend on any state outside its arguments. It has no side effects, except on the object in whose log it appears.
 
 - **Make actions atomic or restartable**. An atomic action (often called a transaction) is one that either completes or has no effect.
 

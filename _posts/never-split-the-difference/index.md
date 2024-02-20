@@ -2,7 +2,7 @@
 title: "Never Split the Difference"
 description: "Chris Voss and Tahl Raz"
 date: "2018-12-16T16:01:00.990Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/never-split-the-difference-a2f63dbc72fa
 redirect_from:
@@ -37,14 +37,14 @@ Before you convince someone to see what you’re trying to accomplish, you must 
 
 Never split the difference. Creative solutions are almost always preceded by some risk, annoyance, confusion, or conflict. If you internalize **“No deal is better than a bad deal,”** then your patience can become a powerful weapon. The most powerful word in negotiations is **“fair.”** We comply with agreements if we feel we have been treated fairly, and lash out if we don’t. Using the phrase **“We just want what’s fair”** destabilizes the other side. If your counterpart uses it on you, instead of conceding irrationally, apologize, and offer to go back to where the unfairness began and fix things. Some practical tips here:
 
--   **Let the other side anchor monetary negotiations**, since you often don’t know enough to open with confidence.
--   Be prepared to **withstand the first offer**. It could be extreme to bend your reality.
--   **Establish a range in your offer**. Expect your counterpart to come in at the low end, so make the low number what you actually want.
--   **Anchor your counterpart high**, then make your offer seem reasonable by offering things that aren’t important to you but could be important to them.
--   Similarly, if their offer is low, then ask for things that matter more to you than to them.
--   **Numbers that end in 0 feel like temporary placeholders.** Numbers that sound less rounded feel serious and permanent to your counterpart.
--   A wholly unrelated surprise gift can make extreme anchors palatable because they introduce a dynamic of reciprocity.
--   When negotiating a salary, be pleasantly persistent on non-salary terms. The more you talk about them, the more you’ll hear the full range of options.
+- **Let the other side anchor monetary negotiations**, since you often don’t know enough to open with confidence.
+- Be prepared to **withstand the first offer**. It could be extreme to bend your reality.
+- **Establish a range in your offer**. Expect your counterpart to come in at the low end, so make the low number what you actually want.
+- **Anchor your counterpart high**, then make your offer seem reasonable by offering things that aren’t important to you but could be important to them.
+- Similarly, if their offer is low, then ask for things that matter more to you than to them.
+- **Numbers that end in 0 feel like temporary placeholders.** Numbers that sound less rounded feel serious and permanent to your counterpart.
+- A wholly unrelated surprise gift can make extreme anchors palatable because they introduce a dynamic of reciprocity.
+- When negotiating a salary, be pleasantly persistent on non-salary terms. The more you talk about them, the more you’ll hear the full range of options.
 
 #### Create The Illusion Of Control
 
@@ -58,9 +58,9 @@ Your job isn’t just to get to an agreement, but to get to one that can be impl
 
 Negotiators fall into three categories: **Accommodators**, **Assertives**, and **Analysts**.
 
--   **Analysts** are methodical and diligent. They are not in a big rush, and their self-image is linked to minimizing mistakes. Analysts work alone, rarely show emotion, extensively prepare, are hypersensitive to reciprocity, are skeptical, value silence, and don’t value apologies. As an analyst, smile when you speak, so that you are not cut off from an essential source of data, namely your counterpart.
--   **Accommodators** value most the building of a relationship. They value the time communicating and want a win-win. If your counterpart is an accommodator, ask calibrated questions to translate their talk into action. As an accommodator, do not sacrifice your objections, and beware of excessive chitchat, especially if your counterpart is one as well.
--   **Assertives** believe time is money. Their self image is linked to getting things done, and getting things perfect isn’t paramount. Focus on what assertives have to say, because until they are convinced you understand them, they won’t listen to your point of view. Mirrors, calibrated questions, labels, and summaries work well with assertives, who see every silence as an opportunity to speak more. As an assertive, be conscious of your tone. Use calibrated questions and labels to make yourself more approachable.
+- **Analysts** are methodical and diligent. They are not in a big rush, and their self-image is linked to minimizing mistakes. Analysts work alone, rarely show emotion, extensively prepare, are hypersensitive to reciprocity, are skeptical, value silence, and don’t value apologies. As an analyst, smile when you speak, so that you are not cut off from an essential source of data, namely your counterpart.
+- **Accommodators** value most the building of a relationship. They value the time communicating and want a win-win. If your counterpart is an accommodator, ask calibrated questions to translate their talk into action. As an accommodator, do not sacrifice your objections, and beware of excessive chitchat, especially if your counterpart is one as well.
+- **Assertives** believe time is money. Their self image is linked to getting things done, and getting things perfect isn’t paramount. Focus on what assertives have to say, because until they are convinced you understand them, they won’t listen to your point of view. Mirrors, calibrated questions, labels, and summaries work well with assertives, who see every silence as an opportunity to speak more. As an assertive, be conscious of your tone. Use calibrated questions and labels to make yourself more approachable.
 
 **Ackerman bargaining**: Set your target price as a nonround number, then offer **65, 85, 95, 100 percent**. Use empathy in between offers. **On your final offer, throw in a non-monetary item.**
 

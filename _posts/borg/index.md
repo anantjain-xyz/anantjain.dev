@@ -2,7 +2,7 @@
 title: "Large-scale cluster management at Google with Borg"
 description: "Google"
 date: "2020-08-01"
-categories: ['Paper Review']
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -12,7 +12,7 @@ published: true
 
 ### Introduction
 
-The cluster management system internally called Borg at Google admits, schedules, starts, restarts, and monitors the full range of applications that Google runs. This paper explains how. Borg provides three main beneﬁts: 
+The cluster management system internally called Borg at Google admits, schedules, starts, restarts, and monitors the full range of applications that Google runs. This paper explains how. Borg provides three main beneﬁts:
 
 1. Hides the details of resource management and failure handling so its users can focus on application development instead.
 2. Operates with very high reliability and availability, and supports applications that do the same.
@@ -38,19 +38,19 @@ Users submit their work to Borg in the form of jobs, each of which consists of o
 
 - **Priority**: Priority, a small positive integer. Borg defines non-overlapping priority bands, in decreasing order: monitoring, production, batch, and best eﬀort (also known as testing or free). Prod jobs are the ones in the monitoring and production bands.
 
-    - To avoid preemption cascades, they disallow tasks in the production priority band to preempt one another.
+  - To avoid preemption cascades, they disallow tasks in the production priority band to preempt one another.
 
-    - MapReduce master tasks run at a slightly higher priority than the workers they control, to improve their reliability.
+  - MapReduce master tasks run at a slightly higher priority than the workers they control, to improve their reliability.
 
-- **Quota** is used to decide which jobs to admit for scheduling. Quota is expressed as a vector of resource quantities (CPU, RAM, disk, etc.) at a given priority, for a period of time (typically months). 
+- **Quota** is used to decide which jobs to admit for scheduling. Quota is expressed as a vector of resource quantities (CPU, RAM, disk, etc.) at a given priority, for a period of time (typically months).
 
-    - Quota-checking is part of admission control, not scheduling.
+  - Quota-checking is part of admission control, not scheduling.
 
-    - Even though they encourage users to purchase no more quota than they need, many users overbuy because it insulates them against future shortages when their application’s user base grows. We respond to this by over-selling quota at lower-priority levels: every user has inﬁnite quota at priority zero, although this is frequently hard to exercise because resources are oversubscribed.
+  - Even though they encourage users to purchase no more quota than they need, many users overbuy because it insulates them against future shortages when their application’s user base grows. We respond to this by over-selling quota at lower-priority levels: every user has inﬁnite quota at priority zero, although this is frequently hard to exercise because resources are oversubscribed.
 
-    - The use of quota reduces the need for policies like Dominant Resource Fairness (**DRF**).
+  - The use of quota reduces the need for policies like Dominant Resource Fairness (**DRF**).
 
-    - Borg has a **capability system** that gives special privileges to some users.
+  - Borg has a **capability system** that gives special privileges to some users.
 
 - **“Borg name service” (BNS)** name for each task that includes the cell name, job name, and task number. Borg writes the task’s hostname and port into a consistent, highly-available ﬁle in Chubby [14] with this name, which is used by our RPC system to ﬁnd the task endpoint. The BNS name also forms the basis of the task’s DNS name, so the fiftieth task in job jfoo owned by user ubar in cell cc would be reachable via 50.jfoo.ubar.cc.borg.google.com.
 
@@ -70,37 +70,37 @@ Users submit their work to Borg in the form of jobs, each of which consists of o
 
 - **Borgmaster**: Each cell’s Borgmaster consists of two processes: the main Borgmaster process and a separate scheduler (§3.2). The main Borgmaster process handles client RPCs that either mutate state (e.g., create job) or provide read-only access to data (e.g., lookup job). It also manages state machines for all of the objects in the system (machines, tasks, allocs, etc.), communicates with the Borglets, and offers a web UI as a backup to Sigma. Borgmaster is replicated ﬁve times.
 
-    - Electing a master and failing-over to the new one typically takes about 10 s,.
+  - Electing a master and failing-over to the new one typically takes about 10 s,.
 
-    - The Borgmaster’s state at a point in time is called a *checkpoint*.
+  - The Borgmaster’s state at a point in time is called a _checkpoint_.
 
-    - Fauxmaster is a high-fidelity Borgmaster simulator with stubbed-out interfaces to the Borglets. It is useful for capacity planning, as well as sanity checks.
+  - Fauxmaster is a high-fidelity Borgmaster simulator with stubbed-out interfaces to the Borglets. It is useful for capacity planning, as well as sanity checks.
 
 - **Scheduling**: When a job is submitted, the Borgmaster records it persistently in the Paxos store and adds the job’s tasks to the pending queue, which is scanned asynchronously by the scheduler. The scheduler primarily operates on tasks, not jobs with a round-robin scheme within a priority. The scheduling algorithm has two parts:
 
-    - **Feasibility checking**: the scheduler finds a set of machines that meet the task’s constraints and also have enough “available” resources – which includes resources assigned to lower-priority tasks that can be evicted
+  - **Feasibility checking**: the scheduler finds a set of machines that meet the task’s constraints and also have enough “available” resources – which includes resources assigned to lower-priority tasks that can be evicted
 
-    - **Scoring**, or determining “goodness”, mostly driven by built-in criteria such as minimizing the number and priority of preempted tasks, picking machines that already have a copy of the task’s packages, spreading tasks across power and failure domains, and, packing quality including putting a mix of high and low priority tasks onto a single machine.
+  - **Scoring**, or determining “goodness”, mostly driven by built-in criteria such as minimizing the number and priority of preempted tasks, picking machines that already have a copy of the task’s packages, spreading tasks across power and failure domains, and, packing quality including putting a mix of high and low priority tasks onto a single machine.
 
 - Task startup latency has a median of 25s. Package installation takes about 80% of the total: one of the known bottlenecks is contention for the local disk where packages are written to. Most packages are immutable and so can be shared and cached. (This is the only form of data locality supported by the Borg scheduler.) In addition, Borg distributes packages to machines in parallel using tree and torrent-like protocols.
 
 - The **Borglet** is a local Borg agent that is present on every machine in a cell. It starts and stops tasks; restarts them if they fail; manages local resources by manipulating OS kernel settings; rolls over debug logs; and reports the state of the machine to the Borgmaster and other monitoring systems.
 
-    - The Borgmaster polls each Borglet every few seconds to retrieve the machine’s current state and send it any outstanding requests. This gives Borgmaster control over the rate of communication, avoids the need for an explicit ﬂow control mechanism, and prevents recovery storms.
+  - The Borgmaster polls each Borglet every few seconds to retrieve the machine’s current state and send it any outstanding requests. This gives Borgmaster control over the rate of communication, avoids the need for an explicit ﬂow control mechanism, and prevents recovery storms.
 
-    - For performance scalability, each Borgmaster replica runs a stateless link shard to handle the communication with some of the Borglets.
+  - For performance scalability, each Borgmaster replica runs a stateless link shard to handle the communication with some of the Borglets.
 
-    - For resiliency, the Borglet always reports its full state,.
+  - For resiliency, the Borglet always reports its full state,.
 
-    - A Borglet continues normal operation even if it loses contact with the Borgmaster, so currently-running tasks and services stay up even if all Borgmaster replicas fail.
+  - A Borglet continues normal operation even if it loses contact with the Borgmaster, so currently-running tasks and services stay up even if all Borgmaster replicas fail.
 
 - **Scalability**: A single Borgmaster can manage many thousands of machines in a cell, and several cells have arrival rates above 10000 tasks per minute. A busy Borgmaster uses 10–14 CPU cores and up to 50 GiB RAM.
 
-    - To handle larger cells, they split the scheduler into a separate process so it could operate in parallel with the other Borgmaster functions that are replicated for failure tolerance.
+  - To handle larger cells, they split the scheduler into a separate process so it could operate in parallel with the other Borgmaster functions that are replicated for failure tolerance.
 
-    - To improve response times, they added separate threads to talk to the Borglets and respond to read-only RPCs.
+  - To improve response times, they added separate threads to talk to the Borglets and respond to read-only RPCs.
 
-    - Several things make the Borg scheduler more scalable: **Score caching**, **Equivalence classes**, and **Relaxed randomization**. Borg only does feasibility and scoring for one task per equivalence class – a group of tasks with identical requirements. Scheduler examines machines in a random order until it has found “enough” feasible machines to score, and then selects the best within that set. Scheduling a cell’s entire workload from scratch typically took a few hundred seconds, but did not ﬁnish after more than 3 days when the these three techniques were disabled.
+  - Several things make the Borg scheduler more scalable: **Score caching**, **Equivalence classes**, and **Relaxed randomization**. Borg only does feasibility and scoring for one task per equivalence class – a group of tasks with identical requirements. Scheduler examines machines in a random order until it has found “enough” feasible machines to score, and then selects the best within that set. Scheduling a cell’s entire workload from scratch typically took a few hundred seconds, but did not ﬁnish after more than 3 days when the these three techniques were disabled.
 
 ### Availability
 
@@ -124,13 +124,12 @@ Increasing utilization by a few percentage points can save millions of dollars.T
 
 - **Security** isolation: Linux chroot jail is the primary security isolation mechanism.
 
-- **Performance** isolation: All Borg tasks run inside a Linux cgroup-based resource container and the Borglet manipulates the container settings, giving much improved control because the OS kernel is in the loop. 
+- **Performance** isolation: All Borg tasks run inside a Linux cgroup-based resource container and the Borglet manipulates the container settings, giving much improved control because the OS kernel is in the loop.
 
-    - To help with overload and overcommitment, Borg tasks have an application class or appclass. High-priority latency-sensitive tasks receive the best treatment, and are capable of temporarily starving batch tasks for several seconds at a time. 
-    
-    - A second split is between compressible resources and non-compressible resources.
+  - To help with overload and overcommitment, Borg tasks have an application class or appclass. High-priority latency-sensitive tasks receive the best treatment, and are capable of temporarily starving batch tasks for several seconds at a time.
+  - A second split is between compressible resources and non-compressible resources.
 
-    - The standard Linux CPU scheduler (CFS) required substantial tuning to support both low latency and high utilization. Many of their applications use a thread-per-request model, which mitigates the effects of persistent load imbalances.
+  - The standard Linux CPU scheduler (CFS) required substantial tuning to support both low latency and high utilization. Many of their applications use a thread-per-request model, which mitigates the effects of persistent load imbalances.
 
 ### Related work
 
@@ -164,11 +163,11 @@ This section describes how the lessons in building Borg have been leveraged in d
 
 - The master is the kernel of a distributed system. It is more of a kernel sitting at the heart of an ecosystem of services that cooperate to manage user jobs, like the primary UI (Sigma), and services for admission control, vertical and horizontal autoscaling, re-packing tasks, periodic job submission (cron), workﬂow management, and archiving system actions for off-line querying. Kubernetes architecture goes further: it has an API server at its core that is responsible only for processing requests and manipulating the underlying state objects. The cluster management logic is built as small, composable micro-services that are clients of this API server, such as the replication controller, which maintains the desired number of replicas of a pod in the face of failures, and the node controller, which manages the machine lifecycle.
 
-
 ### PDF
 
-* [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
-* [Annotated copy](/assets/blog/borg/borg-annotated.pdf)
+- [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
+- [Annotated copy](/assets/blog/borg/borg-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #17 in this [series](https://anantjain.dev/#paper-reviews).

@@ -2,7 +2,7 @@
 title: "Two tales of retargeting ads"
 description: "Something tells me I don’t hate them that much anymore."
 date: "2015-03-14T09:46:26.734Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: true
 canonical_link: https://medium.com/@anant90/re-targeting-ads-are-growing-on-me-8a6e96a73a91
 redirect_from:

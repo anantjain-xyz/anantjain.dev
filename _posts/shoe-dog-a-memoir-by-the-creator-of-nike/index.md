@@ -2,7 +2,7 @@
 title: "Shoe Dog: A Memoir by the Creator of Nike"
 description: "Phil Knight"
 date: "2018-07-01T15:01:01.162Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/shoe-dog-a-memoir-by-the-creator-of-nike-d0c7325ebdf0
 redirect_from:

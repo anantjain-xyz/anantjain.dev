@@ -2,7 +2,7 @@
 title: "Bad Blood: Secret and Lies in a Silicon Valley Startup"
 description: "John Carreyrou"
 date: "2018-09-30T15:01:01.328Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/bad-blood-secret-and-lies-in-a-silicon-valley-startup-e66e18d97641
 redirect_from:

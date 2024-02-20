@@ -2,7 +2,7 @@
 title: "NextCon 2019"
 description: "Online AI Tech Talk Series"
 date: "2019-01-18T15:01:01.131Z"
-categories: ['Conference']
+categories: ["Conference"]
 published: true
 ---
 

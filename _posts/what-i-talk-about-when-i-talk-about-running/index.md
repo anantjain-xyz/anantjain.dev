@@ -2,7 +2,7 @@
 title: "What I Talk About When I Talk About Running"
 description: "Haruki Murakami"
 date: "2018-10-21T15:01:02.562Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/what-i-talk-about-when-i-talk-about-running-5ca1aad1c5e1
 redirect_from:

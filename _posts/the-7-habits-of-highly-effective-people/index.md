@@ -2,7 +2,7 @@
 title: "The 7 Habits of Highly Effective People"
 description: "Stephen Covey"
 date: "2018-01-28T16:01:03.115Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-7-habits-of-highly-effective-people-d5041a1842b5
 redirect_from:
@@ -19,7 +19,7 @@ The book is divided into three sections. The first three habits are internal. Th
 
 The first three habits are focussed on the mastery of your inner self.
 
-1.  **Be proactive:** Focus on your _Circle of Influence_ — things that you can actually do something about. Don’t sit and wait in reactive mode. Don’t let problems arise in your _Circle of Concern_ before taking action.
+1.  **Be proactive:** Focus on your *Circle of Influence* — things that you can actually do something about. Don’t sit and wait in reactive mode. Don’t let problems arise in your _Circle of Concern_ before taking action.
 2.  **Begin with the end in mind:** Write a personal mission statement. Envision what you want in the future, so you can work towards achieving it.
 3.  **Put first things first:** Look at everything you do and split them into four buckets according to what’s important and what’s urgent. Put them on a 2x2 graph. Important and urgent activities (Quadrant I) get done right away, but we usually procrastinate or slip on Important and not urgent activities (Quadrant II), and instead tend to spend time doing Not Important and Urgent activities (Quadrant III). Don’t let this happen. Needless to say, don’t waste time on Not Important and Not Urgent activities (Quadrant IV).
 

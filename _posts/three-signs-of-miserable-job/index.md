@@ -1,8 +1,8 @@
 ---
-title: 'The Three Signs of a Miserable Job'
-description: 'Patrick Lencioni'
-date: '2020-08-02'
-categories: ['Book Review']
+title: "The Three Signs of a Miserable Job"
+description: "Patrick Lencioni"
+date: "2020-08-02"
+categories: ["Book Review"]
 published: true
 ---
 

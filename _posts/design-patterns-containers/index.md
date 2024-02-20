@@ -1,8 +1,8 @@
 ---
-title: 'Design patterns for container-based distributed systems'
-description: 'Google'
-date: '2020-10-17'
-categories: ['Paper Review']
+title: "Design patterns for container-based distributed systems"
+description: "Google"
+date: "2020-10-17"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -36,15 +36,15 @@ This paper describes three types of design patterns that we have observed emergi
 
 Beyond the interface of a single container, we also see design patterns emerging that span containers. These single-node patterns consist of symbiotic containers that are co-scheduled onto a single host machine. Container management system support for co-scheduling multiple containers as an atomic unit, an abstraction Kubernetes calls “Pods” and Nomad [11] calls “task groups,” is thus a required feature for enabling the patterns we describe in this section.
 
-- **Sidecar Pattern:** The first and most common pattern for multi-container deployments is the sidecar pattern. Sidecars extend and enhance the main container. Sidecars are possible because containers on the same machine can share a local disk volume. 
-    - While it is always possible to build the functionality of a sidecar container into the main container, there are several benefits to using separate containers. first, the container is the unit of resource accounting and allocation, so for example a web server container’s cgroup can be configured so that it provides consistent low latency responses to queries, while the logsaver container is configured to scavenge spare CPU cycles when the web server is not busy.
-    - Second, the container is the unit of packaging, so separating serving and log saving into different containers makes it easy to divide responsibility for their development between two separate programming teams, and allows them to be tested independently as well as together
-    - Third, the container is the unit of reuse, so sidecar containers can be paired with numerous different “main” containers
-    - Fourth, the container provides a failure containment boundary, making it possible for the overall system to degrade gracefully
-    - Lastly, the container is the unit of deployment, which allows each piece of functionality to be upgraded and, when necessary, rolled back, independently.
+- **Sidecar Pattern:** The first and most common pattern for multi-container deployments is the sidecar pattern. Sidecars extend and enhance the main container. Sidecars are possible because containers on the same machine can share a local disk volume.
+
+  - While it is always possible to build the functionality of a sidecar container into the main container, there are several benefits to using separate containers. first, the container is the unit of resource accounting and allocation, so for example a web server container’s cgroup can be configured so that it provides consistent low latency responses to queries, while the logsaver container is configured to scavenge spare CPU cycles when the web server is not busy.
+  - Second, the container is the unit of packaging, so separating serving and log saving into different containers makes it easy to divide responsibility for their development between two separate programming teams, and allows them to be tested independently as well as together
+  - Third, the container is the unit of reuse, so sidecar containers can be paired with numerous different “main” containers
+  - Fourth, the container provides a failure containment boundary, making it possible for the overall system to degrade gracefully
+  - Lastly, the container is the unit of deployment, which allows each piece of functionality to be upgraded and, when necessary, rolled back, independently.
 
 - **Ambassador pattern:** Ambassador containers proxy communication to and from a main container. This container pattern simplifies the programmer’s life in three ways: they only have to think and program in terms of their application connecting to a single server on localhost, they can test their application standalone by running a real memcache instance on their local machine instead of the ambassador, and they can reuse the twemproxy ambassador with other applications that might even be coded in different languages. Ambassadors are possible because containers on the same machine share the same localhost network interface.
-
 
 - **Adapter pattern:** In contrast to the ambassador pattern, which presents an application with a simplified view of the outside world, adapters present the outside world with a simplified, homogenized view of an application. A concrete example of the adapter pattern is adapters that ensure all containers in a system have the same monitoring interface. Applications today use a wide variety of methods to export their metrics (e.g. JMX, statsd, etc).
 

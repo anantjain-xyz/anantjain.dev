@@ -2,7 +2,7 @@
 title: "San Francisco"
 description: "It’s foggy"
 date: "2016-08-04T17:15:50.526Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: true
 canonical_link: https://medium.com/@anant90/san-francisco-90a43ade57e1
 redirect_from:

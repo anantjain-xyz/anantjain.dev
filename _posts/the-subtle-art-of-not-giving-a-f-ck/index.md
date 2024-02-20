@@ -2,7 +2,7 @@
 title: "The Subtle Art of Not Giving a F*ck"
 description: "Mark Manson"
 date: "2018-05-13T15:01:01.495Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-subtle-art-of-not-giving-a-f-ck-884bee2b64ac
 redirect_from:
@@ -24,7 +24,7 @@ This book is full of great ideas and examples. To keep this post short, I had a 
 7.  **Don’t compare:** Our lives today are filled with information from the extremes of the bell curve of human experience. The best of the best, worst of the worst, and most upsetting of the upsetting. We only see the most exceptional news stories because that’s what drives revenue. This is a real problem when it comes to comparison because you can only be exceptional in one thing thing and you’re going to be below average in nearly everything else. That makes comparison a very dangerous game to play.
 8.  **You’re not special:** People who are exceptional become that way by thinking they are average and focusing on improvement. You don’t become exceptional by believing you are exceptional. Self-awareness is like an onion. There are multiple layers to it, and the more you peel them back, the more likely you’re going to start crying at inappropriate times.
 9.  **Manson’s Law of Avoidance:** The more something threatens your identity, the more you will avoid it. The more something threatens how you view yourself, the more you will avoid getting around to doing it.
-10.  **Commitment:** Investing deeply in one person, one place, one job, one activity might deny us the breadth of experience we’d like, but pursuing a breadth of experience denies us the opportunity to enjoy the rewards of depth of experience.
+10. **Commitment:** Investing deeply in one person, one place, one job, one activity might deny us the breadth of experience we’d like, but pursuing a breadth of experience denies us the opportunity to enjoy the rewards of depth of experience.
 
 This book is full of great life advice that you can read if you’re feeling uneasy about your choices so far. I certainly plan to revisit this book once in a while. But be warned — the amount of f-word usage will make you cringe once in a while:
 

@@ -2,7 +2,7 @@
 title: "The Mom Test"
 description: "Rob Fitzpatrick"
 date: "2020-05-10"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 ---
 
@@ -88,7 +88,7 @@ In this book, Rob Fitzpatrick will teach you how to talk to customers & learn if
 - The structure of separate problem/solution/sales conversations is critical for avoiding bias, but it’s important to realise that the first one doesn’t actually need to be a meeting. It works better as a chat.
 - **The Meeting Anti-Pattern is the tendency to relegate every opportunity for customer conversation into a calendar block.**
 - When you fail to push for advancement, you end up with zombie leads: potential customers (or investors) who keep taking meetings and saying nice things, but who never seem to cut a check. It’s like your startup has been friend-zoned.
-- Commitment — They are showing they’re serious by giving up something they value such as time, reputation, or money. 
+- Commitment — They are showing they’re serious by giving up something they value such as time, reputation, or money.
 - Advancement — They are moving to the next step of your real-world funnel and getting closer purchasing.
 - It took me years to learn that there’s no such thing as a meeting which just “went well”. Every meeting either succeeds or fails.
 - The major currencies are time, reputation risk, and cash.
@@ -140,28 +140,31 @@ In this book, Rob Fitzpatrick will teach you how to talk to customers & learn if
 ## Symbols for note taking
 
 ### Emotion symbols
+
 ```
-:) Excited 
-:( Angry 
+:) Excited
+:( Angry
 :| Embarrassed
 ```
 
 ### Life symbols
+
 ```
-☇ Pain or problem (symbol is a lightning bolt) 
-⨅ Goal or job-to-be-done (symbol is a soccer/football goal) 
-☐ Obstacle 
-⤴ Workaround 
+☇ Pain or problem (symbol is a lightning bolt)
+⨅ Goal or job-to-be-done (symbol is a soccer/football goal)
+☐ Obstacle
+⤴ Workaround
 ^ Background or context (symbol is a distant mountain)
 ```
 
 These five “life” symbols are your bread and butter. Combine them with emotion symbols where appropriate. Pains and obstacles carry a lot more weight when someone is embarrassed or angry about them.
 
 ### Specifics symbols
+
 ```
-☑ Feature request or purchasing criteria 
-$ Money or budgets or purchasing process 
-♀ Mentioned a specific person or company 
+☑ Feature request or purchasing criteria
+$ Money or budgets or purchasing process
+♀ Mentioned a specific person or company
 ☆ Follow-up task
 ```
 
@@ -170,30 +173,34 @@ Where to write it down You want to take your customer notes so that they are: Ab
 ## Before, During, and After
 
 ### The process before a batch of conversations:
+
 - If you haven’t yet, choose a focused, findable segment
 - With your team, decide your big 3 learning goals
 - If relevant, decide on ideal next steps and commitments
-- If conversations are the right tool, figure out who to talk to 
-- Create a series of best guesses about what the person cares about 
-- If a question could be answered via desk research, do that first 
+- If conversations are the right tool, figure out who to talk to
+- Create a series of best guesses about what the person cares about
+- If a question could be answered via desk research, do that first
 
-### During the conversation: 
-- Frame the conversation 
-- Keep it casual 
-- Ask good questions which pass The Mom Test 
-- Deflect compliments, anchor fluff, and dig beneath signals 
-- Take good notes 
-- If relevant, press for commitment and next steps 
+### During the conversation:
 
-### After a batch of conversations: 
-- With your team, review your notes and key customer quotes 
-- If relevant, transfer notes into permanent storage 
-- Update your beliefs and plans 
-- Decide on the next 3 big questions 
+- Frame the conversation
+- Keep it casual
+- Ask good questions which pass The Mom Test
+- Deflect compliments, anchor fluff, and dig beneath signals
+- Take good notes
+- If relevant, press for commitment and next steps
+
+### After a batch of conversations:
+
+- With your team, review your notes and key customer quotes
+- If relevant, transfer notes into permanent storage
+- Update your beliefs and plans
+- Decide on the next 3 big questions
 
 Don’t spend a week prepping for meetings; spend an hour and then go talk to people. Anything more is stalling.
 
 ## Conclusion
+
 People love startups. Startups do cool stuff and make their lives better. When entrepreneurs screw up, people want to forgive them. They want the entrepreneur and the startup to succeed.
 
 _This is #54 in a series of book reviews published weekly on this site._

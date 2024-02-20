@@ -2,7 +2,7 @@
 title: "Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center"
 description: "UC, Berkeley"
 date: "2020-07-25"
-categories: ['Paper Review']
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -19,25 +19,28 @@ published: true
 - In this paper, the authors propose **Mesos**, a thin resource sharing layer that enables ﬁne-grained sharing across diverse cluster computing frameworks, by giving frameworks a common interface for accessing cluster resources.
 
 - Why is designing a scalable and efficient system that supports a wide array of both current and future frameworks challenging?
-    - First, each framework will have different scheduling needs, based on its programming model, communication pattern, task dependencies, and data placement.
-    - Second, the scheduling system must scale to clusters of tens of thousands of nodes running hundreds of jobs with millions of tasks.
-    - Third, because all the applications in the cluster depend on Mesos, the system must be fault-tolerant and highly available.
+
+  - First, each framework will have different scheduling needs, based on its programming model, communication pattern, task dependencies, and data placement.
+  - Second, the scheduling system must scale to clusters of tens of thousands of nodes running hundreds of jobs with millions of tasks.
+  - Third, because all the applications in the cluster depend on Mesos, the system must be fault-tolerant and highly available.
 
 - Why did Mesos not implement a centralized scheduler that takes as input framework require- ments, resource availability, and organizational policies, and computes a global schedule for all tasks?
-    - First, this design would be complex.
-    - Second, as new frameworks and new scheduling policies for current frameworks are constantly being developed, it is not clear whether we are even at the point to have a full speciﬁcation of framework requirements.
-    - Third, many existing frameworks implement their own sophisticated scheduling, and moving this functionality to a global scheduler would require expensive refactoring.
+
+  - First, this design would be complex.
+  - Second, as new frameworks and new scheduling policies for current frameworks are constantly being developed, it is not clear whether we are even at the point to have a full speciﬁcation of framework requirements.
+  - Third, many existing frameworks implement their own sophisticated scheduling, and moving this functionality to a global scheduler would require expensive refactoring.
 
 - Instead, Mesos takes a different approach: delegating control over scheduling to the frameworks. This is accomplished through a new abstraction, called a **resource offer**, which encapsulates a bundle of resources that a framework can allocate on a cluster node to run tasks.
-    - Mesos decides how many resources to offer each framework, while frameworks decide which resources to accept and which tasks to run on them.
-    - Resource offers are simple and efﬁcient to implement, allowing Mesos to be highly scalable and robust to failures.
+  - Mesos decides how many resources to offer each framework, while frameworks decide which resources to accept and which tasks to run on them.
+  - Resource offers are simple and efﬁcient to implement, allowing Mesos to be highly scalable and robust to failures.
 
 ![Resource offer example.](/assets/blog/mesos/resource-offer.png)
 
 - Mesos also provides other benefits to practitioners:
-    - Run multiple instances of that framework in the same cluster, or multiple versions of the framework.
-    - Provide a compelling way to isolate production and experimental Hadoop workloads and to roll out new versions of Hadoop.
-    - Immediately experiment with new frameworks.
+
+  - Run multiple instances of that framework in the same cluster, or multiple versions of the framework.
+  - Provide a compelling way to isolate production and experimental Hadoop workloads and to roll out new versions of Hadoop.
+  - Immediately experiment with new frameworks.
 
 - Mesos is implemented in 10,000 lines of C++ and scales to 50,000 (emulated) nodes and uses ZooKeeper for fault tolerance.
 
@@ -54,8 +57,9 @@ published: true
 ![Mesos architecture diagram, showing two running frameworks (Hadoop and MPI)](/assets/blog/mesos/mesos-architecture.png)
 
 - Pushing control of task scheduling and execution to the frameworks:
-    - First, it allows frameworks to implement diverse approaches to various problems in the cluster.
-    - Second, it keeps Mesos simple and minimizes the rate of change required of the system, which makes it easier to keep Mesos scalable and robust.
+
+  - First, it allows frameworks to implement diverse approaches to various problems in the cluster.
+  - Second, it keeps Mesos simple and minimizes the rate of change required of the system, which makes it easier to keep Mesos scalable and robust.
 
 - Authors expect higher-level libraries implementing common functionality (such as fault tolerance) to be built on top of Mesos.
 
@@ -71,61 +75,66 @@ published: true
 
 - Mesos does not require frameworks to specify their resource requirements or constraints. Instead, Mesos gives frameworks the ability to reject offers. A framework can reject resources that do not satisfy its constraints in order to wait for ones that do.
 
-- A framework may have to wait a long time before it receives an offer satisfying its constraints, and Mesos may have to send an offer to many frameworks before one of them accepts it. To avoid this, Mesos also allows frameworks to set *ﬁlters*, which are Boolean predicates specifying that a framework will always reject certain resources.
-    - Filters represent just a performance optimization.
-    - When the workload consists of ﬁne-grained tasks (e.g., in MapReduce and Dryad workloads), the resource offer model performs surprisingly well even in the absence of ﬁlters: A simple policy called delay scheduling, in which frameworks wait for a limited time to acquire nodes storing their data, yields nearly optimal data locality with a wait time of 1-5s.
+- A framework may have to wait a long time before it receives an offer satisfying its constraints, and Mesos may have to send an offer to many frameworks before one of them accepts it. To avoid this, Mesos also allows frameworks to set _ﬁlters_, which are Boolean predicates specifying that a framework will always reject certain resources.
+
+  - Filters represent just a performance optimization.
+  - When the workload consists of ﬁne-grained tasks (e.g., in MapReduce and Dryad workloads), the resource offer model performs surprisingly well even in the absence of ﬁlters: A simple policy called delay scheduling, in which frameworks wait for a limited time to acquire nodes storing their data, yields nearly optimal data locality with a wait time of 1-5s.
 
 - Mesos takes advantage of the fact that most tasks are short, and only reallocates resources when tasks ﬁnish. For example, if a framework’s share is 10% of the cluster, it needs to wait approximately 10% of the mean task length to receive its share. However, if a cluster becomes ﬁlled by long tasks, e.g., due to a buggy job or a greedy framework, the allocation module can also revoke (kill) tasks. Before killing a task, Mesos gives its framework a grace period to clean it up.
 
 - It is left up to the allocation module to select the policy for revoking tasks:
-    - It is harmful for frameworks with interdependent tasks (e.g., MPI).
-    - Letting allocation modules expose a guaranteed allocation to each framework — a quantity of resources that the framework may hold without losing tasks.
-    - If a framework is below its guaranteed allocation, none of its tasks should be killed, and if it is above, any of its tasks may be killed.
-    - Second, to decide when to trigger revocation, Mesos must know which of the connected frameworks would use more resources if they were offered them. Frameworks indicate their interest in offers through an API call.
+
+  - It is harmful for frameworks with interdependent tasks (e.g., MPI).
+  - Letting allocation modules expose a guaranteed allocation to each framework — a quantity of resources that the framework may hold without losing tasks.
+  - If a framework is below its guaranteed allocation, none of its tasks should be killed, and if it is above, any of its tasks may be killed.
+  - Second, to decide when to trigger revocation, Mesos must know which of the connected frameworks would use more resources if they were offered them. Frameworks indicate their interest in offers through an API call.
 
 - **Isolation**: by leveraging existing OS isolation mechanisms. Since these mechanisms are platform-dependent, they support multiple isolation mechanisms through pluggable isolation modules.
 
-- **Making Resource Offers Scalable and Robust**: 
-    - **Filters**: currently support two types of ﬁlters: “only offer nodes from list L” and “only offer nodes with at least R resources free”. Filters are Boolean predicates that specify whether a framework will reject one bundle of resources on one node, so they can be evaluated quickly on the master.
-    - Second, Mesos counts resources offered to a framework towards its allocation of the cluster.
-    - Third, if a framework has not responded to an offer for a sufﬁciently long time, Mesos rescinds the offer and re-offers the resources to other frameworks.
+- **Making Resource Offers Scalable and Robust**:
+
+  - **Filters**: currently support two types of ﬁlters: “only offer nodes from list L” and “only offer nodes with at least R resources free”. Filters are Boolean predicates that specify whether a framework will reject one bundle of resources on one node, so they can be evaluated quickly on the master.
+  - Second, Mesos counts resources offered to a framework towards its allocation of the cluster.
+  - Third, if a framework has not responded to an offer for a sufﬁciently long time, Mesos rescinds the offer and re-offers the resources to other frameworks.
 
 - **Fault Tolerance**:
-    - The master is designed to be *soft state*, so that a new master can completely reconstruct its internal state from information held by the slaves and the framework schedulers. The master’s only state is the list of active slaves, active frameworks, and running tasks.
-    - They run multiple masters in a hot-standby conﬁguration using ZooKeeper for leader election.
-    - Mesos reports node failures and executor crashes to frameworks’ schedulers. Frameworks can then react to these failures using the policies of their choice.
-    - Mesos allows a framework to register multiple schedulers such that when one fails, another one is notiﬁed by the Mesos master to take over.
+  - The master is designed to be _soft state_, so that a new master can completely reconstruct its internal state from information held by the slaves and the framework schedulers. The master’s only state is the list of active slaves, active frameworks, and running tasks.
+  - They run multiple masters in a hot-standby conﬁguration using ZooKeeper for leader election.
+  - Mesos reports node failures and executor crashes to frameworks’ schedulers. Frameworks can then react to these failures using the policies of their choice.
+  - Mesos allows a framework to register multiple schedulers such that when one fails, another one is notiﬁed by the Mesos master to take over.
 
 ### Mesos Behavior
 
 Mesos performs very well when frameworks can scale up and down elastically, tasks durations are homogeneous, and frameworks prefer all nodes equally. When different frameworks prefer different nodes, we show that Mesos can emulate a centralized scheduler that performs fair sharing across frameworks.
 
-- An *elastic* framework, such as Hadoop and Dryad, can scale its resources up and down, i.e., it can start using nodes as soon as it acquires them and release them as soon its task ﬁnish. In contrast, a *rigid* framework, such as MPI, can start running its jobs only after it has acquired a ﬁxed quantity of resources, and cannot scale up dynamically to take advantage of new resources or scale down without a large impact on performance. Elastic frameworks with constant task durations perform the best, while rigid frameworks with exponential task duration perform the worst.
+- An _elastic_ framework, such as Hadoop and Dryad, can scale its resources up and down, i.e., it can start using nodes as soon as it acquires them and release them as soon its task ﬁnish. In contrast, a _rigid_ framework, such as MPI, can start running its jobs only after it has acquired a ﬁxed quantity of resources, and cannot scale up dynamically to take advantage of new resources or scale down without a large impact on performance. Elastic frameworks with constant task durations perform the best, while rigid frameworks with exponential task duration perform the worst.
 
-- They also differentiate between two types of resources: *mandatory* and *preferred*.
+- They also differentiate between two types of resources: _mandatory_ and _preferred_.
 
 - For simplicity, we also assume that all tasks have the same resource demands and run on identical slices of machines called slots, and that each framework runs a single job.
 
 - How well Mesos will work compared to a central scheduler that has full information about framework preferences? There are two scenarios to judge:
-    - (a) there exists a system conﬁguration in which each framework gets all its preferred slots and achieves its full allocation. It is easy to see that, irrespective of the initial configuration, the system will converge to the state where each framework allocates its preferred slots after at most one mean task duration interval.
-    - (b) there is no such conﬁguration, i.e., the demand for some preferred slots exceeds the supply. Simply perform lottery scheduling, offering slots to frameworks with probabilities proportional to their intended allocations is an easy way to achieve the weighted allocation of the preferred slots described above.
 
-- For task durations, we consider both *homogeneous* and *heterogeneous* distributions.
-    - In the worst case, all nodes required by a short job might be ﬁlled with long tasks, so the job may need to wait a long time (relative to its execution time) to acquire resources.
-    - Random task assignment can work well if the fraction φ of long tasks is not very close to 1 and if each node supports multiple slots.
-    - Thus, a framework with short tasks can still acquire many preferred slots in a short period of time
-    - To further alleviate the impact of long tasks, Mesos can be extended slightly to allow allocation policies to reserve some resources on each node for short tasks. In particular, we can associate a maximum task duration with some of the resources on each node, after which tasks running on those resources are killed.
-    - This scheme is similar to the common policy of having a separate queue for short jobs in HPC clusters.
+  - (a) there exists a system conﬁguration in which each framework gets all its preferred slots and achieves its full allocation. It is easy to see that, irrespective of the initial configuration, the system will converge to the state where each framework allocates its preferred slots after at most one mean task duration interval.
+  - (b) there is no such conﬁguration, i.e., the demand for some preferred slots exceeds the supply. Simply perform lottery scheduling, offering slots to frameworks with probabilities proportional to their intended allocations is an easy way to achieve the weighted allocation of the preferred slots described above.
+
+- For task durations, we consider both _homogeneous_ and _heterogeneous_ distributions.
+
+  - In the worst case, all nodes required by a short job might be ﬁlled with long tasks, so the job may need to wait a long time (relative to its execution time) to acquire resources.
+  - Random task assignment can work well if the fraction φ of long tasks is not very close to 1 and if each node supports multiple slots.
+  - Thus, a framework with short tasks can still acquire many preferred slots in a short period of time
+  - To further alleviate the impact of long tasks, Mesos can be extended slightly to allow allocation policies to reserve some resources on each node for short tasks. In particular, we can associate a maximum task duration with some of the resources on each node, after which tasks running on those resources are killed.
+  - This scheme is similar to the common policy of having a separate queue for short jobs in HPC clusters.
 
 - **Framework incentives**: As with any decentralized system, it is important to understand the incentives of entities in the system. Mesos incentivizes frameworks as follows:
-    - Short tasks
-    - Scale elastically
-    - Do not accept unknown resources
+  - Short tasks
+  - Scale elastically
+  - Do not accept unknown resources
 - **Limitations** of Distributed Scheduling
 
-    - **Fragmentation**: clusters running “larger” nodes (e.g., multicore nodes) and “smaller” tasks within those nodes will achieve high utilization even with distributed scheduling. To accommodate frameworks with large per-task resource requirements, allocation modules can support a minimum offer size on each slave, and abstain from offering resources on the slave until this amount is free.
-    - **Interdependent framework constraints**: It is possible to construct scenarios where, because of esoteric interdependencies between frameworks (e.g., certain tasks from two frameworks cannot be co-located), only a single global allocation of the cluster performs well.
-    - **Framework complexity**: Using resource offers may make framework scheduling more complex. This difficulty is not onerous due to two reasons. First, whether using Mesos or a centralized scheduler, frameworks need to know their preferences. Second, many scheduling policies for existing frameworks are online algorithms, because frameworks cannot predict task times and must be able to handle failures and stragglers. These policies are easy to implement over resource offers.
+  - **Fragmentation**: clusters running “larger” nodes (e.g., multicore nodes) and “smaller” tasks within those nodes will achieve high utilization even with distributed scheduling. To accommodate frameworks with large per-task resource requirements, allocation modules can support a minimum offer size on each slave, and abstain from offering resources on the slave until this amount is free.
+  - **Interdependent framework constraints**: It is possible to construct scenarios where, because of esoteric interdependencies between frameworks (e.g., certain tasks from two frameworks cannot be co-located), only a single global allocation of the cluster performs well.
+  - **Framework complexity**: Using resource offers may make framework scheduling more complex. This difficulty is not onerous due to two reasons. First, whether using Mesos or a centralized scheduler, frameworks need to know their preferences. Second, many scheduling policies for existing frameworks are online algorithms, because frameworks cannot predict task times and must be able to handle failures and stragglers. These policies are easy to implement over resource offers.
 
 ### Implementation
 
@@ -181,12 +190,13 @@ They compared a scenario where the workloads ran as four frameworks on a 96-node
 
 ### Conclusion
 
-Mesos describes a distributed scheduling mechanism called resource offers that delegates scheduling decisions to the frameworks. 
+Mesos describes a distributed scheduling mechanism called resource offers that delegates scheduling decisions to the frameworks.
 
 ### PDF
 
-* [Original](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
-* [Annotated copy](/assets/blog/mesos/mesos-annotated.pdf)
+- [Original](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
+- [Annotated copy](/assets/blog/mesos/mesos-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #16 in this [series](https://anantjain.dev/#paper-reviews).

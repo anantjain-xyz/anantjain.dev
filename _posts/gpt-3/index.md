@@ -1,8 +1,8 @@
 ---
-title: 'Language Models are Few-Shot Learners (GPT-3)'
-description: 'Open AI'
-date: '2020-08-29'
-categories: ['Paper Review']
+title: "Language Models are Few-Shot Learners (GPT-3)"
+description: "Open AI"
+date: "2020-08-29"
+categories: ["Paper Review"]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: "Bigtable: A Distributed Storage System for Structured Data"
 description: "Google"
 date: "2020-05-16"
-categories: ['Paper Review']
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -60,11 +60,11 @@ published: true
 - A Bigtable cluster stores a number of tables. Each table consists of a set of tablets, and each tablet contains all data associated with a row range. Initially, each table consists of just one tablet. As a table grows, it is automatically split into multiple tablets, each approximately 100-200 MB in size by default.
 - A three-level hierarchy analogous to that of a B+tree stores tablet location information.
 - Bigtable uses Chubby to keep track of tablet servers. When a tablet server starts, it creates, and acquires an exclusive lock on, a uniquely-named file in a specific Chubby directory.
-- The master executes the following steps at startup. 
-    1. The master grabs a unique master lock in Chubby, which prevents concurrent master instantiations. 
-    2. The master scans the servers directory in Chubby to find the live servers.
-    3. The master communicates with every live tablet server to discover what tablets are already assigned to each server.
-    4. The master scans the `METADATA` table to learn the set of tablets. Whenever this scan encounters a tablet that is not already assigned, the master adds the tablet to the set of unassigned tablets, which makes the tablet eligible for tablet assignment.
+- The master executes the following steps at startup.
+  1. The master grabs a unique master lock in Chubby, which prevents concurrent master instantiations.
+  2. The master scans the servers directory in Chubby to find the live servers.
+  3. The master communicates with every live tablet server to discover what tablets are already assigned to each server.
+  4. The master scans the `METADATA` table to learn the set of tablets. Whenever this scan encounters a tablet that is not already assigned, the master adds the tablet to the set of unassigned tablets, which makes the tablet eligible for tablet assignment.
 - When the memtable size reaches a threshold, the memtable is frozen, a new memtable is created, and the frozen memtable is converted to an SSTable and written to GFS.
 
 ### Refinements
@@ -95,8 +95,9 @@ As of August 2006, there are 388 non-test Bigtable clusters running in various G
 
 ### PDF
 
-* [Original](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-* [Annotated copy](/assets/blog/bigtable/bigtable-annotated.pdf)
+- [Original](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- [Annotated copy](/assets/blog/bigtable/bigtable-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #6 in this [series](https://anantjain.dev/#paper-reviews).

@@ -1,8 +1,8 @@
 ---
-title: 'Immutability Changes Everything'
-description: 'Salesforce'
-date: '2020-06-27'
-categories: ['Paper Review']
+title: "Immutability Changes Everything"
+description: "Salesforce"
+date: "2020-06-27"
+categories: ["Paper Review"]
 published: true
 ---
 

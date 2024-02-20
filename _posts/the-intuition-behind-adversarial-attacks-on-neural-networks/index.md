@@ -2,7 +2,7 @@
 title: "The Intuition behind Adversarial Attacks on Neural Networks"
 description: "Are the machine learning models we use intrinsically flawed?"
 date: "2019-03-31T20:02:12.151Z"
-categories: ['AI']
+categories: ["AI"]
 published: true
 canonical_link: https://medium.com/@anant90/the-intuition-behind-adversarial-attacks-on-neural-networks-71fdd427a33b
 redirect_from:
@@ -38,8 +38,6 @@ Shortly after, another research group demonstrated various methods for construct
 ---
 
 _“Adversarial Patch”,_ a paper published at NIPS 2017 demonstrated how to generate a patch that can be placed anywhere within the field of view of the classifier and cause the classifier to output a targeted class. In the video below, a banana is correctly classified as a banana. Placing a sticker with a toaster printed on it is not enough to fool the network and it still continues to classify it as a banana. However, with a carefully constructed “adversarial patch”, it’s easy to trick the network into thinking that it’s a toaster:
-
-
 
 To quote the authors, “this attack was significant because the attacker does not need to know what image they are attacking when constructing the attack. After generating an adversarial patch, the patch could be widely distributed across the Internet for other attackers to print out and use.”
 

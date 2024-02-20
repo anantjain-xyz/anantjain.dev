@@ -2,7 +2,7 @@
 title: "Skin in The Game"
 description: "Nassim Nicholas Taleb"
 date: "2018-12-23T16:01:00.944Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/skin-in-the-game-9bf95b82c0ff
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ![](/assets/blog/skin-in-the-game/asset-1.png)
 
-In [Antifragile](https://anantjain.dev/antifragile-things-that-gain-from-disorder-8a0e86257edb), I mentioned that the book is part of Nassim Nicholas Taleb’s Incerto series. In 2018, Taleb added _Skin in the Game_ to this series.  I hopped onto the audiobook over the past week and was happy to find that while sticking to his fuck-you writing style, Taleb did a great job expanding on the ideas introduced over his last 3 books. Listening to this book felt like a quick summary, or rather, a re-read of his last three books and although no radically new ideas were presented here, it was still totally worth it.
+In [Antifragile](https://anantjain.dev/antifragile-things-that-gain-from-disorder-8a0e86257edb), I mentioned that the book is part of Nassim Nicholas Taleb’s Incerto series. In 2018, Taleb added _Skin in the Game_ to this series. I hopped onto the audiobook over the past week and was happy to find that while sticking to his fuck-you writing style, Taleb did a great job expanding on the ideas introduced over his last 3 books. Listening to this book felt like a quick summary, or rather, a re-read of his last three books and although no radically new ideas were presented here, it was still totally worth it.
 
 I’ll keep this one short and pick only five of my favorite ideas from the book:
 

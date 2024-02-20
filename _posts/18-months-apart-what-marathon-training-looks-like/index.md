@@ -2,7 +2,7 @@
 title: "18 Months Apart: What Marathon Training Looks Like"
 description: "18 Months Apart: from 2.2 to 26.2 miles"
 date: "2017-11-23T20:38:52.077Z"
-categories: ['Fitness']
+categories: ["Fitness"]
 published: true
 canonical_link: https://medium.com/@anant90/how-to-run-a-marathon-326ad1502e11
 redirect_from:

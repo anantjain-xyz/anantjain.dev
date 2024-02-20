@@ -1,8 +1,8 @@
 ---
-title: 'Dapper: a Large-Scale Distributed Systems Tracing Infrastructure'
-description: 'Google'
-date: '2020-06-20'
-categories: ['Paper Review']
+title: "Dapper: a Large-Scale Distributed Systems Tracing Infrastructure"
+description: "Google"
+date: "2020-06-20"
+categories: ["Paper Review"]
 published: true
 ---
 

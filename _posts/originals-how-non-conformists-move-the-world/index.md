@@ -2,7 +2,7 @@
 title: "Originals: How Non-Conformists Move the World"
 description: "Adam Grant"
 date: "2018-11-25T17:04:41.409Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/originals-how-non-conformists-move-the-world-db8f3c802762
 redirect_from:
@@ -21,7 +21,7 @@ The key to generating a few good ideas is to try to generate a lot of them —
 
 Adam starts off this section by claiming that first mover advantage is largely a myth. This is also closely related to the adage in startup industry that the best product doesn’t necessarily win, but the winning product eventually becomes the best product. Facebook was not the first social network, Google was not the first search engine and Apple almost went bankrupt in 1997. Watch out for products with network effects or patents protection — first mover advantage might matter there to some extent.
 
-Successful entrepreneurs are great at building a _balanced risk portfolio_ — instead of taking extreme, uncontrolled risks, it’s better to balance out the startup risk with something else more stable — many successful entrepreneurs kept their day jobs and worked on their ideas at nights and weekends till it got to a point where they were comfortable taking a leap.
+Successful entrepreneurs are great at building a *balanced risk portfolio* — instead of taking extreme, uncontrolled risks, it’s better to balance out the startup risk with something else more stable — many successful entrepreneurs kept their day jobs and worked on their ideas at nights and weekends till it got to a point where they were comfortable taking a leap.
 
 #### How to push original ideas in an organization
 

@@ -1,8 +1,8 @@
 ---
-title: 'Books read and listened to in 2020'
-description: '18 books and 12 audiobooks'
-date: '2020-12-31'
-categories: ['Book List']
+title: "Books read and listened to in 2020"
+description: "18 books and 12 audiobooks"
+date: "2020-12-31"
+categories: ["Book List"]
 published: true
 ---
 

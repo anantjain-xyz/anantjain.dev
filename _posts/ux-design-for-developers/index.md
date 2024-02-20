@@ -2,7 +2,7 @@
 title: "UX Design for Developers"
 description: "What are User Goals, Task Lists, User Flows, Empathy Maps & Journey Maps? How do you use these to make User Personas? How do you use all…"
 date: "2018-06-20T08:51:01.452Z"
-categories: ['UX']
+categories: ["UX"]
 published: true
 canonical_link: https://medium.com/@anant90/ux-design-for-developers-d3429200a1da
 redirect_from:
@@ -89,13 +89,13 @@ After creating Empathy maps and User Journey maps, the next step is to look for 
 
 First of all, let’s nail down what personas or profiles are **NOT**:
 
--   Personality types
--   Demographics
--   Characters in your “brand story”
--   Stereotypes based on your experience
--   Shallow or 1-dimensional
--   Concepts
--   Predictions
+- Personality types
+- Demographics
+- Characters in your “brand story”
+- Stereotypes based on your experience
+- Shallow or 1-dimensional
+- Concepts
+- Predictions
 
 So what is a user persona or profile?
 
@@ -121,9 +121,9 @@ All the information you need should be in your research and data. If you can’t
 
 #### Final few tips
 
--   Think of “Ideal” Users. Several of them!
--   When you think about features, think of the most valuable version of the users you see in real life. You’re not trying to support the current behavior; you’re trying to _nudge_ those users toward an “ideal” version of themselves.
--   Remember that all users are not alike! You will probably have a few different behavioral groups, and they all deserve a good profile.
+- Think of “Ideal” Users. Several of them!
+- When you think about features, think of the most valuable version of the users you see in real life. You’re not trying to support the current behavior; you’re trying to _nudge_ those users toward an “ideal” version of themselves.
+- Remember that all users are not alike! You will probably have a few different behavioral groups, and they all deserve a good profile.
 
 Here’s an example of a real persona:
 

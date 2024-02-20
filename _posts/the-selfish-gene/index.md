@@ -2,7 +2,7 @@
 title: "The Selfish Gene"
 description: "Richard Dawkins"
 date: "2018-02-25T16:01:00.863Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-selfish-gene-60d38c4e0e90
 redirect_from:

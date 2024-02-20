@@ -2,7 +2,7 @@
 title: "Architecture"
 description: "June 2017"
 date: "2017-06-18T07:01:01.124Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: true
 canonical_link: https://medium.com/@anant90/architecture-5f98cffeb747
 redirect_from:
@@ -21,7 +21,7 @@ The day of the exam arrived, and even though I had already appeared for the IIT 
 
 ![What 18 years of osmosis looks like](/assets/blog/architecture/asset-2.png)
 
-If my dad ever needed any paternity test, here it was. I don’t know how this happened, but I guess it’s safe to say that more than _nature, nurture_ was  responsible for this. Although I had already decided to pursue either Computer Science, or a related field at one of the IITs, this still made it a little hard to say goodbye to the profession of architecture once and for all.
+If my dad ever needed any paternity test, here it was. I don’t know how this happened, but I guess it’s safe to say that more than _nature, nurture_ was responsible for this. Although I had already decided to pursue either Computer Science, or a related field at one of the IITs, this still made it a little hard to say goodbye to the profession of architecture once and for all.
 
 It’s been 9 years since that summer of 2008, and I’ve had a stellar time doing what I do — but over the course of building and running startups, I keep running into aspects of design and business, and their inter-mingling that remind me of my dad’s professional life. And sometimes, every once in awhile, I wonder how life would have been had I chosen to be an Architect instead.
 

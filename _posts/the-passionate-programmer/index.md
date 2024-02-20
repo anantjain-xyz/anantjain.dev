@@ -2,7 +2,7 @@
 title: "The Passionate Programmer"
 description: "Chad Fowler"
 date: "2020-07-12"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 ---
 
@@ -13,6 +13,7 @@ If I were to create a list of essential reads for anyone about to start a career
 The key idea is to "think of your career as if it is the life cycle of a product that you are creating. That product is made up of you and your skills." The four facets that a business must focus on when designing, manufacturing, and selling a product are sections I-IV of the book (i.e., Choosing a market, Investing in your Product, Executing, and Marketing.) Each chapter is fairly short and is framed as a tip. More helpfully, each tip ends with an "Act on It" section that gives practical, usable tips on how to go about implementing the key idea in that chapter. Here's the TOC of the book, with a line or two about the key idea from the chapter quoted directly from the book:
 
 ### I. Choosing Your Market
+
 - **Tip 1. Lead or Bleed?**: Are there any technologies around the far edges that you have a special interest in?
 - **Tip 2. Supply and Demand**: You might choose to compete in segments of the job market in which there is actually lower demand. Alternatively, you could exploit market imbalances—going where the offshore companies won’t go. In either case, it pays to understand the forces at work and to be skilled and nimble enough to react to them.
 - **Tip 3. Coding Don’t Cut It Anymore**: If you want to stay relevant, you’re going to have to dive into the domain of the business you’re in.
@@ -25,8 +26,9 @@ The key idea is to "think of your career as if it is the life cycle of a product
 - **Tip 10. Love It or Leave It**: You have to be passionate about your work if you want to be great at your work. If you don’t care, it will show.
 
 ### II. Investing in Your Product
+
 - **Tip 11. Learn to Fish**: Ask for a fish, eat for a day. Ask someone to teach you to fish, eat for a lifetime. Better yet, don't ask to be taught — go learn for yourself!
-- **Tip 12. Learn How Businesses Really Work**: Understanding the financial drivers — and language — of your  company will give you the ability to make meaningful changes, rather than stabbing in the dark at things that seem intuitively right to you.
+- **Tip 12. Learn How Businesses Really Work**: Understanding the financial drivers — and language — of your company will give you the ability to make meaningful changes, rather than stabbing in the dark at things that seem intuitively right to you.
 - **Tip 13. Find a Mentor**: The first and most important purpose that a mentor serves is that of a role model. A mentor can also give structure to your learning process. A mentor can help take some of the choice out of what to focus your energies on.
 - **Tip 14. Be a Mentor**: We learn by teaching. If nothing, just start helping people, and the rest will come natuarally.
 - **Tip 15. Practice, Practice, Practice**: When you practice music, it shouldn’t sound good. If you always sound good during practice sessions, it means you’re not stretching your limits. That’s what practice is for. In the computer industry, it’s common to find developers stretched to their limits. Unfortunately, this is usually a case of a developer being underqualified for the tasks that he or she has undertaken. Our industry tends to practice on the job. If we’re going to try to compete based on quality, we have to stop treating our jobs as a practice session. We have to invest the time in our craft. Areas to practice: physical/coordination, sight reading, improvisation.
@@ -35,6 +37,7 @@ The key idea is to "think of your career as if it is the life cycle of a product
 - **Tip 18. Automate Yourself into a Job**: Automation is part of the DNA of our industry. Yet for some reason we don’t tend to automate our work as software developers.
 
 ### III. Executing
+
 - **Tip 19. Right Now**: Parkinson’s law is an empirical observation—not an unescapable human mandate. A sense of urgency, even if manufactured, is enough to easily double or triple your productivity. Try it, and you’ll see. You can do it faster. You can do it now. You can get it done instead of talking about getting it done. If you treat your projects like a race, you’ll get to the end a lot faster than if you treat them like a prison cell. Create movement. Be the one who pushes. Don’t get comfortable.
 - **Tip 20. Mind Reader**: For your next project or a system you maintain, start making some notes about what you think your users and managers are going to ask for.
 - **Tip 21. Daily Hit**: As with most tasks that are worth doing, becoming a standout performer is more likely with some specific and intentional work. When was the last time you went above and beyond the call of duty? Did your manager know about it? How can you increase the visible instances of this behavior? When you start to search for outstanding accomplishments, you naturally go through the process of evaluating and prioritizing your activities based on the business value of what you might work on. Tracking daily hits at a reasonably high frequency will ensure that you don’t get stuck: if you’re supposed to produce a hit per day, you can’t spend two weeks crafting the perfect task. You don’t have to worry so much about tracking your progress, because performing at this level becomes more akin to a nervous tic than a set of tasks that need to be planned out in Microsoft Project.
@@ -51,7 +54,8 @@ The key idea is to "think of your career as if it is the life cycle of a product
 - **Tip 32. Say It, Do It, Show It**: When you have too much to do, a plan can make the difference between confused ambiguity at the start of a workday and clear-headed confidence when attacking the tasks ahead.
 
 ### IV. Marketing… Not Just for Suits
-- **Tip 33. Perceptions, Perschmeptions**:  If you kick ass and no one is there to see, did you really kick ass? Who cares? No one. We’ve culturally trained ourselves to perceive that managing perception is somehow a dirty and shameful activity. But, as you can see, managing perception is just practical. Perceptions really do matter. They keep you employed (or unemployed). They get you promoted or get you stuck in the same job for years. They give you raises or lowball you on salary. The sooner you get over yourself and learn to manage perceptions, the sooner you’ll be on the right track.
+
+- **Tip 33. Perceptions, Perschmeptions**: If you kick ass and no one is there to see, did you really kick ass? Who cares? No one. We’ve culturally trained ourselves to perceive that managing perception is somehow a dirty and shameful activity. But, as you can see, managing perception is just practical. Perceptions really do matter. They keep you employed (or unemployed). They get you promoted or get you stuck in the same job for years. They give you raises or lowball you on salary. The sooner you get over yourself and learn to manage perceptions, the sooner you’ll be on the right track.
 - **Tip 34. Adventure Tour Guide**: Instead of feeling like you are the computer genius, descending from computer heaven to save your poor customer from purgatory, turn the tables around. If you’re, for example, working in the insurance industry, think of your customer as a subject matter expert in insurance from which you have to learn in order to get your job done.
 - **Tip 35. Me Rite Reel Nice**: You’re going to be writing a lot. If so much of your job is going to involve writing, you better get good at it. More than ever, perceptions of you are going to be formed based on your writing ability. You may be a great coder, but if you can’t express yourself in words, you won’t be very effective on a distributed team. Communication, especially by means of writing, is the bottleneck through which all your wonderful ideas must pass. You are what you can explain.
 - **Tip 36. Being Present**: If you’re locked up in an office, accessible only by phone (if you answer) or e-mail and perhaps even working all hours of the night and sleeping late as a result, there’s no difference between you being onsite with your bosses and your customers and being offshore. You are missing a huge opportunity to become a sticky fixture in your company.
@@ -64,6 +68,7 @@ The key idea is to "think of your career as if it is the life cycle of a product
 - **Tip 44. Making the Hang**: The really good people won’t mind if you want to know them. People like to be appreciated, and they like to talk about the topics they are passionate about. The fact that they are the professional or the guru or the leader or the renowned author doesn’t change that they’re human and like to interact with other humans.
 
 ### V. Maintaining your Edge
+
 - **Tip 44. Already Obsolete**: Beware. Success breeds hubris, which breeds complacency. You have to start by realizing that even if you’re on the bleeding edge of today’s wave, you’re already probably behind on the next one. Looking ahead and being explicit about your skill development can mean the difference between being blind or visionary.
 - **Tip 45. You’ve Already Lost Your Job**: Don’t try to settle into the identity of a programmer. Or a designer. Or a tester. It’s good to have ambition, but don’t buy too heavily into a long, imagined future. You can’t afford to have tunnel vision with something too far off in the future.
 - **Tip 46. Path with No Destination**: The real meat of your career is not the promotions and salary advances. It’s the time you spend working toward those advances. Or, more important, it’s the time you spend working regardless of the advances.
@@ -73,7 +78,7 @@ The key idea is to "think of your career as if it is the life cycle of a product
 - **Tip 50. The South Indian Monkey Trap**: Find your monkey traps—What are your rigid assumptions? What are those values that guide your daily actions without you even consciously knowing it?
 - **Tip 51. Avoid Waterfall Career Planning**: Just as in software development, the cost of career change doesn’t have to be high. Sure, it might be hard to go from software testing to being a lawyer. But changing your direction from management to programming, or vice versa, isn’t hard. Nor is finding a new company to work for. Or moving to a different city.
 - **Tip 52. Better Than Yesterday**: If every day you do a little better than yesterday toward improving yourself, you’ll find that the otherwise ocean-sized proposition of building a remarkable career becomes more tractable.
-- **Tip 53. Go Independent**:  A big company makes a wonderful place to go and semi-retire for a while if you’re burned out. But if you’re striving to be remarkable (which you are!), a big company is a hard place to find the right groove in the same way a bakery is a bad place to try to work off your love handles. The solution? Go independent!
+- **Tip 53. Go Independent**: A big company makes a wonderful place to go and semi-retire for a while if you’re burned out. But if you’re striving to be remarkable (which you are!), a big company is a hard place to find the right groove in the same way a bakery is a bad place to try to work off your love handles. The solution? Go independent!
 
 ### Conclusion
 

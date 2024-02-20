@@ -2,7 +2,7 @@
 title: "Multiples of 11"
 description: "Sketch art"
 date: "2017-12-15T04:00:39.170Z"
-categories: ['Art']
+categories: ["Art"]
 published: true
 canonical_link: https://medium.com/@anant90/f-f7795d775f54
 redirect_from:

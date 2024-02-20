@@ -2,7 +2,7 @@
 title: "Being Mortal: Medicine and What Matters in the End"
 description: "Atul Gawande"
 date: "2018-11-11T16:01:01.123Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/being-mortal-medicine-and-what-matters-in-the-end-24c737f8250a
 redirect_from:

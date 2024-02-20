@@ -1,8 +1,8 @@
 ---
-title: 'The Making of a Manager'
-description: 'Julie Zhuo'
-date: '2020-08-09'
-categories: ['Book Review']
+title: "The Making of a Manager"
+description: "Julie Zhuo"
+date: "2020-08-09"
+categories: ["Book Review"]
 published: true
 ---
 

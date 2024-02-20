@@ -2,7 +2,7 @@
 title: "Trip № 3"
 description: "September 4, 2016. San Francisco."
 date: "2019-09-01T16:14:10.462Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: false
 canonical_link: https://medium.com/@anant90/trip-3-d036be9ad1a0
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 #### The journey is the destination
 
-Since there’s nowhere to really get to, it is the pursuit of something higher — _the journey_, that itself is the destination. As soon as you get somewhere, that somewhere loses its beauty and becomes your new reality. Pause and look around for a bit. The reality right now is so beautiful; it is almost a piece of art. But most people treat everyday life as if there’s nothing special to it, and that lets them aspire to get somewhere even better, somehow. And that aspiration is what makes it worth it all. That aspiration takes you on the journey. And that journey is the destination. That’s why you got to keep aspiring and keep moving. Since the act of walking, of doing things, of creating, of writing, is what makes it worth our while here on this one-time lease. You have to stay hungry. You have to stay foolish.
+Since there’s nowhere to really get to, it is the pursuit of something higher — *the journey*, that itself is the destination. As soon as you get somewhere, that somewhere loses its beauty and becomes your new reality. Pause and look around for a bit. The reality right now is so beautiful; it is almost a piece of art. But most people treat everyday life as if there’s nothing special to it, and that lets them aspire to get somewhere even better, somehow. And that aspiration is what makes it worth it all. That aspiration takes you on the journey. And that journey is the destination. That’s why you got to keep aspiring and keep moving. Since the act of walking, of doing things, of creating, of writing, is what makes it worth our while here on this one-time lease. You have to stay hungry. You have to stay foolish.
 
 #### Tourist in your own city
 

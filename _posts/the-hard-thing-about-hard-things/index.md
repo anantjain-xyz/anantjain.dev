@@ -2,7 +2,7 @@
 title: "The Hard Thing About Hard Things"
 description: "Ben Horowitz"
 date: "2018-09-02T15:01:01.071Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-hard-thing-about-hard-things-950e3c371743
 redirect_from:
@@ -17,18 +17,18 @@ A very quick note about Ben first. He founded LoudCloud in 1999 with Marc Andree
 
 Here are some of the top things I learned from this book:
 
--   **Treat your employees fairly** and always tell them the truth. CEOs should _Tell It Like It Is_ and ensure informal information and ideas are flowing freely in your company, instead of adopting the old management standard: “Don’t bring me a problem without bringing me a solution.” What if the employee cannot solve an important problem?
--   **Figuring out the right product** is the innovator’s job, not the customer’s. After the first line of code is written, decisions are no longer objective in the technology business.
--   **Startup CEOs should not play the odds.** When you are building a company, you must believe there is an answer and you cannot pay attention to your odds of finding it. You just have to find it. It matters not whether your chances are nine in ten or one in a thousand; your task is the same.
--   **You will have to lay people off at some point.** Hence, get your head right by focusing on the future of the company rather than the past. Be clear about why you need to lay people off. If it is because the company failed to hit its plan, then admit that failure.
+- **Treat your employees fairly** and always tell them the truth. CEOs should _Tell It Like It Is_ and ensure informal information and ideas are flowing freely in your company, instead of adopting the old management standard: “Don’t bring me a problem without bringing me a solution.” What if the employee cannot solve an important problem?
+- **Figuring out the right product** is the innovator’s job, not the customer’s. After the first line of code is written, decisions are no longer objective in the technology business.
+- **Startup CEOs should not play the odds.** When you are building a company, you must believe there is an answer and you cannot pay attention to your odds of finding it. You just have to find it. It matters not whether your chances are nine in ten or one in a thousand; your task is the same.
+- **You will have to lay people off at some point.** Hence, get your head right by focusing on the future of the company rather than the past. Be clear about why you need to lay people off. If it is because the company failed to hit its plan, then admit that failure.
 
 > **If you’re going to eat** shit**, don’t nibble.**
 
--   **It is crucial to create a good work environment.** This doesn’t matter as much when things go well, but it can be the difference between life and death of the startup when things go wrong. **Take care of the people, the products, and the profits — in that order.**
--   **Hire for strength rather than lack of weakness.** Have clear expectations of who you are hiring with a realization that there is something seriously wrong with every employee in your company (including you). Nobody is perfect.
--   **Involve multiple people in brainstorming but make the final decision solo.** Consensus-based decisions tend to sway the process away from strength and towards weakness.
--   **As a company grows, it is important to minimize politics within your organization.** Hire people with the right kind of ambition. Maintain strict policies and processes on organizational design, performance evaluations, promotions, and compensation.
--   **Every CEO of a startup should focus on what needs to be right rather than worrying about what is wrong.** One of the most difficult challenges is keeping your mind in check. You need to be able to move aggressively and decisively without acting insane.
+- **It is crucial to create a good work environment.** This doesn’t matter as much when things go well, but it can be the difference between life and death of the startup when things go wrong. **Take care of the people, the products, and the profits — in that order.**
+- **Hire for strength rather than lack of weakness.** Have clear expectations of who you are hiring with a realization that there is something seriously wrong with every employee in your company (including you). Nobody is perfect.
+- **Involve multiple people in brainstorming but make the final decision solo.** Consensus-based decisions tend to sway the process away from strength and towards weakness.
+- **As a company grows, it is important to minimize politics within your organization.** Hire people with the right kind of ambition. Maintain strict policies and processes on organizational design, performance evaluations, promotions, and compensation.
+- **Every CEO of a startup should focus on what needs to be right rather than worrying about what is wrong.** One of the most difficult challenges is keeping your mind in check. You need to be able to move aggressively and decisively without acting insane.
 
 ---
 

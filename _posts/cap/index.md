@@ -2,7 +2,7 @@
 title: "CAP Twelve Years Later: How the “Rules” Have Changed"
 description: "Eric Brewer"
 date: "2020-09-05"
-categories: ['Paper Review']
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -22,11 +22,11 @@ published: true
 
 - The general belief is that for wide-area systems, designers cannot forfeit P and therefore have a difficult choice between C and A.
 
-- In ACID, the C means that a transaction preserves  all  the  database  rules,  such  as  unique  keys.  In  contrast,the  C  in  CAP  refers  only  to  single‐copy  consistency,  a  strict subset  of  ACID  consistency.  ACID  consistency  also  cannot  be maintained  across  partitions—partition  recovery  will  need  to restore  ACID  consistency.
+- In ACID, the C means that a transaction preserves all the database rules, such as unique keys. In contrast,the C in CAP refers only to single‐copy consistency, a strict subset of ACID consistency. ACID consistency also cannot be maintained across partitions—partition recovery will need to restore ACID consistency.
 
-- Isolation (I). Isolation is at the core of the CAP theorem: if the system  requires  ACID  isolation,  it  can  operate  on  at  most  one side  during  a  partition.  Serializability  requires  communication  in general  and  thus  fails  across  partitions.  Weaker  definitions of  correctness  are  viable  across  partitions  via  compensation during partition recovery.
+- Isolation (I). Isolation is at the core of the CAP theorem: if the system requires ACID isolation, it can operate on at most one side during a partition. Serializability requires communication in general and thus fails across partitions. Weaker definitions of correctness are viable across partitions via compensation during partition recovery.
 
-- In general, running ACID transactions on each side of a partition makes recovery easier and enables a framework for compensating  transactions  that  can  be  used  for  recovery  from  a partition.
+- In general, running ACID transactions on each side of a partition makes recovery easier and enables a framework for compensating transactions that can be used for recovery from a partition.
 
 - The “2 of 3” view is misleading on several fronts:
 
@@ -38,7 +38,7 @@ published: true
 
 - Latency and partitions are deeply related
 
-- The partition decision:  cancel the operation and thus decrease availability,  or, proceed with the operation and thus risk inconsistency.
+- The partition decision: cancel the operation and thus decrease availability, or, proceed with the operation and thus risk inconsistency.
 
 - Pragmatically, a partition is a time bound on communication
 
@@ -46,9 +46,9 @@ published: true
 
 - If users cannot reach the service at all, there is no choice between C and A except when part of the service runs on the client.
 
-- These  systems  normally choose A over C and thus must recover from long partitions.
+- These systems normally choose A over C and thus must recover from long partitions.
 
-- Scope of consistency reflects the idea that, within some boundary,state  is  consistent,  but  outside  that  boundary  all  bets  are  off.
+- Scope of consistency reflects the idea that, within some boundary,state is consistent, but outside that boundary all bets are off.
 
 - In Google, the primary partition usually resides within one datacenter; however, Paxos is used on the wide area to ensure global consensus, as in Chubby,3 and highly available durable storage, as in Megastore.
 
@@ -62,7 +62,7 @@ published: true
 
 - The key idea is to manage partitions very explicitly, including not only detection, but also a specific recovery process and a plan for all of the invariants that might be violated during a partition
 
-- detect the start of a partition,  • enter an explicit partition mode that may limit some • initiate partition recovery when communication is operations, and  restored.
+- detect the start of a partition, • enter an explicit partition mode that may limit some • initiate partition recovery when communication is operations, and restored.
 
 - Systems that use a quorum are an example of this one-sided partitioning. One side will have a quorum and can proceed,but the other cannot. Systems that support disconnected operation clearly have a notion of partition mode, as do some atomic multicast systems, such as Java’s JGroups.
 
@@ -81,20 +81,21 @@ published: true
 - Thus, given the version vector history of both sides, the system can easily tell which operations are already in a known order and which executed concurrently
 
 - The designer must solve two hard problems during recovery:
+
   - the state on both sides must become consistent, and
   - there must be compensation for the mistakes made during partition mode.
 
 - Conversely, some systems can always merge conflicts by choosing certain operations. A case in point is text editing in Google Docs, which limits operations to applying a style and adding or deleting text. Thus, although the general problem of conflict resolution is not solvable,in practice, designers can choose to constrain the use of certain operations during partitioning so that the system can automatically merge state during recovery. Delaying risky operations is one relatively easy implementation of this strategy.
 
-- Recent work by Marc Shapiro and colleagues at INRIA has greatly improved the use of commutative operations for state convergence. The team has developed commutative replicated data types (CRDTs), a class of data structures that provably converge after a partition, and describe how to use these structures to mutative, or   • ensure that all operations during a partition are com  • represent values on a lattice and ensure that all operations during a partition are monotonically increasing with respect to that lattice.
+- Recent work by Marc Shapiro and colleagues at INRIA has greatly improved the use of commutative operations for state convergence. The team has developed commutative replicated data types (CRDTs), a class of data structures that provably converge after a partition, and describe how to use these structures to mutative, or • ensure that all operations during a partition are com • represent values on a lattice and ensure that all operations during a partition are monotonically increasing with respect to that lattice.
 
 - However, CRDTs can also implement partition-tolerant sets that both add and delete items. The essence of this approach is to maintain two sets: one each for the added and deleted items, with the difference being the set’s membership.
 
-- Regardless,  ATM  design  serves  as  a good  context  for  reviewing  some  of  the  challenges  involved  in compensating for invariant violations during a partition.
+- Regardless, ATM design serves as a good context for reviewing some of the challenges involved in compensating for invariant violations during a partition.
 
-- Instead, using stand-in mode (partition mode), modern ATMs limit the net withdrawal  to  at  most  k,  where  k  might  be  $200.  Below  this  limit,withdrawals work completely; when the balance reaches the limit,the system denies withdrawals. Thus, the ATM chooses a sophisticated limit on availability that permits withdrawals but bounds the risk.
+- Instead, using stand-in mode (partition mode), modern ATMs limit the net withdrawal to at most k, where k might be $200. Below this limit,withdrawals work completely; when the balance reaches the limit,the system denies withdrawals. Thus, the ATM chooses a sophisticated limit on availability that permits withdrawals but bounds the risk.
 
-- In  general,  because  of  communication  delays,  the  banking system depends not on consistency for correctness, but rather on auditing  and  compensation.
+- In general, because of communication delays, the banking system depends not on consistency for correctness, but rather on auditing and compensation.
 
 - There are various ways to fix the invariants, including trivial ways such as “last writer wins” (which ignores some updates), smarter approaches that merge operations, and human escalation
 
@@ -106,11 +107,11 @@ published: true
 
 - As newer techniques, such as version vectors and CRDTs, move into frameworks that simplify their use, this kind of optimization should become more widespread. However, unlike ACID transactions, this approach requires more thoughtful deployment relative to past strategies, and the best solutions will depend heavily on details about the service’s invariants and operations
 
-
 ### PDF
 
-* [Original](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
-* [Annotated copy](/assets/blog/cap/cap-annotated.pdf)
+- [Original](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
+- [Annotated copy](/assets/blog/cap/cap-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #22 in this [series](https://anantjain.dev/#paper-reviews).

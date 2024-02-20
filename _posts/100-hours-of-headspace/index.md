@@ -2,7 +2,7 @@
 title: "100 hours of Headspace"
 description: "Thoughts on my journey with Headspace so far"
 date: "2020-03-08"
-categories: ['Fitness']
+categories: ["Fitness"]
 published: true
 ---
 
@@ -11,6 +11,7 @@ Until recently, meditation had a marketing problem. It was too often confused to
 ![](/assets/blog/100-hours-of-headspace/hs.png)
 
 ## Meditation and associative activation
+
 I believe that the biggest win of meditating regularly is getting **associative activation** a little more under control. Daniel Kahneman describes associative activation in [Thinking Fast and Slow](/thinking-fast-and-slow/) as follows:
 
 ![](/assets/blog/100-hours-of-headspace/tfs.png)
@@ -20,6 +21,7 @@ Just like you can train a physical muscle, you can train your mind to wander awa
 When you meditate, you're learning to control your [_"System 1"_](/thinking-fast-and-slow/) — it tries to fire every associated thought to distract you from observing your breath, but you train yourself to quickly get your focus back. The more you practice, the earlier you realize that you're losing focus. You will still get lost eventually, but you keep increasing the time you can stay focussed before your mind starts off another chain reaction of associative activation.
 
 ## What's next for me
+
 I'm profoundly grateful to the folks at Headspace for introducing me to this amazing mental exercise. However, as more and more time has passed, I've realized that apps are just training wheels for beginners. Going forward, I'm going to try unguided meditation, and see where it takes me.
 
 > 1/ No apps, no noise, no guidance. Sit in a comfortable position first thing in the morning, back upright, but ok to use cushions etc.. One hour at a time, no less. Just surrender to and accept whatever happens. No energy for and no energy against. Resist and reject nothing.

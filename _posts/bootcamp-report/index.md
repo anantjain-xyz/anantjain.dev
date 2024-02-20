@@ -1,8 +1,8 @@
 ---
-title: 'Bootcamp Report'
-description: 'Compare coding bootcamps on metrics that matter.'
-date: '2019-09-01T15:01:01.131Z'
-categories: ['Side Project']
+title: "Bootcamp Report"
+description: "Compare coding bootcamps on metrics that matter."
+date: "2019-09-01T15:01:01.131Z"
+categories: ["Side Project"]
 published: false
 ---
 

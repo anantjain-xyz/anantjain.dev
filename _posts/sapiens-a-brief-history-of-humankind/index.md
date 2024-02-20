@@ -2,7 +2,7 @@
 title: "Sapiens: A Brief History of Humankind"
 description: "Yuval Noah Harari"
 date: "2018-04-15T15:01:01.083Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/sapiens-a-brief-history-of-humankind-af4aee2aaa04
 redirect_from:
@@ -39,9 +39,9 @@ About 12,000 years ago, we started domesticating plants and animals. Before Agri
 
 Now that you could feed and cram thousands into a village, and millions into a kingdom, mere food surplus wasn’t enough to get everyone to cooperate with each other. How do you divide the land and water? How do you settle disputes and conflicts? How do you act in times of drought or war? Next up, was birth of imagined orders like Christianity, democracy and capitalism. To make them believable, these imagined orders are
 
--   embedded in the material world,
--   shape our desires, and
--   are inter-subjective: they exist within the communication network linking the subjective consciousness of many individuals.
+- embedded in the material world,
+- shape our desires, and
+- are inter-subjective: they exist within the communication network linking the subjective consciousness of many individuals.
 
 When it comes to shaping our desires:
 

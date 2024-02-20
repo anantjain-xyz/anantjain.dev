@@ -2,7 +2,7 @@
 title: "Influence: The Psychology of Persuasion"
 description: "Robert B. Cialdini"
 date: "2018-02-18T16:01:01.018Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/influence-the-psychology-of-persuasion-4805ae32300f
 redirect_from:

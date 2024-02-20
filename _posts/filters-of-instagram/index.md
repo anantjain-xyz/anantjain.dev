@@ -2,7 +2,7 @@
 title: "Filters of Instagram"
 description: "Shots of San Francisco, with the filter used in bold."
 date: "2017-11-21T19:33:18.574Z"
-categories: ['Art']
+categories: ["Art"]
 published: true
 canonical_link: https://medium.com/@anant90/filters-of-instagram-b51fd4755e1
 redirect_from:
@@ -29,7 +29,7 @@ redirect_from:
 
 ---
 
-![Little Skillet has great **Nashville**\-style southern comfort food.](/assets/blog/filters-of-instagram/asset-6.jpeg)
+![Little Skillet has great **Nashville**-style southern comfort food.](/assets/blog/filters-of-instagram/asset-6.jpeg)
 
 ---
 

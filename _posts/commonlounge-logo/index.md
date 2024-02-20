@@ -2,7 +2,7 @@
 title: "The CommonLounge Logo"
 description: ""
 date: "2020-03-01T15:01:00.984Z"
-categories: ['Art']
+categories: ["Art"]
 published: true
 ---
 

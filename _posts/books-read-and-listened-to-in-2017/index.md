@@ -2,7 +2,7 @@
 title: "Books read and listened to in 2017"
 description: "18 books and 9 audiobooks"
 date: "2017-12-31T22:01:07.093Z"
-categories: ['Book List']
+categories: ["Book List"]
 published: true
 canonical_link: https://medium.com/@anant90/books-read-and-listened-to-in-2017-6c75a72af01b
 redirect_from:
@@ -22,15 +22,15 @@ redirect_from:
 7.  Things a Little Bird Told Me: Creative Secrets from the Co-Founder of Twitter. Biz Stone.
 8.  Common Stocks and Uncommon Profits and Other Writings. Philip Arthur Fisher.
 9.  Thinking, Fast and Slow. Daniel Kahneman. ([Review](https://anantjain.dev/thinking-fast-and-slow-d1ce7c58215b))
-10.  Don’t Make Me Think. Steve Krug. ([Review](https://anantjain.dev/dont-make-me-think/))
-11.  Rocket Surgery Made Easy. Steve Krug. ([Review](https://anantjain.dev/rocket-surgery-made-easy/))
-12.  Stumbling On Happiness. Daniel Gilbert. ([Review](https://anantjain.dev/stumbling-on-happiness-d64cb71b3691))
-13.  The Power of Moments: Why Certain Experiences Have Extraordinary Impact. Chip Heath and Dan Heath. ([Review](https://anantjain.dev/the-power-of-moments-857ed275fde2))
-14.  Siddhartha. Hermann Hesse.
-15.  Fantastic Beasts and Where to Find Them. J.K. Rowling.
-16.  The Pocket Universal Principles of Design. William Lidwell, Kritina Holden, Jill Butler.
-17.  The Design of Everyday Things. Don Norman. ([Review](https://anantjain.dev/the-design-of-everyday-things-56a16048e6e0))
-18.  How to Make Sense of Any Mess. Abby Covert.
+10. Don’t Make Me Think. Steve Krug. ([Review](https://anantjain.dev/dont-make-me-think/))
+11. Rocket Surgery Made Easy. Steve Krug. ([Review](https://anantjain.dev/rocket-surgery-made-easy/))
+12. Stumbling On Happiness. Daniel Gilbert. ([Review](https://anantjain.dev/stumbling-on-happiness-d64cb71b3691))
+13. The Power of Moments: Why Certain Experiences Have Extraordinary Impact. Chip Heath and Dan Heath. ([Review](https://anantjain.dev/the-power-of-moments-857ed275fde2))
+14. Siddhartha. Hermann Hesse.
+15. Fantastic Beasts and Where to Find Them. J.K. Rowling.
+16. The Pocket Universal Principles of Design. William Lidwell, Kritina Holden, Jill Butler.
+17. The Design of Everyday Things. Don Norman. ([Review](https://anantjain.dev/the-design-of-everyday-things-56a16048e6e0))
+18. How to Make Sense of Any Mess. Abby Covert.
 
 #### Audiobooks (9)
 

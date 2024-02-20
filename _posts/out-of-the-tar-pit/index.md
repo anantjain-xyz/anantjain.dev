@@ -1,8 +1,8 @@
 ---
-title: 'Out of the Tar Pit'
-description: 'Ben Moseley, Peter Marks'
-date: '2020-08-22'
-categories: ['Paper Review']
+title: "Out of the Tar Pit"
+description: "Ben Moseley, Peter Marks"
+date: "2020-08-22"
+categories: ["Paper Review"]
 published: true
 ---
 

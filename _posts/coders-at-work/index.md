@@ -2,7 +2,7 @@
 title: "Coders at Work"
 description: "Peter Seibel"
 date: "2020-08-23"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 ---
 
@@ -17,7 +17,6 @@ There are tons of gems in this book, so this is going to be a long one!
 - At the end of the day, ship the fucking thing! It's great to rewrite your code and make it cleaner and by the third time it'll actually be pretty. But that's not the point-you're not here to write code; you're here to ship products.
 
 - I think one of the most important things, for me anyway, when building something from the ground up like that is, as quickly as possible, getting the program to a state that you, the programmer, can use it. Even a little bit. Because that tells you where to go next in a really visceral way.
-                
 - As far as the assertions-how formally do you think? Some people just use ad hoc assertions-here's something that I think should be true here. And some people think very formally-functions have preconditions and postconditions and there are global invariants. Where are you on that scale?
 
 - Zawinski (on testing): Nah. We never did any of that. I did occasionally for some things. The date parser for mail headers had a gigantic set of test cases. Back then, at least, no one really paid a whole lot of attention to the standards. So you got all kinds of crap in the headers. And whatever you're throwing at us, people are going to be annoyed if their mail sorts wrong.
@@ -30,7 +29,7 @@ There are tons of gems in this book, so this is going to be a long one!
 
 - Someone described Google's App Engine as this generation's BASIC. Because this generation, everything is networked.
 
-- *Seibel*: Programs like that, the code base is pretty huge. When you look at something like that for fun, how deeply do you get into it? *Fitzpatrick*: Generally, I'll just pipe find into less and try to understand the directory structure. Then either something grabs my eye or I don't understand what something is. So I pick a random file and get a feel for it. Then I bounce around and wander aimlessly until I'm bored and then pick a new random spot to jump in.
+- _Seibel_: Programs like that, the code base is pretty huge. When you look at something like that for fun, how deeply do you get into it? _Fitzpatrick_: Generally, I'll just pipe find into less and try to understand the directory structure. Then either something grabs my eye or I don't understand what something is. So I pick a random file and get a feel for it. Then I bounce around and wander aimlessly until I'm bored and then pick a new random spot to jump in.
 
 - (On recruiting) Somebody who was passionate about something and had some side project. How did they maintain it and how serious did they get with it? Or do they do a lot of quick hacks and abandon them?
 
@@ -75,7 +74,6 @@ There are tons of gems in this book, so this is going to be a long one!
 ### Joe Armstrong (Erlang)
 
 - Over the years I've kind of made a generic mistake and the generic mistake is to not open the black box. To mentally think, this black box is so impenetrable and so difficult that I won't open it.
-                
 - I can't say beginner programmers should open up all these abstractions. But what I am saying is you should certainly consider the possibility of opening them. Not completely reject the idea. It's worthwhile seeing if the direct route is quicker than the packaged route.
 
 - There must be big commercial interests for whom it is very desirable that stuff won't work together. It creates thousands of jobs for consultants. And thousands of tools to solve problems that shouldn't exist. Problems that were solved years ago.
@@ -83,7 +81,6 @@ There are tons of gems in this book, so this is going to be a long one!
 - There are two changes and I think they're to do with the number of years you program. One is, when I was younger quite often I would write a program and work at it until it's finished. When it was finished I would stop working on it. It was done, finished. Then I'd get an insight-"Ah! Wrong! Idiot!" I'd rewrite it. Again: "Yeah, it's wrong"-rewrite
 
 - One that's tricky is slight spelling errors in variable names. So I choose variable names that are very dissimilar, deliberately, so that error won't occur. If you've got a long variable like personName and you've got personNames with an "s" on the end, that's a list of person names, that will be something that my eye will tend to read what I thought it should have been. And so I'd have personName and then listOfPeople.
-                
 - It's a motivating force to implement something; I really recommend it. If you want to understand C, write a C compiler. If you want to understand Lisp, write a Lisp compiler or a Lisp interpreter.
 
 - But despite everything the central core of functional programming is the idea of nonmutable state-that x isn't the name of a location in memory; it's a value. So it can't change. We say x equals three and you can't change it thereafter.
@@ -100,17 +97,17 @@ There are tons of gems in this book, so this is going to be a long one!
 
 - You were asking earlier what should one do to become a better programmer? Spend 20 percent of your time learning stuff-because it's compounded. Read Hamming's paper. It's good. Very good.
 
-- *Seibel*: What makes a good programmer? If you are hiring programmers-what do you look for? *Armstrong*: Choice of problem, I think. Are you driven by the problems or by the solutions? I tend to favor the people who say, "I've got this really interesting problem." Then you ask, "What was the most fun project you ever wrote; show me the code for this stuff. How would you solve this problem?"
+- _Seibel_: What makes a good programmer? If you are hiring programmers-what do you look for? _Armstrong_: Choice of problem, I think. Are you driven by the problems or by the solutions? I tend to favor the people who say, "I've got this really interesting problem." Then you ask, "What was the most fun project you ever wrote; show me the code for this stuff. How would you solve this problem?"
 
 - (Message passing vs. memory sharing for concurrency): The thing that is surprising is that it's more efficient in certain circumstances. What we did for the reasons of fault tolerance, turned out to be, in many circumstances, just as efficient or even more efficient than sharing.
 
 - I'm also very skeptical about implicit parallelism. Your programming language can have parallel constructs but if it doesn't map into hardware that's parallel, if it's just being emulated by your programming system, it's not a benefit. So there are three types of hardware parallelism:
   - There's pipeline parallelism-so you make a deeper pipeline in the chip so you can do things in parallel.
-  - There's data parallelism, which is not really parallelism but it has to do with cache behavior. If you want to make a C program go efficiently, if *p is on a I6-byte boundary, if you access *p, then the access to *(p + 1) is free, basically, because the cache line pulls it in.
+  - There's data parallelism, which is not really parallelism but it has to do with cache behavior. If you want to make a C program go efficiently, if *p is on a I6-byte boundary, if you access *p, then the access to \*(p + 1) is free, basically, because the cache line pulls it in.
   - The other source of real concurrency in the chip are multicores.
 
 ### Simon Peyton Jones (Haskell)
-                
+
 - People often ask, "What's the equivalent of UML diagrams for a functional language?" And I think the best answer I've ever been able to come up with is, it's the type system. When an object-oriented programmer might draw some pictures, I'm sitting there writing type signatures.
 
 - I think for some styles of programming you might want to use message passing. For others you might want to use Software Transactional Memory. For others data parallelism is much better.
@@ -130,13 +127,12 @@ There are tons of gems in this book, so this is going to be a long one!
 - I think it's also that I'm probably more goal-oriented. Knuth is good if you say, "I want to know everything about this subject." But usually I'm saying, "I want to know if A is better than B," or, "I want to know the asymptotic complexity of this, and once I've got that, I don't need all the details of how we got there."
 
 > One of the interesting things we found, when trying to predict how well somebody we've hired is going to perform when we evaluate them a year or two later, is one of the best indicators of success within the company was getting the worst possible score on one of your interviews. We rank people from one to four, and if you got a one on one of your interviews, that was a really good indicator of success. Ninety-nine percent of the people who got a one in one of their interviews we didn't hire. But the rest of them, in order for us to hire them somebody else had to be so passionate that they pounded on the table and said, "I have to hire this person because I see something in him that's so great, and this guy who thought he was no good is wrong, and I've got to stand up for him and put my reputation on the line."
-                
+
 ### Guy Steele (Common Lisp and Scheme)
 
 - Fred Brooks's Mythical Man-Month gave me some insights.
 
 - Knuth carefully laid out TeX: The Program so you could almost read it as a novel or something.
-                
 - Fred Brooks's saying about flowcharts and tables, saying, "Show me your interfaces and I won't need your code because it'll be redundant or irrelevant."
 
 - I realized as languages got more complicated they were really too big to design all at once and that languages would necessarily from now on undergo evolution because they were too big to design all at once or to implement all at once. And so I got to thinking that maybe for a really successful programming language, you need to design and plan for the social process as much as you design the technical features of the language and think about how those two things are going to interact.
@@ -144,7 +140,6 @@ There are tons of gems in this book, so this is going to be a long one!
 - There's this Huffman encoding problem. If you make something concise, something is going to have to be more verbose as a consequence.
 
 - We can't make it trivial, but I think we can make it easier to avoid mistakes of various kinds. A good example is overflow detection on arithmetic, or providing bignums instead of just letting 32-bit integers wrap around.
-                
 - Certainly, dealing with parallel processes has produced the most difficult-to-deal-with bugs.
 
 - You use proofs for the same reason you use data types, or for the same reason that mountain climbers use ropes. If all is well, you don't need them. But they increase the chance of catching it if something does go wrong.
@@ -196,7 +191,6 @@ There are tons of gems in this book, so this is going to be a long one!
 - One school of thought, which I think is probably pretty close to the way XP looks at it, that basically says that because requirements are going to change all the time, you shouldn't expect software to last. If the requirements change, you build something new. There is, I think, a certain amount of wisdom in that.
 
 - I think behind this perhaps is a mindset of software as expense vs. software as capital asset.
-                
 - And there is no such thing as a capital asset that doesn't require ongoing maintenance and investment. You should expect that there's going to be some cost associated with maintaining a growing library of reusable software.
 
 - What I see getting reused is either very small things-individual icons, individual web page designs-or very big things like entire languages or large applications with extension architectures like Apache or Mozilla.
@@ -213,7 +207,7 @@ There are tons of gems in this book, so this is going to be a long one!
 
 - And I had this little epiphany that the reason that I was having trouble finding another software project to get excited about was not that I was having trouble finding a project. It was that I wasn't excited about software anymore.
 
-### Ken Thompson (Unix)                
+### Ken Thompson (Unix)
 
 - Thompson went on, with Dennis Ritchie, to invent Unix, an endeavor for which he fully expected to be fired. He also invented the B programming language, the precursor to Dennis Ritchie's C. In 1983, Thompson and Ritchie received the Turing Award for their "development of generic operating systems theory and specifically for the implementation of the Unix operating system."
 
@@ -268,7 +262,6 @@ There are tons of gems in this book, so this is going to be a long one!
 ### Bernie Cosell (PDP-I)
 
 - I did something that they hadn't done-it was one of the things that I got known for around BBN, which is, I made things work.
-                
 - One other thing I think schools can do is the stuff that's in Knuth. I'm surrounded by people who think linked lists are magic. They don't know anything about the 83 different kinds of trees and why some are better than others. They don't understand about garbage collection. They don't understand about structures and things.
 
 - What you wanted to do with a design review was double-check that the parts that he thought he had right he did have right and potentially give him some insight on the parts that he didn't. Once I apprehended that-I was only like 20 or 2I-that seemed so obviously right, such an obvious good use of the senior talent doing the review.

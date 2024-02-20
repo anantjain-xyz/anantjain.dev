@@ -2,7 +2,7 @@
 title: "Rocket Surgery Made Easy"
 description: "Steve Krug"
 date: "2018-04-08T15:01:01.071Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/rocket-surgery-made-easy-f713083706a0
 redirect_from:
@@ -36,11 +36,11 @@ During a usability test, you will record the participant’s voice and the scree
 
 During the breaks between successive tests, ask the observers to write down the top 3 usability problems that they see. During the debriefing, focus ruthlessly on deciding to fix the most serious problems first. Here are a few other recommendations:
 
--   Keep a separate list of low-hanging fruit
--   Resist the impulse to add things — instead try to tweak your existing design to fix the problem
--   Take “new feature” requests with a grain of salt. Participants will often suggest new features, but when you probe them further, they themselves will admit that they more often than not themselves will use the features they are suggesting.
--   Ignore the problems where the user goes astray for a bit, but comes back on track by themselves.
--   Good design is a delicate balance, so when fixing a problem, ensure that you aren’t introducing new ones.
+- Keep a separate list of low-hanging fruit
+- Resist the impulse to add things — instead try to tweak your existing design to fix the problem
+- Take “new feature” requests with a grain of salt. Participants will often suggest new features, but when you probe them further, they themselves will admit that they more often than not themselves will use the features they are suggesting.
+- Ignore the problems where the user goes astray for a bit, but comes back on track by themselves.
+- Good design is a delicate balance, so when fixing a problem, ensure that you aren’t introducing new ones.
 
 #### Remote testing and unmoderated user testing
 

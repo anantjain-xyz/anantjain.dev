@@ -2,7 +2,7 @@
 title: "There is no such thing as computer-generated “art”"
 description: "Around a year ago, Christie’s, a British auction house, sold its first piece of computer-generated art, titled “Portrait of Edmond Belamy,”…"
 date: "2019-09-12T04:21:01.140Z"
-categories: ['Art']
+categories: ["Art"]
 published: true
 canonical_link: https://medium.com/@anant90/thing-is-no-such-thing-as-computer-generated-art-94d7b56bd46a
 redirect_from:

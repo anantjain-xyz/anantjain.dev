@@ -1,8 +1,8 @@
 ---
-title: 'How to Lead a Technical Reading Group'
-description: 'Cathy Wu, MIT'
-date: '2020-07-18'
-categories: ['Paper Review']
+title: "How to Lead a Technical Reading Group"
+description: "Cathy Wu, MIT"
+date: "2020-07-18"
+categories: ["Paper Review"]
 published: true
 ---
 

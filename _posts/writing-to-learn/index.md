@@ -2,7 +2,7 @@
 title: "Writing to Learn"
 description: "William Zinsser"
 date: "2018-09-09T15:01:00.984Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/writing-to-learn-9ed157c4fe4a
 redirect_from:

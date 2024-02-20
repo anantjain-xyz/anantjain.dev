@@ -1,8 +1,8 @@
 ---
-title: 'Availability in Globally Distributed Storage Systems'
-description: 'Google'
-date: '2020-10-24'
-categories: ['Paper Review']
+title: "Availability in Globally Distributed Storage Systems"
+description: "Google"
+date: "2020-10-24"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -136,10 +136,9 @@ Inside Google, the analysis described in this paper has provided a picture of da
 
 ### PDF
 
-* [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf)
-* [Annotated copy](/assets/blog/availability/availability-annotated.pdf)
+- [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf)
+- [Annotated copy](/assets/blog/availability/availability-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #27 in this [series](https://anantjain.dev/#paper-reviews).
-
-

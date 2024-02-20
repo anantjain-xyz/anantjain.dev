@@ -2,7 +2,7 @@
 title: "Make Time: How to Focus on What Matters Every Day"
 description: "Jake Knapp and John Zeratsky"
 date: "2018-10-07T15:01:01.788Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/make-time-how-to-focus-on-what-matters-every-day-e793d6544b24
 redirect_from:
@@ -17,10 +17,10 @@ As is usually the case with these kind of books, it’s somewhat possible to sum
 
 ![Source: [https://maketimebook.com/how-it-works/](https://maketimebook.com/how-it-works/)](/assets/blog/make-time-how-to-focus-on-what-matters-every-day/asset-2.png)
 
--   **Highlight:** Set a single intention at the start of each day. You’ll be more satisfied, joyful and effective. The highlight should take 60–90 minutes and will define your day. Of course, it’s not the only thing you’ll do over your day, but it’s the most important one.
--   **Laser:** Instead of relying on your willpower, create real, physical barriers around distractions to focus your attention like a laser beam on your highlight. Delete all the social apps from your phone.
--   **Energize:** Living a little more like prehistoric humans will enhance your mental and physical energy. Humans have been around for 200,000 years. Nothing much happened for 188,000 of those years — and suddenly, our hunter-gatherer bodies now find themselves stuck in front of a screen all day. Go with the flow of your DNA — move your body, talk to people, eat clean food and less sugar.
--   **Reflect:** Lastly, treat each of the 87 tactics in this book as a small scientific experiment on yourself, and reflect at the end of the day on what worked and what didn’t.
+- **Highlight:** Set a single intention at the start of each day. You’ll be more satisfied, joyful and effective. The highlight should take 60–90 minutes and will define your day. Of course, it’s not the only thing you’ll do over your day, but it’s the most important one.
+- **Laser:** Instead of relying on your willpower, create real, physical barriers around distractions to focus your attention like a laser beam on your highlight. Delete all the social apps from your phone.
+- **Energize:** Living a little more like prehistoric humans will enhance your mental and physical energy. Humans have been around for 200,000 years. Nothing much happened for 188,000 of those years — and suddenly, our hunter-gatherer bodies now find themselves stuck in front of a screen all day. Go with the flow of your DNA — move your body, talk to people, eat clean food and less sugar.
+- **Reflect:** Lastly, treat each of the 87 tactics in this book as a small scientific experiment on yourself, and reflect at the end of the day on what worked and what didn’t.
 
 There are a lot of tactics in this book, and to be honest, if you’re into productivity, health, and fitness like me, you would be aware of a majority of them. So I’ll list down five of my favorites that I incorporated into my life _after_ reading this book — either because they were new to me, or because I had put them off far too long.
 
@@ -37,8 +37,8 @@ Jake Knapp and John Zeratsky created the _Sprint_ process for solving problems b
 #### Links
 
 1.  The book’s website with links to other resources: [https://maketimebook.com](https://maketimebook.com)
-2.  Marc Andreessen’s Guide to Productivity (personal favorite): [https://pmarchive.com/guide\_to\_personal\_productivity.html](https://pmarchive.com/guide_to_personal_productivity.html)
-3.  My post on “_16 UX Design tools from the Sprint Proces_s”: [https://uxplanet.org/16-ux-design-tools-from-the-sprint-process-b6ca467b30ad](https://uxplanet.org/16-ux-design-tools-from-the-sprint-process-b6ca467b30ad)
+2.  Marc Andreessen’s Guide to Productivity (personal favorite): [https://pmarchive.com/guide_to_personal_productivity.html](https://pmarchive.com/guide_to_personal_productivity.html)
+3.  My post on “\_16 UX Design tools from the Sprint Proces_s”: [https://uxplanet.org/16-ux-design-tools-from-the-sprint-process-b6ca467b30ad](https://uxplanet.org/16-ux-design-tools-from-the-sprint-process-b6ca467b30ad)
 4.  My summary of the Sprint Process on Commomlounge: [https://www.commonlounge.com/discussion/254398b633444aa9b55bfa485ca29094](https://www.commonlounge.com/discussion/254398b633444aa9b55bfa485ca29094)
 
 ---

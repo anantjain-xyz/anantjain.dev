@@ -2,7 +2,7 @@
 title: "Outliers: The Story of Success"
 description: "Malcolm Gladwell"
 date: "2018-06-17T15:01:00.990Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/outliers-the-story-of-success-66cc3e63a5b7
 redirect_from:
@@ -39,7 +39,7 @@ Legacy is the values passed down from one generation to the next. These values d
 
 ---
 
-I’ll keep this review short and end it here. As always, I really enjoy Gladwell’s books and hopefully will get around to his last two books — _What the Dog Saw_ and _David and Goliath — _some day. Next week, I’ll review _How Will You Measure Your Life_ by Clayton M. Christensen, James Allworth, and Karen Dillon.
+I’ll keep this review short and end it here. As always, I really enjoy Gladwell’s books and hopefully will get around to his last two books — *What the Dog Saw* and _David and Goliath — _some day. Next week, I’ll review \_How Will You Measure Your Life_ by Clayton M. Christensen, James Allworth, and Karen Dillon.
 
 _This is #23 in a series of book reviews published weekly on this site._
 

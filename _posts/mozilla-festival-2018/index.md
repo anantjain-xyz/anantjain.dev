@@ -2,7 +2,7 @@
 title: "Mozilla Festival, 2018"
 description: "London"
 date: "2018-10-28T15:01:01.131Z"
-categories: ['Conference']
+categories: ["Conference"]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'The Pragmatic Programmer'
-description: 'Andrew Hunt and David Thomas'
-date: '2020-07-19'
-categories: ['Book Review']
+title: "The Pragmatic Programmer"
+description: "Andrew Hunt and David Thomas"
+date: "2020-07-19"
+categories: ["Book Review"]
 published: true
 ---
 

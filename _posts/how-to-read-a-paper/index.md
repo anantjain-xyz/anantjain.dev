@@ -1,8 +1,8 @@
 ---
-title: 'How to Read a Paper'
-description: 'S Keshav, U Waterloo'
-date: '2020-08-15'
-categories: ['Paper Review']
+title: "How to Read a Paper"
+description: "S Keshav, U Waterloo"
+date: "2020-08-15"
+categories: ["Paper Review"]
 published: true
 ---
 

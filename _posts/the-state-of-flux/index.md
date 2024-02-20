@@ -2,7 +2,7 @@
 title: "The State of Flux"
 description: "May 2016"
 date: "2017-05-28T21:55:20.735Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: true
 canonical_link: https://medium.com/@anant90/the-state-of-flux-c14295b6d503
 redirect_from:

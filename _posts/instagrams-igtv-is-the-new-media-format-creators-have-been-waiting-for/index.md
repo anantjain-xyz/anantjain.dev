@@ -2,7 +2,7 @@
 title: "Is Instagram’s IGTV the new media format creators have been waiting for?"
 description: "If change is the only thing constant in the world, it’s most pronounced in the ways we communicate and entertain ourselves. We’ve seen more…"
 date: "2018-06-22T14:15:40.950Z"
-categories: ['Tech']
+categories: ["Tech"]
 published: false
 canonical_link: https://medium.com/@anant90/instagrams-igtv-is-the-new-media-format-creators-have-been-waiting-for-4f5aa2ac93d5
 redirect_from:

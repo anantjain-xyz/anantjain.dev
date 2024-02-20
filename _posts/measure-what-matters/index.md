@@ -2,7 +2,7 @@
 title: "Measure What Matters"
 description: "John Doerr"
 date: "2018-08-05T15:01:01.330Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/measure-what-matters-9187e735b26f
 redirect_from:
@@ -25,11 +25,11 @@ OKRs are a goal setting system. Each quarter, the company as a whole, the teams,
 
 Here are a few points to note about OKRs:
 
--   Objectives are **ambitious**, and should feel somewhat uncomfortable.
--   Key Results are **measurable**; they should be easy to grade with a number (at Google, they use a 0–1.0 scale to grade each key result at the end of a quarter.)
--   OKRs are **public**; everyone in the company should be able to see what everyone else is working on (and how they did in the past.)
--   The “sweet spot” for an OKR grade is **.6 — .7**; if someone consistently gets 1.0, their OKRs aren’t ambitious enough. Low grades shouldn’t be punished; see them as data to help refine the next quarter’s OKRs.
--   OKRs are not synonymous with employee evaluations.
+- Objectives are **ambitious**, and should feel somewhat uncomfortable.
+- Key Results are **measurable**; they should be easy to grade with a number (at Google, they use a 0–1.0 scale to grade each key result at the end of a quarter.)
+- OKRs are **public**; everyone in the company should be able to see what everyone else is working on (and how they did in the past.)
+- The “sweet spot” for an OKR grade is **.6 — .7**; if someone consistently gets 1.0, their OKRs aren’t ambitious enough. Low grades shouldn’t be punished; see them as data to help refine the next quarter’s OKRs.
+- OKRs are not synonymous with employee evaluations.
 
 OKRs are great for the following four superpowers they bring to your team:
 

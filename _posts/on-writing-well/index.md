@@ -2,7 +2,7 @@
 title: "On Writing Well"
 description: "William Zinsser"
 date: "2018-07-08T15:01:01.574Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/on-writing-well-24235ff04dab
 redirect_from:
@@ -17,7 +17,7 @@ First and foremost, if you take nothing else from this book, take this:
 
 > Most writing is full of unnecessary words and those extra words make it harder and less enjoyable to read.
 
-Get rid of **clutter** and unnecessary words  that do nothing but distract the reader. The goal of stripping the writing down to the bare essentials is to make sure that what you’re saying actually gets across. Don’t inflate what needs no inflating: “with the possible exception of” (except), “due to the fact that” (because), “he totally lacked the ability to” (he couldn’t), “until such time as” (until), “for the purpose of” (for). Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice.
+Get rid of **clutter** and unnecessary words that do nothing but distract the reader. The goal of stripping the writing down to the bare essentials is to make sure that what you’re saying actually gets across. Don’t inflate what needs no inflating: “with the possible exception of” (except), “due to the fact that” (because), “he totally lacked the ability to” (he couldn’t), “until such time as” (until), “for the purpose of” (for). Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice.
 
 Second, once you take care of the clutter, make sure you have a good **lead**:
 

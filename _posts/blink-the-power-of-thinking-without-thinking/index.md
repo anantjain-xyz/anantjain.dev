@@ -2,7 +2,7 @@
 title: "Blink: The Power of Thinking Without Thinking"
 description: "Malcolm Gladwell"
 date: "2018-06-10T15:01:01.334Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/blink-the-power-of-thinking-without-thinking-c3a554181166
 redirect_from:
@@ -55,16 +55,14 @@ Here’s something fun for you to try next time you meet a person strongly opini
 
 Paul Ekman, a psychologist who created the Facial Action Coding System (FACS), claims that a lot of “thin slicing” can be done within seconds by unconsciously analyzing a person’s fleeting look called a **microexpression**. This section dived deep into the FACS and microexpressions. See a 90-second analysis below:
 
-
-
 “Ekman claims that the face is a rich source of what is going on inside our mind and although many facial expressions can be made voluntarily, our faces are also dictated by an involuntary system that automatically expresses our emotions.”
 
 #### Listening with Your Eyes
 
 The last chapter wraps up the two lessons of _Blink_ with the example of how symphony orchestras started recruiting women _only after_ they began conducting auditions with the musician behind a screen. It’s critical to remember that
 
--   we are often careless with our powers of rapid cognition…
--   … but, when confronted with our prejudices, we should take steps to control the environment in which this rapid cognition takes place, and thus control the rapid cognition.
+- we are often careless with our powers of rapid cognition…
+- … but, when confronted with our prejudices, we should take steps to control the environment in which this rapid cognition takes place, and thus control the rapid cognition.
 
 ---
 

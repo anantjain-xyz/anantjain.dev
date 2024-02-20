@@ -2,7 +2,7 @@
 title: "Contagious: Why Things Catch On"
 description: "Jonah Berger"
 date: "2018-03-04T16:01:01.809Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/contagious-why-things-catch-on-c4dfa405db14
 redirect_from:

@@ -2,7 +2,7 @@
 title: "Show Your Work"
 description: "Austin Kleon"
 date: "2018-07-29T15:01:00.993Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/show-your-work-39e6466c4273
 redirect_from:

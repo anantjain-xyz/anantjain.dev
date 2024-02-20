@@ -1,8 +1,8 @@
 ---
-title: 'Harvest, Yield, and Scalable Tolerant Systems'
-description: 'Armando Fox, Eric A. Brewer'
-date: '2020-09-19'
-categories: ['Paper Review']
+title: "Harvest, Yield, and Scalable Tolerant Systems"
+description: "Armando Fox, Eric A. Brewer"
+date: "2020-09-19"
+categories: ["Paper Review"]
 published: true
 ---
 

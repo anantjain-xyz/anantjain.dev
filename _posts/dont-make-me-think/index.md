@@ -2,7 +2,7 @@
 title: "Don’t Make Me Think"
 description: "Steve Krug"
 date: "2018-04-01T15:01:01.148Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/dont-make-me-think-4763547bc1cc
 redirect_from:
@@ -31,9 +31,9 @@ Much of our web use is motivated by the desire to save time. We scan pages inste
 
 Now that we have a better idea of how people use the web, we can look into how to design for users that are whizzing by:
 
--   Create a clear **visual hierarchy** that relies on prominence, grouping, and nesting of elements to provide cues.
--   **Stick to conventions** unless you know you have a better idea and everyone you show it to agrees.
--   Make obvious what is **clickable** on a page, and break up pages into clearly defined areas.
+- Create a clear **visual hierarchy** that relies on prominence, grouping, and nesting of elements to provide cues.
+- **Stick to conventions** unless you know you have a better idea and everyone you show it to agrees.
+- Make obvious what is **clickable** on a page, and break up pages into clearly defined areas.
 
 #### Krug’s second law of usability: Users like mindless choices
 
@@ -51,9 +51,9 @@ If you wanted to buy a chainsaw from a hardware store, imagine how you would go 
 
 Unlike our hardware store example, a website is not a physical space. This presents a few problems that make having good navigation necessary:
 
--   Websites have no sense of **scale**
--   Websites have no sense of **direction**
--   Websites have no sense of **location**
+- Websites have no sense of **scale**
+- Websites have no sense of **direction**
+- Websites have no sense of **location**
 
 Hence, when we want to return to something on a Website, instead of relying on a physical sense of where it is, we have to remember where it is in the conceptual hierarchy and then retrace our steps. This makes the home page, and a link to home page on navigation on every page extremely important — it’s the fixed north star that the users can return to if they get lost. In addition, navigation can tell us what’s in the website and how to use the site.
 
@@ -80,22 +80,22 @@ Very simply, make the search box a simple box with no options, but allow limitin
 
 If you’ve been blindfolded and locked in the trunk of a car, and then dumped on a page somewhere deep in your website, are you able to answer these questions without hesitation:
 
--   What site is this? (Site ID)
--   What page am I on?
--   What are the major sections of this site?
--   What are my options at this level?
--   Where am I in the scheme of things?
--   How can I search?
+- What site is this? (Site ID)
+- What page am I on?
+- What are the major sections of this site?
+- What are my options at this level?
+- Where am I in the scheme of things?
+- How can I search?
 
 #### What does your Home page need to do?
 
 As quickly and clearly as possible, your Home page has to answer the five questions every user has in their head when they enter the site for the first time:
 
--   What is this?
--   What do they have here?
--   What can I do here?
--   Why should I be here — and not somewhere else?
--   Where do I start if I want to search? if I want to browse? if I want to sample their best stuff?
+- What is this?
+- What do they have here?
+- What can I do here?
+- Why should I be here — and not somewhere else?
+- Where do I start if I want to search? if I want to browse? if I want to sample their best stuff?
 
 #### How to get the message across?
 

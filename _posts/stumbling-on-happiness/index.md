@@ -2,7 +2,7 @@
 title: "Stumbling on Happiness"
 description: "Daniel Gilbert"
 date: "2018-02-11T16:01:00.899Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/stumbling-on-happiness-d64cb71b3691
 redirect_from:

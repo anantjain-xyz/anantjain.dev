@@ -2,7 +2,7 @@
 title: "The Power of Habit"
 description: "Charles Duhigg"
 date: "2018-03-25T15:01:01.298Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-power-of-habit-25418fa8f832
 redirect_from:

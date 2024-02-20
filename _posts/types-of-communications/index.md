@@ -2,7 +2,7 @@
 title: "Types of communications"
 description: "A friend and I were discussing the explosion of startups that create a new communication protocol and thereby create a new network. Paul Graham in this small post from 2009 noted that Twitter is a…"
 date: "2016-08-22T03:39:30.285Z"
-categories: ['Tech']
+categories: ["Tech"]
 published: true
 canonical_link: https://anantjain.dev/-9b8dc08b6797
 redirect_from:
@@ -19,42 +19,40 @@ Snapchat is a more recent example - a new communication protocol that introduced
 
 ### Who participates in it?
 
--   Anonymous
--   Pseudonymous
--   Real life identity — phone number? email? FB/Twitter?
--   Bots
+- Anonymous
+- Pseudonymous
+- Real life identity — phone number? email? FB/Twitter?
+- Bots
 
 ### Who receives it?
 
--   Individuals
--   Groups (Gender, Orientation, Language, Geography, Interests)
--   Everyone
+- Individuals
+- Groups (Gender, Orientation, Language, Geography, Interests)
+- Everyone
 
 ### What is sent and received?
 
--   Text
--   Links
--   Photos
--   Gifs
--   Videos
--   Audios
--   Location
--   Polls
+- Text
+- Links
+- Photos
+- Gifs
+- Videos
+- Audios
+- Location
+- Polls
 
 #### Restrictions/Modifications
 
--   Length
--   Filters
--   Ephemeral
+- Length
+- Filters
+- Ephemeral
 
 ### What does the network look like?
 
--   Friends (Undirected)
--   Followers (Directed)
+- Friends (Undirected)
+- Followers (Directed)
 
 Next, I took these components and tried to componentize some of the more interesting networks that we have seen emerge over the past decade — Snapchat, Yik Yak/Secret/Whisper, Instagram, Whatsapp, Telegram, Facebook, Twitter, Reddit and finally Email!
-
-
 
 Now over to the more interesting part — where do the holes exist? If only it was this easy :)
 

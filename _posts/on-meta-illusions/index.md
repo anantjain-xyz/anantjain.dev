@@ -2,7 +2,7 @@
 title: "On meta-illusions"
 description: "And why you should not trust your brain"
 date: "2017-07-21T22:06:01.357Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: true
 canonical_link: https://medium.com/@anant90/on-meta-illusions-33e22ca00788
 redirect_from:

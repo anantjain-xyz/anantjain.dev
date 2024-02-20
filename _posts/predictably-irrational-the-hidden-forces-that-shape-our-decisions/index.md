@@ -2,7 +2,7 @@
 title: "Predictably Irrational: The Hidden Forces That Shape Our Decisions"
 description: "Dan Ariely"
 date: "2018-09-23T15:01:01.645Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/predictably-irrational-the-hidden-forces-that-shape-our-decisions-86c872d6e5a0
 redirect_from:

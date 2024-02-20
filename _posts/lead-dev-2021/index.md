@@ -2,7 +2,7 @@
 title: "LeadDev Live 2021 Notes"
 description: "Notes"
 date: "2021-09-14"
-categories: ['Notes']
+categories: ["Notes"]
 published: true
 ---
 
@@ -16,8 +16,8 @@ I'm a big fan of discussion panels where 4-5 experienced leaders come together t
 - "Yes, and" mentality over shutting things down.
 - Do you have any feedback for me? Ask someone for feedback, and publicize it.
 - Anonymous feedback may be useful.
-- Failure if you learn *significantly- new information in the semi-annual feedback cycle process. This should be a lagging indicator.
-- Continuous feedback: Recency bias is real. 
+- Failure if you learn \*significantly- new information in the semi-annual feedback cycle process. This should be a lagging indicator.
+- Continuous feedback: Recency bias is real.
 - Informal skip-level meetings is a good use of time.
 - Always ask: "Do you have any feedback for me?"
 - Don't have personal feelings about the feedback — the feedback is about the role, not the person.
@@ -28,7 +28,7 @@ I'm a big fan of discussion panels where 4-5 experienced leaders come together t
 - Walking around the floor: withdrawn colleagues => best way to find folks who you should work with.
 - What can I do to help you or What can I do to make your life better?
 - Exit interviews with skip levels.
-- Celebrate feedback – THANK  the person for giving you feedback.
+- Celebrate feedback – THANK the person for giving you feedback.
 
 ### [Crafting efficient on-call processes](https://leaddev.com/leaddev-live/crafting-efficient-call-processes)
 
@@ -43,7 +43,6 @@ I'm a big fan of discussion panels where 4-5 experienced leaders come together t
 - Always do on call retros.
 - Have spare capacity (80% resources committed, and no more)
 - Think of a group of people as a machine.
-
 
 ### [Cultivating effective cross-functional relationships](https://leaddev.com/leaddev-live/crafting-efficient-call-processes)
 
@@ -61,32 +60,32 @@ I'm a big fan of discussion panels where 4-5 experienced leaders come together t
 - Understand their language and what motivates them.
 - Build cheat sheets of various cultures.
 - Working with product managers:
-    - Relationship with product is paramount.
-    - Your first team is product, design, etc. — leadership of that group.
-    - The PM is your co-pilot.
-    - Have a regular touchpoint, weekly 1-1 with product manager + designer.
-    - Keeps the feedback loop shorter.
-    - Product is the end decision maker, but the whole team owns the product.
-    - Product is the voice of the customer? No, everyone is the voice of the customer.
-    - Engineering has people management responsibilities, but product managers do not. This is a potential power imbalance that has to be addressed — even more important to treat product's voices. To product managers, it should not feel like engineering is doing its own thing.
-    - Engineering is the executor. Increase your humility to listen more to product/design/data.
+  - Relationship with product is paramount.
+  - Your first team is product, design, etc. — leadership of that group.
+  - The PM is your co-pilot.
+  - Have a regular touchpoint, weekly 1-1 with product manager + designer.
+  - Keeps the feedback loop shorter.
+  - Product is the end decision maker, but the whole team owns the product.
+  - Product is the voice of the customer? No, everyone is the voice of the customer.
+  - Engineering has people management responsibilities, but product managers do not. This is a potential power imbalance that has to be addressed — even more important to treat product's voices. To product managers, it should not feel like engineering is doing its own thing.
+  - Engineering is the executor. Increase your humility to listen more to product/design/data.
 - Understand the other person's style — how do they prefer to receive information? Is it:
-    - No details?
-    - Summary now, details later?, or
-    - Details now?
+  - No details?
+  - Summary now, details later?, or
+  - Details now?
 - Legal is also part of your team.
 - What do you do when you have a dysfunctional relationship?
-    - Disarm.
-    - Build empathy.
-    - Get alignment on the common goal.
-    - Build relationship before there's a stressor.
-    - "You should dig your well before you're thirsty".
+  - Disarm.
+  - Build empathy.
+  - Get alignment on the common goal.
+  - Build relationship before there's a stressor.
+  - "You should dig your well before you're thirsty".
 - Recognize people's contributions: give people their flowers!
 - Warm fuzzies.
 - Lead with empathy. Come with an open heart.
 - Sales:
-    - Building right vs. building fast.
-    - Build trust before hand.
+  - Building right vs. building fast.
+  - Build trust before hand.
 
 ---
 

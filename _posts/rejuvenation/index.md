@@ -1,8 +1,8 @@
 ---
-title: 'Source Code Rejuvenation is not Refactoring'
-description: 'Peter Pirkelbauer, Damian Dechev, and Bjarne Stroustrup'
-date: '2020-09-12'
-categories: ['Paper Review']
+title: "Source Code Rejuvenation is not Refactoring"
+description: "Peter Pirkelbauer, Damian Dechev, and Bjarne Stroustrup"
+date: "2020-09-12"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -28,7 +28,7 @@ published: true
 
 - **Optimization:** The detection of workarounds and idioms can contribute a signiﬁcant factor to both the development cost of a compiler and the runtime, as the detection and transformation requires time. Automated source code migration that performs a one-time source code transformation to utilize the new language support enables optimizations that might be forgone otherwise.
 
-### Refactoring vs. Rejuvenation 
+### Refactoring vs. Rejuvenation
 
 - The term refactoring is derived from the mathematical term “factoring” and refers to ﬁnding multiple occurrences of similar code and factoring it into a single reusable function, thereby simplifying code comprehension and future maintenance tasks.
 
@@ -37,6 +37,7 @@ published: true
 - Refactoring is a computer assisted process that guarantees correctness, thereby enabling programmers to maintain and develop software more eﬃciently.
 
 - “Anti-patterns” and “code smells” are indicators of design deﬁciencies:
+
   - **Anti-patterns** are initially structured solutions that turn out to be more troublesome than anticipated. Examples for anti-patterns include the use of exception-handling for normal control-ﬂow transfer, ignoring exceptions and errors, magic strings, and classes that require their client-interaction occur in a particular sequence.
   - Source code that is considered structurally inadequate is said to suﬀer from **code smell**. Examples for “code smell” include repeated similar code, long and confusing functions (or methods), overuse of type tests and type casts.
 

@@ -2,7 +2,7 @@
 title: "The well-kept secret behind great UX: Usability Testing"
 description: "Whether you only have a prototype or a full-fledged product, it’s a really good idea to run monthly usability tests. These make sure that…"
 date: "2018-06-08T21:25:31.335Z"
-categories: ['UX']
+categories: ["UX"]
 published: true
 canonical_link: https://medium.com/@anant90/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3
 redirect_from:
@@ -26,10 +26,10 @@ In this post, I will introduce you to the kind of lightweight usability testing 
 
 The idea behind this is to:
 
--   Find a few participants
--   Ask them to come in and go through a list of [user flows](https://www.commonlounge.com/discussion/a916ed5af1354c8eb26ce23b3fcc9076) you want to test
--   Observe the problems they run into
--   Finally, make a list of issues to fix
+- Find a few participants
+- Ask them to come in and go through a list of [user flows](https://www.commonlounge.com/discussion/a916ed5af1354c8eb26ce23b3fcc9076) you want to test
+- Observe the problems they run into
+- Finally, make a list of issues to fix
 
 Sounds simple enough, but very few of us actually do it. The goal of this post is to make you confident enough to run at least one usability test session this month. I ran my first usability test only a year ago, and I must say it’s actually a lot of fun!
 
@@ -59,12 +59,12 @@ During a usability test, you will record the participant’s voice and their com
 
 During the breaks between successive tests, ask the observers to write down the **top 3 usability problems** that they saw. During the debriefing, focus ruthlessly on deciding to fix the most severe problems first. Here are a few other recommendations:
 
--   Keep a separate list of **low-hanging fruit.** These are the problems you can typically fix with one-line code changes, but have a huge impact on task completion rates. Joel Califa calls them “tiny wins”. Here’s an example:
+- Keep a separate list of **low-hanging fruit.** These are the problems you can typically fix with one-line code changes, but have a huge impact on task completion rates. Joel Califa calls them “tiny wins”. Here’s an example:
 
--   Resist the impulse to add things — instead, try to **tweak your existing design** to fix the problem.
--   **Take “new feature” requests with a grain of salt.** Participants will often suggest new features, but when you probe them further, they will admit that they will likely not use the features they are proposing. Instead, try to get to the root of the problem that the participant faced and was trying to fix on their own by suggesting that new feature.
--   Ignore the problems where the user goes astray for a bit but comes back on track by themselves. These are usually not worth investing much time unless you see a pattern across multiple participants.
--   **Good design is a delicate balance**, so when fixing a problem, ensure that you aren’t introducing new ones.
+- Resist the impulse to add things — instead, try to **tweak your existing design** to fix the problem.
+- **Take “new feature” requests with a grain of salt.** Participants will often suggest new features, but when you probe them further, they will admit that they will likely not use the features they are proposing. Instead, try to get to the root of the problem that the participant faced and was trying to fix on their own by suggesting that new feature.
+- Ignore the problems where the user goes astray for a bit but comes back on track by themselves. These are usually not worth investing much time unless you see a pattern across multiple participants.
+- **Good design is a delicate balance**, so when fixing a problem, ensure that you aren’t introducing new ones.
 
 ![](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-4.png)
 
@@ -76,10 +76,8 @@ Unmoderated user testing is another way to test, where you specify your website,
 
 #### Resources
 
--   You can download checklists, interview script, consent form, and a demo video at Steve Krug’s site here: [Downloads for Rocket Surgery Made Easy](http://www.sensible.com/downloads-rsme.html).
--   Here’s a Usability Test demo video from Google Ventures:
-
-
+- You can download checklists, interview script, consent form, and a demo video at Steve Krug’s site here: [Downloads for Rocket Surgery Made Easy](http://www.sensible.com/downloads-rsme.html).
+- Here’s a Usability Test demo video from Google Ventures:
 
 ![](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-5.png)
 

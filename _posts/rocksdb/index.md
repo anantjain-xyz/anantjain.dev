@@ -1,8 +1,8 @@
 ---
-title: 'Optimizing Space Amplification in RocksDB'
-description: 'Facebook'
-date: '2022-02-26'
-categories: ['Paper Review']
+title: "Optimizing Space Amplification in RocksDB"
+description: "Facebook"
+date: "2022-02-26"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -39,24 +39,25 @@ published: true
 - Compression: Key prefix encoding, Sequence ID garbage collection, Data compression, Dictionary-Based Compression
 
 - Tradeoffs/Tuning:
-    - Tiered compression: In our installations, a strong compression algorithm (like zlib or Zstandard) is typically used at the last level even though it incurs higher CPU overhead, because most (close to 90%) of the data is located at that level, yet only a small fraction of reads and writes go to it.
-    - Bloom filters
-    - Prefix Bloom filters 
+  - Tiered compression: In our installations, a strong compression algorithm (like zlib or Zstandard) is typically used at the last level even though it incurs higher CPU overhead, because most (close to 90%) of the data is located at that level, yet only a small fraction of reads and writes go to it.
+  - Bloom filters
+  - Prefix Bloom filters
 
 ### Conclusion
 
 A number of techniques were described for the first time:
+
 - dynamic LSM-tree level size adjustment based on current DB size;
 - tiered compression where different levels of compression are used at different LSM-tree levels;
 - use of a shared compression dictionary;
 - application of Bloom filters to key prefixes; and
 - use of different size multipliers at different LSMtree levels. Moreover, we believe this is the first time a storage engine based on an LSM-tree has been shown to have competitive performance on traditional OLTP workloads.
 
-
 ### PDF
 
-* [Original](http://cidrdb.org/cidr2017/papers/p82-dong-cidr17.pdf)
-* [Annotated copy](/assets/blog/rocksdb/rocksdb-annotated.pdf)
+- [Original](http://cidrdb.org/cidr2017/papers/p82-dong-cidr17.pdf)
+- [Annotated copy](/assets/blog/rocksdb/rocksdb-annotated.pdf)
 
 ---
+
 I love reading foundational papers in Computer Science and publish my notes here on this blog. This was post #36 in this [series](https://anantjain.dev/#paper-reviews).

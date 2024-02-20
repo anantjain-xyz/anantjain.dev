@@ -1,8 +1,8 @@
 ---
-title: 'Books read and listened to in 2019'
-description: '20 books and 22 audiobooks'
-date: '2019-12-31T22:07:30.867Z'
-categories: ['Book List']
+title: "Books read and listened to in 2019"
+description: "20 books and 22 audiobooks"
+date: "2019-12-31T22:07:30.867Z"
+categories: ["Book List"]
 published: true
 canonical_link: https://medium.com/@anant90/books-read-and-listened-to-in-2019-bdf98016776f
 redirect_from:

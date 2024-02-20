@@ -2,11 +2,11 @@
 title: "Free Startup Ideas"
 description: "A good way to come across startup ideas is to observe your own pain points and log them. So, I'm starting a public idea logbook here."
 date: "2020-02-17T13:16:00.944Z"
-categories: ['Tech']
+categories: ["Tech"]
 published: true
 ---
 
-*A good way to come across startup ideas is to observe your own pain points and log them. So, I'm starting a public idea logbook here. I'll keep adding to this thread over time.*
+_A good way to come across startup ideas is to observe your own pain points and log them. So, I'm starting a public idea logbook here. I'll keep adding to this thread over time._
 
 <a href="https://twitter.com/anantja_in/status/1171867648285540352">Link to thread on Twitter →</a>
 

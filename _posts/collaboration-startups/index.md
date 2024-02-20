@@ -2,7 +2,7 @@
 title: "Collaboration startups"
 description: ""
 date: "2020-03-01"
-categories: ['Tech']
+categories: ["Tech"]
 published: True
 ---
 
@@ -21,4 +21,4 @@ It seems like every other tech company is trying to become the first app you ope
 9. CRM: Affinity, Salesforce, Airtable...
 
 PS: A friend sent over [this fantastic post by Merci Victoria Grace
- from LSVP](https://medium.com/lightspeed-venture-partners/mapping-workplace-collaboration-startups-526915751b0e). This is the post I wanted to write here! But, since she's already done the hard work, I highly recommend you read that instead.
+from LSVP](https://medium.com/lightspeed-venture-partners/mapping-workplace-collaboration-startups-526915751b0e). This is the post I wanted to write here! But, since she's already done the hard work, I highly recommend you read that instead.

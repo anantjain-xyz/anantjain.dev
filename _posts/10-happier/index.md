@@ -2,7 +2,7 @@
 title: "10% Happier"
 description: "Dan Harris"
 date: "2018-07-15T15:01:01.131Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/10-happier-5d27ba69b185
 redirect_from:

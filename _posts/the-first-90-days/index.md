@@ -1,8 +1,8 @@
 ---
-title: 'The First 90 Days'
-description: 'Michael D. Watkins'
-date: '2020-07-05'
-categories: ['Book Review']
+title: "The First 90 Days"
+description: "Michael D. Watkins"
+date: "2020-07-05"
+categories: ["Book Review"]
 published: true
 ---
 

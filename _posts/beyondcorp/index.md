@@ -2,7 +2,7 @@
 title: "BeyondCorp: Design to Deployment at Google"
 description: ""
 date: "2020-05-09"
-categories: ['Paper Review']
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -19,6 +19,7 @@ The goal of Google’s BeyondCorp initiative is to improve the security with reg
 ![Architecture of the BeyondCorp Infrastructure Components](/assets/blog/beyondcorp/beyondcorp-architecture.png)
 
 These are the fundamental components of the BeyondCorp System:
+
 - Access requirements are organized into **Trust Tiers** representing levels of increasing sensitivity.
 - **Resources** are an enumeration of all the applications, services, and infrastructure that are subject to access control.
 - **Trust Inferer** is a system that continuously analyzes and annotates device state. The system sets the maximum trust tier accessible by the device and assigns the VLAN to be used by the device on the corporate network.
@@ -39,12 +40,13 @@ These are the fundamental components of the BeyondCorp System:
 - The exceptions model has resulted in an increased level of complexity in the BeyondCorp ecosystem, and over time, the answer to “why was my access denied?” has become less obvious.
 - Over-communication is also problematic: change-resistant users tend to overestimate the impact of changes and attempt to seek unnecessary exemptions.
 - As Google’s corporate infrastructure is evolving in many unrelated ways,
-it’s easy for users to conflate access issues with other ongoing efforts, which also slows remediation efforts and increases the operational load on support staff.
+  it’s easy for users to conflate access issues with other ongoing efforts, which also slows remediation efforts and increases the operational load on support staff.
 
 ### PDF
 
-* [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44860.pdf)
-* [Annotated copy](/assets/blog/beyondcorp/beyondcorp-annotated.pdf)
+- [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44860.pdf)
+- [Annotated copy](/assets/blog/beyondcorp/beyondcorp-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #5 in this [series](https://anantjain.dev/#paper-reviews).

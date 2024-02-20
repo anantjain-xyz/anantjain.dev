@@ -2,7 +2,7 @@
 title: "Homo Deus: A Brief History of Tomorrow"
 description: "Yuval Noah Harari"
 date: "2018-04-22T15:01:00.902Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/homo-deus-a-brief-history-of-tomorrow-fd8ba921a20f
 redirect_from:
@@ -55,7 +55,7 @@ If we take the really grand view of life, all other problems and developments ar
 
 ---
 
-Lastly, I decided to read these two books (Sapiens and Homo Deus) after watching a conversation titled **“Death is Optional”** between Yuval Noah Harari and Daniel Kahneman, the Nobel laureate who wrote _Thinking, Fast and Slow_ ([review](https://anantjain.dev/thinking-fast-and-slow-d1ce7c58215b)). It’s riveting to see two of the best minds riffing on a topic no less profound than the future that’s upon us. Here is the link: [https://www.edge.org/conversation/yuval\_noah\_harari-daniel\_kahneman-death-is-optional](https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional)
+Lastly, I decided to read these two books (Sapiens and Homo Deus) after watching a conversation titled **“Death is Optional”** between Yuval Noah Harari and Daniel Kahneman, the Nobel laureate who wrote _Thinking, Fast and Slow_ ([review](https://anantjain.dev/thinking-fast-and-slow-d1ce7c58215b)). It’s riveting to see two of the best minds riffing on a topic no less profound than the future that’s upon us. Here is the link: [https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional](https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional)
 
 _This is #15 in a series of book reviews published weekly on this site._
 

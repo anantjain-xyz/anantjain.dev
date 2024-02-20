@@ -1,8 +1,8 @@
 ---
-title: 'Still All on One Server: Perforce at Scale'
-description: 'Google'
-date: '2021-01-23'
-categories: ['Paper Review']
+title: "Still All on One Server: Perforce at Scale"
+description: "Google"
+date: "2021-01-23"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -36,17 +36,15 @@ published: true
 
 - **Reducing administrative load**: If you manage multiple servers, make all of them look the same. This means that accounts only have to be created once, and users have the same password on all servers. Invest in automating tasks. Move to longer Licensing terms. Share all information, and document everything.
 
-
 ### Conclusion
 
 There is some pain in being a pioneer: one recurring theme is that Perforce now provides solutions to many problems which we’ve already spent time designing our own solutions for, but this is minor.
 
 ### PDF
 
-* [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/39983.pdf)
-* [Annotated copy](/assets/blog/perforce/perforce-annotated.pdf)
+- [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/39983.pdf)
+- [Annotated copy](/assets/blog/perforce/perforce-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #32 in this [series](https://anantjain.dev/#paper-reviews).
-
-

@@ -2,7 +2,7 @@
 title: "Borg, Omega, and Kubernetes"
 description: "Lessons learned from three container-management systems over a decade at Google"
 date: "2020-04-11"
-categories: ['Paper Review']
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -32,22 +32,22 @@ Containerization transforms the data center from being machine-oriented to being
 
 - **Containers as the unit of management**:
 
-    - Building management APIs around containers rather than machines shifts the “primary key” of the data center from machine to application. Kubernetes provides key-value annotations stored in each object’s metadata that can be used to communicate application structure. Such annotations can be set by the container itself or other actors in the management system (e.g., the process rolling out an updated version of the container).
+  - Building management APIs around containers rather than machines shifts the “primary key” of the data center from machine to application. Kubernetes provides key-value annotations stored in each object’s metadata that can be used to communicate application structure. Such annotations can be set by the container itself or other actors in the management system (e.g., the process rolling out an updated version of the container).
 
-    - Monitoring is just one example. The application-oriented shift has ripple effects throughout the management infrastructure. The load balancers don’t balance traffic across machines; they balance across application instances. Logs are keyed by application, not machine, so they can easily be collected and aggregated across instances without pollution from multiple applications or system operations. We can detect application failures and more readily ascribe failure causes without having to disentangle them from machine-level signals.
+  - Monitoring is just one example. The application-oriented shift has ripple effects throughout the management infrastructure. The load balancers don’t balance traffic across machines; they balance across application instances. Logs are keyed by application, not machine, so they can easily be collected and aggregated across instances without pollution from multiple applications or system operations. We can detect application failures and more readily ascribe failure causes without having to disentangle them from machine-level signals.
 
-    - Finally, although so far we have focused on applications being 1:1 with containers, in reality we use nested containers that are co-scheduled on the same machine: the outermost one provides a pool of resources; the inner ones provide deployment isolation. In Borg, the outermost container is called a resource allocation, or alloc; in Kubernetes, it is called a **pod**. Kubernetes regularizes things and always runs an application container inside a top-level pod, even if the pod contains a single container.
+  - Finally, although so far we have focused on applications being 1:1 with containers, in reality we use nested containers that are co-scheduled on the same machine: the outermost one provides a pool of resources; the inner ones provide deployment isolation. In Borg, the outermost container is called a resource allocation, or alloc; in Kubernetes, it is called a **pod**. Kubernetes regularizes things and always runs an application container inside a top-level pod, even if the pod contains a single container.
 
 - **Orchestration is the beginning, not the end**:
 
-    - Kubernetes attempts to avert increased complexity by adopting a consistent approach to its APIs. Every Kubernetes object has three basic fields in its description: `ObjectMetadata`, `Specification` (or `Spec`), and `Status`. The `ObjectMetadata` is the same for all objects in the system; it contains information such as the object’s name, UID (unique identifier), an object version number (for optimistic concurrency control), and labels (key-value pairs, see below). The contents of `Spec` and `Status` vary by object type, but their concept does not: `Spec` is used to describe the desired state of the object, whereas `Status` provides read- only information about the current state of the object.
+  - Kubernetes attempts to avert increased complexity by adopting a consistent approach to its APIs. Every Kubernetes object has three basic fields in its description: `ObjectMetadata`, `Specification` (or `Spec`), and `Status`. The `ObjectMetadata` is the same for all objects in the system; it contains information such as the object’s name, UID (unique identifier), an object version number (for optimistic concurrency control), and labels (key-value pairs, see below). The contents of `Spec` and `Status` vary by object type, but their concept does not: `Spec` is used to describe the desired state of the object, whereas `Status` provides read- only information about the current state of the object.
 
-    - Kubernetes has three different forms of replicated pods:
-        - `ReplicationController`: run-forever replicated containers (e.g., web servers).
-        - `DaemonSet`: ensure a single instance on each node in the cluster (eg., logging agents).
-        - `Job`: a run-to-completion controller that knows how to run a (possibly parallelized) batch job from start to finish.
-    - The idea of a reconciliation controller loop is shared throughout Borg, Omega, and Kubernetes to improve the resiliency of a system: it compares a desired state (e.g., how many pods should match a label-selector query) against the observed state (the number of such pods that it can find), and takes actions to converge the observed and desired states. Because all action is based on observation rather than a state diagram, reconciliation loops are robust to failures and perturbations: when a controller fails or restarts it simply picks up where it left off.
-    - The design of Kubernetes as a combination of microservices and small control loops is an example of control through _choreography_ — achieving a desired emergent behavior by combining the effects of separate, autonomous entities that collaborate. This is a conscious design choice in contrast to a centralized _orchestration_ system, which may be easier to construct at first but tends to become brittle and rigid over time, especially in the presence of unanticipated errors or state changes.
+  - Kubernetes has three different forms of replicated pods:
+    - `ReplicationController`: run-forever replicated containers (e.g., web servers).
+    - `DaemonSet`: ensure a single instance on each node in the cluster (eg., logging agents).
+    - `Job`: a run-to-completion controller that knows how to run a (possibly parallelized) batch job from start to finish.
+  - The idea of a reconciliation controller loop is shared throughout Borg, Omega, and Kubernetes to improve the resiliency of a system: it compares a desired state (e.g., how many pods should match a label-selector query) against the observed state (the number of such pods that it can find), and takes actions to converge the observed and desired states. Because all action is based on observation rather than a state diagram, reconciliation loops are robust to failures and perturbations: when a controller fails or restarts it simply picks up where it left off.
+  - The design of Kubernetes as a combination of microservices and small control loops is an example of control through _choreography_ — achieving a desired emergent behavior by combining the effects of separate, autonomous entities that collaborate. This is a conscious design choice in contrast to a centralized _orchestration_ system, which may be easier to construct at first but tends to become brittle and rigid over time, especially in the presence of unanticipated errors or state changes.
 
 ### Things to avoid
 
@@ -67,8 +67,9 @@ Containerization transforms the data center from being machine-oriented to being
 
 ### PDF
 
-* [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
-* [Annotated copy](/assets/blog/borg-omega-kubernetes/borg-omega-kubernetes-annotated.pdf)
+- [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
+- [Annotated copy](/assets/blog/borg-omega-kubernetes/borg-omega-kubernetes-annotated.pdf)
 
 ---
+
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #1 in this [series](https://anantjain.dev/#paper-reviews).

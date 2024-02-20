@@ -2,7 +2,7 @@
 title: "Breaking neural networks with adversarial attacks"
 description: "Are the machine learning models we use intrinsically flawed?"
 date: "2019-02-09T12:49:41.958Z"
-categories: ['AI']
+categories: ["AI"]
 published: true
 canonical_link: https://medium.com/@anant90/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa
 redirect_from:

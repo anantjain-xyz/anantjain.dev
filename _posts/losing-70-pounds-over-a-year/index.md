@@ -2,7 +2,7 @@
 title: "Losing 70+ pounds over a year"
 description: "A framework for thinking about fat loss"
 date: "2017-05-06T19:03:23.140Z"
-categories: ['Fitness']
+categories: ["Fitness"]
 published: true
 canonical_link: https://medium.com/@anant90/losing-70-pounds-over-a-year-dd5e44d5a65b
 redirect_from:
@@ -39,9 +39,9 @@ One small note — everybody in the gym is there because they want to improv
 
 In April 2016 (236 lbs), three months after I had started the 5x5 workout, I had lost about 6 lbs of weight. I knew I needed to do more, and that losing fat is mostly about adopting a better diet and doing cardio. The problem: I hate doing any cardio in the gym since it usually gets too hot and stuffy for me. Around this time I came across this New York Times article: [How To Start Running](https://www.nytimes.com/well/guides/how-to-start-running), and I cannot thank the author enough for effectively introducing me to a form of cardio that I actually _love._ Top takeaways:
 
--   **First pick a race:** In April 2016, I gave myself 4 months to train for the San Francisco Half Marathon held near the end of July. That’s, couch to 13 miles in 4 months. It’s good to have an audacious goal, and it’s absolutely necessary for you to put down that non-refundable fee and make a concrete mental commitment to go through the distance. I like “_finishing a long distance race”_ as a goal since whether you finish or not is very binary and very public. You can’t make excuses, unlike other metrics.
--   **Run outside:** Running outside is much easier than running on a treadmill. You get some fresh air, you get to see other people, your brain is distracted on planning the route as lights change, and you’re not as stuffy as you would be in an indoor gym. Also, a protip: try light podcasts or audiobooks to distract yourself.
--   **The Walk-Run Method:** To get better at running, start with a 90 second run, followed by a 30 second walk, and keep alternating. If you can’t do this, it’s okay to walk the entire distance. Heck, it’s also okay to crawl if you have to in the end — but it’s about going through the distance you set for yourself. Forget the time and pace — that’s not for beginners.
+- **First pick a race:** In April 2016, I gave myself 4 months to train for the San Francisco Half Marathon held near the end of July. That’s, couch to 13 miles in 4 months. It’s good to have an audacious goal, and it’s absolutely necessary for you to put down that non-refundable fee and make a concrete mental commitment to go through the distance. I like “_finishing a long distance race”_ as a goal since whether you finish or not is very binary and very public. You can’t make excuses, unlike other metrics.
+- **Run outside:** Running outside is much easier than running on a treadmill. You get some fresh air, you get to see other people, your brain is distracted on planning the route as lights change, and you’re not as stuffy as you would be in an indoor gym. Also, a protip: try light podcasts or audiobooks to distract yourself.
+- **The Walk-Run Method:** To get better at running, start with a 90 second run, followed by a 30 second walk, and keep alternating. If you can’t do this, it’s okay to walk the entire distance. Heck, it’s also okay to crawl if you have to in the end — but it’s about going through the distance you set for yourself. Forget the time and pace — that’s not for beginners.
 
 **Takeaway:** The best cardio workout for you is the one that you actually end up doing. Running outside is the only cardio I happily look forward to. Also, if you don’t chuckle a little to yourself when you pick your audacious goal, it’s not audacious enough.
 
@@ -53,8 +53,8 @@ In April 2016 (236 lbs), three months after I had started the 5x5 workout, I had
 
 Another thing that I started in parallel in March 2016 was the Slow Carb Diet that a lot of you may have read about somewhere on the web. I list this last, but this one was definitely the hardest to follow, as well as _the most important component_ of fat loss for me. Tim Ferriss introduced the Slow Carb Diet in his book _The 4-Hour Body_, and although it’s not radically new, I think Tim’s genius lies in realizing that it is the easiest diet to stick to compared to any other low-carb plan. There are a bunch of summaries around the web, but when I read the book a long time ago, I made some notes and put them up [here](https://www.commonlounge.com/discussion/62384879d50b4a8b80bf5c729323f753/main). Two reasons I like it:
 
--   **You don’t count calories** — just change your default foods. If you’re hungry, it means you forgot to eat enough, and you’re doing it wrong. _Fat loss is not about starving yourself._
--   **You get a cheat day every week **— this is critical to keep you sane. Keep a list of everything that tempts you over the week, and go eat everything on that list on your Saturday. _#carbheaven._
+- **You don’t count calories** — just change your default foods. If you’re hungry, it means you forgot to eat enough, and you’re doing it wrong. _Fat loss is not about starving yourself._
+- **You get a cheat day every week **— this is critical to keep you sane. Keep a list of everything that tempts you over the week, and go eat everything on that list on your Saturday. _#carbheaven._
 
 Read the summary of the diet [here](https://anantjain.dev/the-slow-carb-diet-cb6950a2ca8), and follow it _to the letter_. This is important. You have to go all in for 6 days a week and make no excuses, or this won’t work. You’ll be tempted to abandon this diet, or abandon getting fit altogether. You’ll hit plateaus every few months, but despite that, I saw a consistent net 1.5 lbs per week loss for a whole year (which includes ~0.5 lb a week lean muscle gain from 5x5, so almost 2lbs of fat loss per week!)
 
@@ -68,7 +68,7 @@ One small note — The _Big Sugar industry_ (think Coca Cola, Pepsi etc.) is
 
 #### What’s next?
 
-I never set a goal weight and although I’m probably more fit than most of my friends and that should be good enough, but g_ood enough is the enemy of the best._ Every point in time I ask myself if this is the best possible version of me, and if the answer is no, there’s no reason for me to stop here. I’m training to run my first full marathon in October later this year, and I’ll keep researching and modifying my diet and workout routines over time to better suit that.
+I never set a goal weight and although I’m probably more fit than most of my friends and that should be good enough, but g*ood enough is the enemy of the best.* Every point in time I ask myself if this is the best possible version of me, and if the answer is no, there’s no reason for me to stop here. I’m training to run my first full marathon in October later this year, and I’ll keep researching and modifying my diet and workout routines over time to better suit that.
 
 Also, keep in mind that this is just one data point, one story amongst millions of people who have lost significant weight at some point of time in their lives. There’s no one regimen that is _correct_ or _optimum._ It all depends on you, your situation and your lifestyle. Don’t expect someone to write something that will work perfectly for you — you’ll actively have to do all you can to research what works best, and constantly iterate, calibrate and think about what you can do next to make yourself better. I’d like to end this with a story I saw in Charles Duhigg’s book, _The Power of Habit_:
 

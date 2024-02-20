@@ -2,7 +2,7 @@
 title: "How Will You Measure Your Life?"
 description: "Clayton M. Christensen, James Allworth, and Karen Dillon"
 date: "2018-06-24T15:01:00.917Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/how-will-you-measure-your-life-3bdd5f0708e8
 redirect_from:

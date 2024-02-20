@@ -2,7 +2,7 @@
 title: "Principles: Life and Work"
 description: "Ray Dalio"
 date: "2018-05-27T15:01:01.197Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/principles-life-and-work-1854406bb841
 redirect_from:
@@ -36,13 +36,13 @@ A fair warning: the book is overall very dry and not easy to read. At times, it 
 7.  **Remember that the WHO is More Important than the WHAT:** The most important decision for you to make is who you choose as your _“Responsible Parties”_: those responsible for goals, outcomes, and organizational machines at the highest levels.
 8.  **Hire Right, Because the Penalties for Hiring Wrong Are Huge:** When hiring, you have to match the person to your organization’s design. This borrows ideas from Life Principle #4, in that people are built are differently and are suitable for different jobs¹. Broadly speaking, hire well by paying attention to people’s track records, and hire those you want to share your life with. When it comes to compensation, provide both stability and opportunity and remember that consideration and generosity are more important than money. Cherish the great people you hire — think hard about how to keep them.
 9.  **Constantly Train, Test, Evaluate, and Sort People:** Everybody goes through a personal evolution over time. Your job is to provide constant feedback and evaluate accurately, not kindly. After all, _tough love²_ is the hardest and the most important type of love to give (but is never welcomed). Make the process open, evolutionary, and iterative. When judging someone, see how they operate and whether that way of operating sets them up for success in your organization. Finally, train, guardrail, or remove people; don’t rehabilitate them, don’t lower the bar.
-10.  **Manage as Someone Operating a Machine to Achieve a Goal:** For every case you deal with, your approach should have a twofold purpose: get closer to your goal, and train and test your machine (i.e., your people and your organizational design). Communicate the plan clearly, have clear metrics, clearly assign responsibilities, hold yourself and your people accountable, and treat everyone appropriately.
-11.  **Perceive and Don’t Tolerate Problems:** Be very specific about problems and don’t be afraid to fix the difficult things. Avoid the anonymous “we” and “they”, because they mask personal responsibility.
-12.  **Diagnose Problems to Get at Their Root Causes:** Diagnose continously and maintain an emerging synthesis. To diagnose well, ask the following questions: 1. Is the outcome good or bad? 2. Who is responsible for the outcome? 3. If the outcome is bad, is the _Responsible Party_ incapable, and/or is the design bad?
-13.  **Design Improvements to Your Machine to Get Around Your Problems:** Recognize that design is an iterative process. Almost everything will take more time and cost more money than you expect.
-14.  **Do What You Set Out to Do:** Work for goals that you and your organization are excited about, and thing about how your tasks connect to those goals. Use checklists, allow time for rest and renovation, and don’t get frustrated.
-15.  **Use Tools and Protocols to Shape How Work is Done:** Having systemized principles embedded in tools you use is especially valuable for an idea meritocracy to function well. Use tools to collect data and process it into conclusions and actions.
-16.  **Don’t Overlook (Corporate) Governance:** All organizations should have checks and balances. Remember, no governance system can substitute for a great partnership.
+10. **Manage as Someone Operating a Machine to Achieve a Goal:** For every case you deal with, your approach should have a twofold purpose: get closer to your goal, and train and test your machine (i.e., your people and your organizational design). Communicate the plan clearly, have clear metrics, clearly assign responsibilities, hold yourself and your people accountable, and treat everyone appropriately.
+11. **Perceive and Don’t Tolerate Problems:** Be very specific about problems and don’t be afraid to fix the difficult things. Avoid the anonymous “we” and “they”, because they mask personal responsibility.
+12. **Diagnose Problems to Get at Their Root Causes:** Diagnose continously and maintain an emerging synthesis. To diagnose well, ask the following questions: 1. Is the outcome good or bad? 2. Who is responsible for the outcome? 3. If the outcome is bad, is the _Responsible Party_ incapable, and/or is the design bad?
+13. **Design Improvements to Your Machine to Get Around Your Problems:** Recognize that design is an iterative process. Almost everything will take more time and cost more money than you expect.
+14. **Do What You Set Out to Do:** Work for goals that you and your organization are excited about, and thing about how your tasks connect to those goals. Use checklists, allow time for rest and renovation, and don’t get frustrated.
+15. **Use Tools and Protocols to Shape How Work is Done:** Having systemized principles embedded in tools you use is especially valuable for an idea meritocracy to function well. Use tools to collect data and process it into conclusions and actions.
+16. **Don’t Overlook (Corporate) Governance:** All organizations should have checks and balances. Remember, no governance system can substitute for a great partnership.
 
 #### Footnotes and observations
 

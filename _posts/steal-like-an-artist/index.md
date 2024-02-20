@@ -2,7 +2,7 @@
 title: "Steal Like an Artist"
 description: "Austin Kleon"
 date: "2018-07-22T15:01:01.481Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/steal-like-an-artist-275d7027429d
 redirect_from:

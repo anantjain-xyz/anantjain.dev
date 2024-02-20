@@ -2,7 +2,7 @@
 title: "On Writing: A Memoir of the Craft"
 description: "Stephen King"
 date: "2018-08-19T15:01:01.253Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/on-writing-a-memoir-of-the-craft-a037cd5cf928
 redirect_from:

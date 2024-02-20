@@ -1,8 +1,8 @@
 ---
-title: 'In Search of an Understandable Consensus Algorithm (Raft)'
-description: 'Stanford'
-date: '2021-02-20'
-categories: ['Paper Review']
+title: "In Search of an Understandable Consensus Algorithm (Raft)"
+description: "Stanford"
+date: "2021-02-20"
+categories: ["Paper Review"]
 published: true
 ---
 

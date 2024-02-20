@@ -2,7 +2,7 @@
 title: "We Need to Start Afresh with Online Education"
 description: "Learning should not stop once you graduate from high school or college. In fact, most of the skills required to be an effective producer…"
 date: "2018-06-06T14:04:29.744Z"
-categories: ['Tech', 'Education']
+categories: ["Tech", "Education"]
 published: true
 canonical_link: https://medium.com/@anant90/we-need-to-start-afresh-with-online-education-acc1c2969254
 redirect_from:
@@ -102,7 +102,7 @@ Learning something every day just for fun, because you enjoy seeing yourself get
 If some of these ideas resonated with you, please check out [Commonlounge](https://www.commonlounge.com) — a learning platform for the future that I’m working on. You’ll find many of the ideas above applied to it. I would love to hear your thoughts — you can leave a response below or talk to me on [Twitter](https://twitter.com/anantja_in):
 
 [**Anant Jain (@anantja_in) | Twitter**  
-_Co-founder, Commonlounge.com. Product person into startups, design, code, marathons, reading, writing…_twitter.com](https://twitter.com/anantja_in "https://twitter.com/anantja_in")[](https://twitter.com/anantja_in)
+\_Co-founder, Commonlounge.com. Product person into startups, design, code, marathons, reading, writing…\_twitter.com](https://twitter.com/anantja_in "https://twitter.com/anantja_in")[](https://twitter.com/anantja_in)
 
 ---
 

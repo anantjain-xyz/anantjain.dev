@@ -2,7 +2,7 @@
 title: "The Bed of Procrustes"
 description: "Nassim Nicholas Taleb"
 date: "2018-10-28T15:01:02.400Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-bed-of-procrustes-875aeb87e7de
 redirect_from:

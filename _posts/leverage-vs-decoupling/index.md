@@ -1,8 +1,8 @@
 ---
-title: 'Leverage vs. Decoupling'
-description: 'Thinking through tradeoffs is what makes software engineering so fun. Here’s an interesting one.'
-date: '2022-07-04'
-categories: ['Tech']
+title: "Leverage vs. Decoupling"
+description: "Thinking through tradeoffs is what makes software engineering so fun. Here’s an interesting one."
+date: "2022-07-04"
+categories: ["Tech"]
 published: true
 ---
 
@@ -10,8 +10,8 @@ published: true
 
 Your *managerial leverage* is your team's output divided by your team's size. To increase your managerial leverage, your team can do more with the same people or do the same with fewer people. You can do this by either:
 
--   increasing the productivity of the individuals or
--   increasing the leverage of the things they work on.
+- increasing the productivity of the individuals or
+- increasing the leverage of the things they work on.
 
 Let's consider the latter for this post. Assume your organization is in the middle of a long-running code migration (who isn't?) It could be a switch to microservices, a new framework, or a new pattern of writing code. In a well-managed, high-growth startup, it's hard to resource these migrations unless they also lead to an improvement for the customers. In other words, it's easier to work on projects where the work is leveraged --- make customers happier by shipping new features and make progress on a long-running migration "for free."
 

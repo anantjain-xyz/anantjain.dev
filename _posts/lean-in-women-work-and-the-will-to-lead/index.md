@@ -2,7 +2,7 @@
 title: "Lean in: Women, Work, and the Will to Lead"
 description: "Sheryl Sandberg"
 date: "2018-10-14T15:01:02.834Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/lean-in-women-work-and-the-will-to-lead-c014a047d6fc
 redirect_from:
@@ -43,4 +43,4 @@ At some level, it annoys me that books like _Lean In_ still need to be written a
 
 _This is #40 in a series of book reviews published weekly on this site._
 
-![Source: [https://www.ted.com/talks/sheryl\_sandberg\_why\_we\_have\_too\_few\_women\_leaders](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders)](/assets/blog/lean-in-women-work-and-the-will-to-lead/asset-2.jpeg)
+![Source: [https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders)](/assets/blog/lean-in-women-work-and-the-will-to-lead/asset-2.jpeg)

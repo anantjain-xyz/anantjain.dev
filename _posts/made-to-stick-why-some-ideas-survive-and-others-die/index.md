@@ -2,7 +2,7 @@
 title: "Made to Stick: Why Some Ideas Survive and Others Die"
 description: "Chip Heath and Dan Heath"
 date: "2018-03-11T16:01:01.770Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/made-to-stick-why-some-ideas-survive-and-others-die-6dbd00563d48
 redirect_from:

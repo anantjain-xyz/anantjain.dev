@@ -2,7 +2,7 @@
 title: "About Me"
 description: "Hi there 👋"
 date: "2017-07-02T05:23:01.771Z"
-categories: ['About']
+categories: ["About"]
 published: true
 canonical_link: https://medium.com/@anant90/low-pass-filter-e635e3e7e703
 redirect_from:
@@ -36,7 +36,7 @@ Before you go away, here are two more cool links about me: I put some of my more
 Here are two giant links below — come say hi!
 
 [**Anant Jain (@anantja_in) \* Instagram photos and videos**  
-_See Instagram photos and videos from Anant Jain (@anantja_in)_www.instagram.com](https://www.instagram.com/anantja_in/ "https://www.instagram.com/anantja_in/")[](https://www.instagram.com/anantja_in/)
+\_See Instagram photos and videos from Anant Jain (@anantja_in)\_www.instagram.com](https://www.instagram.com/anantja_in/ "https://www.instagram.com/anantja_in/")[](https://www.instagram.com/anantja_in/)
 
 [**Anant Jain (@anantja_in) | Twitter**  
 _The latest Tweets from Anant Jain (@anantja_in)._ twitter.com](https://twitter.com/anantja_in "https://twitter.com/anantja_in")[](https://twitter.com/anantja_in)

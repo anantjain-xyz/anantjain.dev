@@ -2,7 +2,7 @@
 title: "Deep Work"
 description: "Cal Newport"
 date: "2018-05-06T15:01:01.218Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/deep-work-c4a1b7232482
 redirect_from:
@@ -32,7 +32,7 @@ Deep Work is requisite in developing either of these abilities, making it a very
 
 Deep Work is **rare** because we tend towards behaviors that are easiest in the moment. Also, far too many of us fall into the trap of using busyness as a proxy for productivity. We have to watch out for both.
 
-Lastly, Cal makes a psychological argument for depth: Deep Work puts you in a _state of flow¹_ — the best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Deep Work lets you derive **meaning** and professional satisfaction from what you do.²
+Lastly, Cal makes a psychological argument for depth: Deep Work puts you in a *state of flow¹* — the best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Deep Work lets you derive **meaning** and professional satisfaction from what you do.²
 
 #### The Rules
 
@@ -47,12 +47,12 @@ Be done with your work by 5:30, or whatever cutoff works for you. Very rarely do
 
 #### Footnotes and links
 
--   ¹It seems impossible to read a non-fiction book without running into the concept of the _state of flow_ by Mihaly Csikszentmihalyi. This one’s very high on to-read list now. ([link](https://smile.amazon.com/dp/0060920432?tag=marandsblo-20&camp=0&creative=0&linkCode=as1&creativeASIN=0060920432&adclass=1YPJ51PQ4NMETWMDDBWQ&)).
--   ²This circles right back to the concept of finding meaningful work in Cal’s other _So Good They Cannot Ignore You_ book.
--   While we are on this topic, Paul Graham’s essay called “[Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html)” deserves a revisit every once in a while.
--   [Marc Andreessen’s Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) remains my favorite resource on this topic. It may be because it was one of the first things I read on personal productivity about 10 years ago, and have been using some of the advice in there since!
--   Sam Altman also wrote his own [Guide to Personal Productivity](https://blog.samaltman.com/productivity) recently. I guess it could be a rite of passage to become a successful Silicon Valley VC.
--   I’m very much looking forward to reading Make Time — a book on this topic by two of my favorite authors, Jake Knapp and John Zeratsky, who also wrote _The Sprint Book_. It comes out in September, but it’s available for pre-order now: [Amazon Smile link](https://smile.amazon.com/Make-Time-Distraction-Energy-Matters/dp/0525572422/ref=smi_www_rco2_go_smi_g1405964225?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&ie=UTF8)
+- ¹It seems impossible to read a non-fiction book without running into the concept of the _state of flow_ by Mihaly Csikszentmihalyi. This one’s very high on to-read list now. ([link](https://smile.amazon.com/dp/0060920432?tag=marandsblo-20&camp=0&creative=0&linkCode=as1&creativeASIN=0060920432&adclass=1YPJ51PQ4NMETWMDDBWQ&)).
+- ²This circles right back to the concept of finding meaningful work in Cal’s other _So Good They Cannot Ignore You_ book.
+- While we are on this topic, Paul Graham’s essay called “[Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html)” deserves a revisit every once in a while.
+- [Marc Andreessen’s Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) remains my favorite resource on this topic. It may be because it was one of the first things I read on personal productivity about 10 years ago, and have been using some of the advice in there since!
+- Sam Altman also wrote his own [Guide to Personal Productivity](https://blog.samaltman.com/productivity) recently. I guess it could be a rite of passage to become a successful Silicon Valley VC.
+- I’m very much looking forward to reading Make Time — a book on this topic by two of my favorite authors, Jake Knapp and John Zeratsky, who also wrote _The Sprint Book_. It comes out in September, but it’s available for pre-order now: [Amazon Smile link](https://smile.amazon.com/Make-Time-Distraction-Energy-Matters/dp/0525572422/ref=smi_www_rco2_go_smi_g1405964225?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&ie=UTF8)
 
 _This is #17 in a series of book reviews published weekly on this site._
 

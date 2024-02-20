@@ -2,7 +2,7 @@
 title: "So Good They Can’t Ignore You"
 description: "Cal Newport"
 date: "2018-04-29T15:01:01.120Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/so-good-they-cant-ignore-you-68bf993dae33
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ![](/assets/blog/so-good-they-cant-ignore-you/asset-1.jpeg)
 
-Cal Newport is a Computer Science professor at Georgetown University who happens to write amazing books on the side (or vice versa.) This week and the next, I’ll revisit two of his books — _So Good They Can’t Ignore You_ and _Deep Work_. I read them back in early 2016 and was surprised to find so many nuggets of practical wisdom around choosing a career and doing meaningful work. Onto the review:
+Cal Newport is a Computer Science professor at Georgetown University who happens to write amazing books on the side (or vice versa.) This week and the next, I’ll revisit two of his books — *So Good They Can’t Ignore You* and _Deep Work_. I read them back in early 2016 and was surprised to find so many nuggets of practical wisdom around choosing a career and doing meaningful work. Onto the review:
 
 ---
 
@@ -41,10 +41,10 @@ You need rare and valuable skills _before_ you can identify a powerful mission. 
 
 Some personal notes about the book:
 
--   ¹ The concept of deliberate practice refers to the state of flow a lot, which was introduced in the _Flow_ book by Mihaly Csikszentmihalyi ([link](https://smile.amazon.com/dp/0060920432?tag=marandsblo-20&camp=0&creative=0&linkCode=as1&creativeASIN=0060920432&adclass=1YPJ51PQ4NMETWMDDBWQ&)). It has been on my reading list for far too long.
--   This book’s title is the famous Steve Martin quote, _“Be So Good That They Cannot Ignore You”_. When asked for advice for up and coming young comedians, this is what Steve had to offer. I read his autobiography _Born Standing Up_ ([link](https://smile.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657))  in 2014, followed by an exhaustive YouTube binge of every stand-up act of his I could find. He easily remains amongst my favorite top 3 comedians of all time.
--   Tim Urban recently explored the topic of picking a career in depth. As always, he gives you helpful mental models to think through this important topic: [https://waitbutwhy.com/2018/04/picking-career.html](https://waitbutwhy.com/2018/04/picking-career.html)
--   I’m currently reading _How Will You Measure Your Life_ by Clayton M. Christensen ([link](https://smile.amazon.com/How-Will-Measure-Your-Life/dp/0062102419)). Similar ideas around picking a fulfilling career, rehashed all over again from the perspective of an HBS professor who’s credited with inventing the theory of disruption in his earlier book _The Innovator’s Dilemma_ ([link](https://smile.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244)).
+- ¹ The concept of deliberate practice refers to the state of flow a lot, which was introduced in the _Flow_ book by Mihaly Csikszentmihalyi ([link](https://smile.amazon.com/dp/0060920432?tag=marandsblo-20&camp=0&creative=0&linkCode=as1&creativeASIN=0060920432&adclass=1YPJ51PQ4NMETWMDDBWQ&)). It has been on my reading list for far too long.
+- This book’s title is the famous Steve Martin quote, _“Be So Good That They Cannot Ignore You”_. When asked for advice for up and coming young comedians, this is what Steve had to offer. I read his autobiography _Born Standing Up_ ([link](https://smile.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)) in 2014, followed by an exhaustive YouTube binge of every stand-up act of his I could find. He easily remains amongst my favorite top 3 comedians of all time.
+- Tim Urban recently explored the topic of picking a career in depth. As always, he gives you helpful mental models to think through this important topic: [https://waitbutwhy.com/2018/04/picking-career.html](https://waitbutwhy.com/2018/04/picking-career.html)
+- I’m currently reading _How Will You Measure Your Life_ by Clayton M. Christensen ([link](https://smile.amazon.com/How-Will-Measure-Your-Life/dp/0062102419)). Similar ideas around picking a fulfilling career, rehashed all over again from the perspective of an HBS professor who’s credited with inventing the theory of disruption in his earlier book _The Innovator’s Dilemma_ ([link](https://smile.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244)).
 
 This concludes my short review of this book. Next week, I’ll review Cal’s other book I’ve read: _Deep Work_. Happy Sunday!
 

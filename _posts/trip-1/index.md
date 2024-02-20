@@ -2,7 +2,7 @@
 title: "Trip № 1"
 description: "November 29, 2013. Big Sur, CA."
 date: "2013-11-29"
-categories: ['Misc']
+categories: ["Misc"]
 published: false
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'Books read and listened to in 2022'
-description: '9 books and 18 audiobooks'
-date: '2022-12-25'
-categories: ['Book List']
+title: "Books read and listened to in 2022"
+description: "9 books and 18 audiobooks"
+date: "2022-12-25"
+categories: ["Book List"]
 published: true
 ---
 

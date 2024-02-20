@@ -2,7 +2,7 @@
 title: "Alternative to space travel"
 description: "Make the planet bigger"
 date: "2017-07-14T23:54:12.769Z"
-categories: ['Misc']
+categories: ["Misc"]
 published: true
 canonical_link: https://medium.com/@anant90/alternative-to-space-travel-365fb2ce531e
 redirect_from:

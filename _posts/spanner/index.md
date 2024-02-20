@@ -1,8 +1,8 @@
 ---
-title: 'Spanner: Google’s Globally-Distributed Database'
-description: 'Google'
-date: '2020-06-13'
-categories: ['Paper Review']
+title: "Spanner: Google’s Globally-Distributed Database"
+description: "Google"
+date: "2020-06-13"
+categories: ["Paper Review"]
 published: true
 ---
 

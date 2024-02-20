@@ -2,7 +2,7 @@
 title: "Smarter Faster Better: The Secrets of Being Productive in Life and Business"
 description: "Charles Duhigg"
 date: "2018-05-20T15:01:01.691Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business-b49ae9eeac6b
 redirect_from:
@@ -19,7 +19,7 @@ There are 8 big ideas in the book, and Charles is a master at tackling them one 
 
 #### Motivation
 
-Motivation is a product of having an _internal locus of choice_ — in very simple terms, it means that to generate motivation, **make a choice** that puts you in control. If you can train yourself to take the first step by doing something that makes you feel in charge, it’s easier to keep going. But this in itself may not be enough. Self-motivation becomes easier when we see our choices as **affirmations of our deeper values** and goals. So to motivate yourself to go through a task you’ve been putting off for a while, write down why it is important to get it done — where does it fit in the grand scheme of things? Explain why it matters, and you’ll find it much easier to get started.
+Motivation is a product of having an *internal locus of choice* — in very simple terms, it means that to generate motivation, **make a choice** that puts you in control. If you can train yourself to take the first step by doing something that makes you feel in charge, it’s easier to keep going. But this in itself may not be enough. Self-motivation becomes easier when we see our choices as **affirmations of our deeper values** and goals. So to motivate yourself to go through a task you’ve been putting off for a while, write down why it is important to get it done — where does it fit in the grand scheme of things? Explain why it matters, and you’ll find it much easier to get started.
 
 ---
 
@@ -33,8 +33,8 @@ One of the top ways to aid focus is by telling ourselves stories ahead of time a
 
 The big takeaway from this section was that you need to have two kinds of goals:
 
--   A **stretch goal,** something that sparks big ambitions.
--   A **SMART goal,** to help you formulate a concrete plan. SMART expands to Specific, Measurable, Achievable, Realistic, Timeline.
+- A **stretch goal,** something that sparks big ambitions.
+- A **SMART goal,** to help you formulate a concrete plan. SMART expands to Specific, Measurable, Achievable, Realistic, Timeline.
 
 You would ideally break down a stretch goal into multiple subgoals, and develop SMART objectives to tackle them all. To give an example, here’s how I would formulate goals for writing these book reviews:
 
@@ -58,9 +58,9 @@ Timeline: Set a calendar reminder for 1-3 PM for Saturdays to write the next Sun
 
 How do you make good decisions? By envisioning multiple futures, and then forcing yourself to figure out which ones are most likely, and why? In short, before you make a decision, force yourself to walk down the _Bayesian decision tree_:
 
--   list down all the possible outcomes,
--   assign probabilities to each outcome,
--   gather more data by seeking out different experiences, perspectives, and other people’s ideas to assign a utility value to each outcome.
+- list down all the possible outcomes,
+- assign probabilities to each outcome,
+- gather more data by seeking out different experiences, perspectives, and other people’s ideas to assign a utility value to each outcome.
 
 Going through this process will make your options clearer and make you better equipped to make wiser choices.
 
@@ -70,10 +70,10 @@ Going through this process will make your options clearer and make you better eq
 
 To make teams more effective, focus on nurturing **psychological safety** within the team. Psychological safety emerges when everyone feels like they can speak in roughly equal measures and when teammates show they are sensitive to how each other feels. If you’re leading the team, think about the message your choices and actions reveal:
 
--   encourage equality in speaking
--   show you’re listening what people say by repeating them and replying to their questions and thoughts
--   react when someone seems upset or flustered
--   showcase senstivity so that others may follow your lead
+- encourage equality in speaking
+- show you’re listening what people say by repeating them and replying to their questions and thoughts
+- react when someone seems upset or flustered
+- showcase senstivity so that others may follow your lead
 
 ---
 
@@ -89,9 +89,9 @@ The Toyota production system, and the lean and agile management techniques that 
 
 Creativity often emerges by combining old ideas in new ways. To become an innovation broker within your organization, remember the following:
 
--   **Creative desperation** is often critical for innovation to emerge. Just the right amount of anxiety can often push people to see old ideas in new ways.
--   Study your own **emotional reactions**. Be sensitive to your own experiences. Pay attention to how things make you feel. Does it move you? This will help you distinguish clichés from real insights.
--   Don’t let creative breakthroughs make you blind to **alternatives**. Force yourself to critique what’s already done, look at it from different pespectives, and give authority to someone who didn’t have it before.
+- **Creative desperation** is often critical for innovation to emerge. Just the right amount of anxiety can often push people to see old ideas in new ways.
+- Study your own **emotional reactions**. Be sensitive to your own experiences. Pay attention to how things make you feel. Does it move you? This will help you distinguish clichés from real insights.
+- Don’t let creative breakthroughs make you blind to **alternatives**. Force yourself to critique what’s already done, look at it from different pespectives, and give authority to someone who didn’t have it before.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Get the basics right: how to design your site’s navigation, search, and homepage"
 description: "A 7-minute guide to getting these three foundational components just right."
 date: "2018-06-27T16:13:43.481Z"
-categories: ['UX']
+categories: ["UX"]
 published: true
 canonical_link: https://medium.com/@anant90/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage-adeb57a881f4
 redirect_from:
@@ -15,8 +15,8 @@ redirect_from:
 
 If you wanted to buy a new hammer from a hardware store, imagine how you would go about doing this:
 
--   **Option 1:** you can either look through the store — there are aisles with department names on top and, within a department, there are signs at the end of each aisle.
--   **Option 2:** you can find the nearest clerk and just ask them where they keep the hammers.
+- **Option 1:** you can either look through the store — there are aisles with department names on top and, within a department, there are signs at the end of each aisle.
+- **Option 2:** you can find the nearest clerk and just ask them where they keep the hammers.
 
 It could be a mixture of the two as well — you may try to navigate a bit to see how easy it is. If you don’t find what you’re looking for, you may ask a clerk.
 
@@ -24,7 +24,7 @@ It could be a mixture of the two as well — you may try to navigate a bit t
 
 If you think about it, this is exactly how we use websites as well. We go looking around for a bit (**Navigation**) and, if we cannot find what we came looking for, we hit the **Search** functionality. These are the two critical components of your site. Minor usability flaws here can cause major annoyance to your users.
 
-This short guide, in part based on Steve Krug’s seminal book “Don’t Make Me Think,”  I will teach you how to design your website’s Navigation, Search, and Homepage. Let’s start with the Navigation.
+This short guide, in part based on Steve Krug’s seminal book “Don’t Make Me Think,” I will teach you how to design your website’s Navigation, Search, and Homepage. Let’s start with the Navigation.
 
 ### Getting the navigation right
 
@@ -46,17 +46,17 @@ When we want to return to something on a website, we can’t rely on a physical 
 
 Persistent navigation is the set of elements that appear on top of **every page.** They follow certain conventions and, unless we have a substantial reason, we should stick to them:
 
--   **Site ID** on the top-left — this tells the user which site they are on (the Apple logo in the screenshot above).
--   **Sections on top** — a way to get around various parts of the site, with the current section highlighted to indicate where you are (for example, the Mac, iPad, and iPhon sections in the screenshot above).
--   **Tabs** (optional) — tabs, when done right, are self-evident, hard to miss, and slick. An active tab should be a different color and physically connect with the space below it so it “pops” to the front.
--   **Utilities** like “My Account”, “Track Your Order”, and “Stores.” Don’t put more than five of these — the rest can go in the footer navigation.
--   **Breadcrumbs**: this is another set of “You are here” indicators, like the highlighted section on top. Make breadcrumbs small and at the very top of a page, where they don’t interfere with the primary navigation. The best way to go about it is to use `>` between levels, and boldface the last item (the item you’re currently on and — since you’re on it — it should not be a link).
+- **Site ID** on the top-left — this tells the user which site they are on (the Apple logo in the screenshot above).
+- **Sections on top** — a way to get around various parts of the site, with the current section highlighted to indicate where you are (for example, the Mac, iPad, and iPhon sections in the screenshot above).
+- **Tabs** (optional) — tabs, when done right, are self-evident, hard to miss, and slick. An active tab should be a different color and physically connect with the space below it so it “pops” to the front.
+- **Utilities** like “My Account”, “Track Your Order”, and “Stores.” Don’t put more than five of these — the rest can go in the footer navigation.
+- **Breadcrumbs**: this is another set of “You are here” indicators, like the highlighted section on top. Make breadcrumbs small and at the very top of a page, where they don’t interfere with the primary navigation. The best way to go about it is to use `>` between levels, and boldface the last item (the item you’re currently on and — since you’re on it — it should not be a link).
 
 ![Breadcrumbs on Best Buy’s product page](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-4.png)
 
--   **A page name:** which page are you on? Every web page should ideally have a name that matches the words clicked to get there. It needs to be prominent and in the right place. In the visual hierarchy of the page, it should appear to be framing the content that is unique to this page.
--   **Local navigation** on left sidebar (optional): these are the options available at the current level.
--   **Footer Navigation**: this is where all other utilities go.
+- **A page name:** which page are you on? Every web page should ideally have a name that matches the words clicked to get there. It needs to be prominent and in the right place. In the visual hierarchy of the page, it should appear to be framing the content that is unique to this page.
+- **Local navigation** on left sidebar (optional): these are the options available at the current level.
+- **Footer Navigation**: this is where all other utilities go.
 
 ![Footer on [NNGroup.com](https://www.nngroup.com)](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-5.png)
 
@@ -74,12 +74,12 @@ Also, if scoping a search, add the word “for” so it reads like a sentence: �
 
 Here’s a great test to run on your friends to see if you did a good job with the navigation. Leave them on a random page somewhere deep in your website and make sure they are able to answer these questions quickly, and without hesitation:
 
--   what site is this? (Site ID)
--   what page am I on?
--   what are the major sections of this site?
--   what are my options at this level?
--   where am I in the scheme of things?
--   how can I search?
+- what site is this? (Site ID)
+- what page am I on?
+- what are the major sections of this site?
+- what are my options at this level?
+- where am I in the scheme of things?
+- how can I search?
 
 ### Designing the homepage
 
@@ -118,7 +118,7 @@ There are three crucial places on the homepage where users expect to find explic
 7.  Begin link names with the most important keyword
 8.  Offer easy access to recent homepage features
 9.  Don’t over-format critical content, such as navigation areas
-10.  Use meaningful graphics
+10. Use meaningful graphics
 
 This is the list in action on their own site:
 

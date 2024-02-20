@@ -2,7 +2,7 @@
 title: "When Breath Becomes Air"
 description: "Paul Kalanithi"
 date: "2018-11-04T15:01:01.589Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/when-breath-becomes-air-af575867bda
 redirect_from:

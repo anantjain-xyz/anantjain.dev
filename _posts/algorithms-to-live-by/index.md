@@ -2,7 +2,7 @@
 title: "Algorithms to Live By"
 description: "A book by Brian Christian and Tom Griffiths"
 date: "2018-09-14T15:46:02.394Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/algorithms-to-live-by-book-review-77f53d63fa78
 redirect_from:
@@ -17,7 +17,7 @@ _Algorithms to Live By_ takes you on a journey of eleven ideas from computer sci
 
 #### 1\. Optimal Stopping
 
-Imagine the following scenario: you have to hire a secretary from a pool of fixed applicants. You have to interview the candidates one by one and make a hire/no-hire decision right after each interview. If you pass on someone, you cannot come back to them. If you hire someone, the process stops and they are your new secretary. How do you maximize your chances to find the best secretary in the group? This is the famous S_ecretary Problem,_ and it forms the basis for the discussion in this chapter.
+Imagine the following scenario: you have to hire a secretary from a pool of fixed applicants. You have to interview the candidates one by one and make a hire/no-hire decision right after each interview. If you pass on someone, you cannot come back to them. If you hire someone, the process stops and they are your new secretary. How do you maximize your chances to find the best secretary in the group? This is the famous _Secretary Problem,_ and it forms the basis for the discussion in this chapter.
 
 You probably don’t want to hire the first person you interview, since you don’t know what the baseline is. You don’t want to hire the last person either: you almost certainly have passed on your best candidate at this point. So the optimal strategy involves interviewing and rejecting the first few candidates no matter how good they are: just to set up the baseline first and then hiring the best you’ve seen so far after. This _optimal_ point turns out to be `1/e` or about 37%. Reject 37% of the applicants, and then hire the next one better than anyone you’ve seen so far. Variants of this _Secretary Problem_ and the accompanying _37% Rule_ apply to vast areas of real life too — from dating to parking your car to selling/buying a house: knowing when to stop looking is crucial. Before you get too excited, here’s the sobering bit: this optimal strategy fails 63% of the time.
 
@@ -55,7 +55,7 @@ The perfect is the enemy of the good, so it’s okay to just relax and let it sl
 
 #### 9\. Randomness
 
-Randomness is another thing that works when nothing else works. Starting with the _Monte Carlo Method_, this chapter talks about _Randomized Algorithms_ — and you have to love this part of Computer Science since this is where things stop being so exact. Not only that, _Randomness_ can save you in _Optimization_, making sure you don’t get trapped in a _local minimum_ while _hill climbing_ your way. I really loved how this chapter ended with a discussion on randomness, evolution, and creativity. After all, you can make a case that all art stems out of some form of randomness.
+Randomness is another thing that works when nothing else works. Starting with the _Monte Carlo Method_, this chapter talks about *Randomized Algorithms* — and you have to love this part of Computer Science since this is where things stop being so exact. Not only that, _Randomness_ can save you in _Optimization_, making sure you don’t get trapped in a _local minimum_ while _hill climbing_ your way. I really loved how this chapter ended with a discussion on randomness, evolution, and creativity. After all, you can make a case that all art stems out of some form of randomness.
 
 #### 10\. Networking
 
@@ -74,12 +74,12 @@ Overall, I was left marveling at the authors’ ability to boil ideas from Compu
 If this post piqued your interest and you want to learn algorithms, I can’t help but self-promote this course:
 
 [**Learn Algorithms and Data Structures | Commonlounge**  
-_This 26-part course consists of tutorials on algorithms and data structures. It alternates between tutorials and…_www.commonlounge.com](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca "https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca")[](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca)
+\_This 26-part course consists of tutorials on algorithms and data structures. It alternates between tutorials and…\_www.commonlounge.com](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca "https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca")[](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca)
 
 …and, if you liked the ideas in the _Machine Learning_ part and want to dive deeper, check this one out:
 
 [**Learn Machine Learning | Commonlounge**  
-_This 29-part course consists of tutorials on ML concepts and algorithms, as well as end-to-end follow-along ML…_www.commonlounge.com](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232 "https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232")[](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232)
+\_This 29-part course consists of tutorials on ML concepts and algorithms, as well as end-to-end follow-along ML…\_www.commonlounge.com](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232 "https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232")[](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232)
 
 _This is #36 in a series of book reviews that I write every week._
 

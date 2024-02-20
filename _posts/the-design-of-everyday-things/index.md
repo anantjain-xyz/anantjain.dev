@@ -2,7 +2,7 @@
 title: "The Design of Everyday Things"
 description: "Don Norman"
 date: "2018-01-21T18:30:09.149Z"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 canonical_link: https://medium.com/@anant90/the-design-of-everyday-things-56a16048e6e0
 redirect_from:

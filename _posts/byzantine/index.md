@@ -1,8 +1,8 @@
 ---
-title: 'The Byzantine Generals Problem'
-description: 'Leslie Lamport, et al.'
-date: '2021-01-30'
-categories: ['Paper Review']
+title: "The Byzantine Generals Problem"
+description: "Leslie Lamport, et al."
+date: "2021-01-30"
+categories: ["Paper Review"]
 published: true
 ---
 
@@ -13,6 +13,7 @@ published: true
 ### Highlights
 
 **Byzantine Generals Problem**: A commanding general must send an order to his `n - 1` lieutenant generals such that:
+
 - IC1. All loyal lieutenants obey the same order.
 - IC2. If the commanding general is loyal, then every loyal lieutenant obeys the order he sends.
 
@@ -34,9 +35,9 @@ Achieving reliability in the face of arbitrary malfunctioning is a difficult pro
 
 ### PDF
 
-* [Original](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
-* [Annotated copy](/assets/blog/byzantine/byzantine-annotated.pdf)
+- [Original](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
+- [Annotated copy](/assets/blog/byzantine/byzantine-annotated.pdf)
 
 ---
-Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #33 in this [series](https://anantjain.dev/#paper-reviews).
 
+Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #33 in this [series](https://anantjain.dev/#paper-reviews).

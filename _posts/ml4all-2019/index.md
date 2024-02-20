@@ -2,7 +2,7 @@
 title: "ML4ALL 2019"
 description: "Lightning Talk"
 date: "2019-04-29T15:01:01.131Z"
-categories: ['Conference']
+categories: ["Conference"]
 published: true
 ---
 

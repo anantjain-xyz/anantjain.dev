@@ -2,7 +2,7 @@
 title: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
 description: "Tom DeMarco"
 date: "2020-08-16"
-categories: ['Book Review']
+categories: ["Book Review"]
 published: true
 ---
 
@@ -19,8 +19,9 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - Knowledge workers aren’t fungible. Treating them as if they were will increase busyness but make it harder for them to get useful work done.
 
 - My short list of the benefits that come with sensibly designed-in slack includes all of the following:
+
   - Flexibility, a capacity for ongoing organizational redesign
-  - Better people retention 
+  - Better people retention
   - A capacity to invest
 
 - Slack is the way you invest in change. Slack represents operational capacity sacrificed in the interests of long-term health.
@@ -50,6 +51,7 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - Think rate is fixed. No matter what you do, no matter how hard you try, you can’t pick up the pace of thinking.
 
 - Since they can’t alter the rate of mental discriminations (basic elements of knowledge work) per second, their potential to respond to pressure is severely limited. All they can do is
+
   - Eliminate wasted time
   - Defer tasks that are not on the critical path
   - Stay late
@@ -57,10 +59,11 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - There just isn’t enough time in the day, and besides, the increasing pressures from family and personal life will soon tend to right the balance.
 
 - A more realistic model of how pressure impacts performance is shown in the graph below.
-                
+
 ![](/assets/blog/slack/slack-graph.png)
 
 - Here we see that pressure has a fairly limited capacity to reduce delivery time, maybe 10 or 15 percent at the most. And excessive pressure can quickly begin to worsen performance. The model is divided into three regions.
+
   - In Region I, workers are responding to increased pressure by trimming any remaining waste, by concentrating on the critical path, and by staying late.
   - In Region II, workers are getting tired, feeling pressure from home, and starting to put in a little “undertime” (taking the kid to the dentist during work hours, since the company owes them so much time anyway).
   - In Region III, workers are polishing up their résumés and beginning to look for work elsewhere.
@@ -84,7 +87,6 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 ### Overtime
 
 - The decision to work overtime or to encourage others to do so is to override a fundamental design decision, one of the intrinsics of the enterprise. It is to say that that decision was wrong in the first place, that seven and a half hours, for example, was simply too little. It is the assertion that altering the deal to extract ten or eleven or twelve hours per day for the same pay will be to the organization’s real advantage.
-                
 - When companies institute overtime, it’s not minutes per day they’re looking for. They increase the workday by huge increments, typically 40 or 50 percent. And they almost never have the courage to institutionalize this decision by redefining the official workday. I think they’re kidding themselves.
 
 - There is a useful distinction to make here between infrequent short bursts of overtime—what I call sprinting—and extended overtime. The manager who makes effective use of the occasional sprint is a hero. He/she needs impeccable timing, a flawless sense of what can and can’t be accomplished over a short period (there is no benefit if the delivery doesn’t take place on Monday or if it gets rejected), and enough raw leadership talent to pull the whole affair together. Finally, such a manager also needs to have a huge reserve of trust to dip into, the clear sense shared by all that the call for extraordinary effort is truly extraordinary, not likely to be wasted and not likely to become a regular fixture.
@@ -96,6 +98,7 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - **The best predictor of how much work a knowledge worker will accomplish is not the hours that he or she spends, but the days. The twelve-hour days don’t accomplish any more than the eight-hour days. Overtime is a wash.**
 
 - There are four reasons why overtime hurts enough to offset the effect of the added hours. These are the invariable side effects of extended overtime:
+
   - Reduced quality
   - Personnel burnout
   - Increased turnover of staff
@@ -150,6 +153,7 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - It’s tempting to say that overstressed organizations are always understaffed; that that’s where all the stress comes from in the first place. It’s tempting, but it isn’t entirely so. Meeting the deadline is not what this is all about. What this is about is looking like you’re trying your damnedest to meet the deadline.
 
 - In my experience, there are two important reasons why litigation happens in spite of the most dismal prospects for it ever achieving anything worthwhile:
+
   - Litigation can be an effective way to deflect blame.
   - Litigation can be a consequence of an intrinsically flawed contract.
 
@@ -172,7 +176,6 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - To establish a standardized way of doing any knowledge task, you end up focusing on the mechanics of the task. But the mechanics are a small and typically not very important portion of the whole. How the work goes on inside the nodes of the worker diagram is not nearly so important as how wide and rich are the connections.
 
 - That is the paradox of automation: It makes the work harder, not easier.
-                
 - Process standards can be a highly emotional matter. There are “process wars,” as people begin to feel territorial about their vanishing prerogatives. After a new standard process has been installed, there may be blood in the corridors, a residue of bad feeling all around.
 
 - Process standardization from on high is disempowerment. It is a direct result of fearful management, allergic to failure.
@@ -224,11 +227,13 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - Like the human creature that fights wildly to resist changing whatever it considers its identity, the corporate organism without vision will hold on to stasis as its only meaningful definition of self.
 
 - The successful visionary statement will typically have the following characteristics:
+
   1. There has to be an element of present truth to the assertion. The challenge “Run a four-minute mile because that’s what we are all about ” would not inspire most of us because we wouldn’t see the present truth of the “what we’re all about” part.
-  2. There is always an element of proposed future truth in the statement. Though it masquerades as “what we are all about, ” it is at least partly urging us toward “what we could be all about.” 
+  2. There is always an element of proposed future truth in the statement. Though it masquerades as “what we are all about, ” it is at least partly urging us toward “what we could be all about.”
   3. When the statement walks perfectly between what is and what could be, and the could-be part is wonderful but not impossible, acceptance by those listening is almost assured.
 
 - Leadership is the ability to enroll other people in your agenda. There is no easy formula for real leadership (if there were, we’d see a lot more of it), but it seems clear that the following elements always need to be present:
+
   - Clear articulation of a direction
   - Frank admission of the short-term pain
   - Follow-up Follow-up Follow-up
@@ -276,9 +281,10 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - Risk management is almost the opposite of Plan for Success. Risk management is—take a deep gulp of air here, this is going to be unsettling—a discipline of planning for failure.
 
 - The science of risk management guides you as to how much slack to provide.
+
   1. Risks are not inherently bad. (Risks are the entire reason there is money to be made in your business.)
-  2. Risks don’t ever go entirely away. (You still have some loss when the bad thing happens.) 
-  3. Managing the risk costs you something (the work of laying off the extra policies and the penalty your partner companies may impose upon you before accepting some of your too-risky coverage. 
+  2. Risks don’t ever go entirely away. (You still have some loss when the bad thing happens.)
+  3. Managing the risk costs you something (the work of laying off the extra policies and the penalty your partner companies may impose upon you before accepting some of your too-risky coverage.
   4. If the risk doesn’t materialize, risk management costs you something extra (the lost profit of all those property premiums in a year when there were no loss claims).
   5. The discipline is applied to the entire portfolio, not to any one of its constituent risks. (Having all your eggs in one basket—only one policy—gives you no way to assure that that policy won’t incur claims during the year.)
 
@@ -292,10 +298,11 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 
 - There are two classes of risk that are handled somewhat differently: aggregate and component.
 
-- You can’t claim to be managing your risks unless you: 
+- You can’t claim to be managing your risks unless you:
+
   1. List and count each risk.
   2. Have an ongoing process for discovering new risks.
-  3. Quantify each one as to its potential impact and likelihood. 
+  3. Quantify each one as to its potential impact and likelihood.
   4. Designate a transition indicator for each one that will tell you (early, I hope) that the risk is beginning to materialize.
   5. Set down in advance what your plan will be to cope with each risk should it begin to materialize.
 
@@ -310,16 +317,16 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 - The difference between the time it takes you to arrive at “all prudent speed ” and time it would take you at “breakneck speed” is your slack. Slack is what helps you arrive quickly but with an unbroken neck.
 
 - If you identify any project as risk-free, or even relatively risk-free, cancel it. You’re going to need the resources and calendar time to do something transformational.
-                
+
 ### Risk Management: The Hard Test
 
-Pick a part of your company where the risks are greatest. It might be a scary project, one that the company’s future depends upon. It might be a new product development or a launch into untried markets. Now apply to it the following hard questions: 
+Pick a part of your company where the risks are greatest. It might be a scary project, one that the company’s future depends upon. It might be a new product development or a launch into untried markets. Now apply to it the following hard questions:
 
 - Is there a published census of risks? Does the list contain the major causal risks, not just the few outcome risks that we all fear? Is the risk list visible to all who are working on the project Are there enough risks on the list to indicate careful risk analysis?
 - Is there a mechanism in place to elicit discovery of new risks? Is it safe for all involved to signal a risk?
 - Are any of the risks on the list potentially fatal? Risk management that concentrates only on risks that can be handled makes a mockery of the notion of risk management. It’s the fatal ones that need your most careful attention.
 - Is each risk quantified as to probability and cost and schedule impact?
-- Does each risk have a transition indicator allocated to it to spot materialization? Is each transition indicator being monitored? 
+- Does each risk have a transition indicator allocated to it to spot materialization? Is each transition indicator being monitored?
 - Is there a single person responsible for risk management? Where the attitude is that everybody is responsible for managing risks, nobody is responsible for it, since all those people have got Real Work on their plates.
 - Are there tasks on the work breakdown structure that might not have to be done at all? The absence of such conditional tasks is a sure sign of no risk management at work.
 - Does the overall effort have both a schedule and a goal, where the schedule and the goal are markedly different? If the schedule is the goal, there is no risk management at work. The earliest date by which the work could conceivably be done makes an excellent goal but an awful schedule.

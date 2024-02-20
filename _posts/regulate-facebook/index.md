@@ -2,7 +2,7 @@
 title: "Regulate Facebook?"
 description: "I wrote this as a Twitter thread and not a proper blog post mainly to try out their new threads composition interface. But when I thought…"
 date: "2018-03-30T19:01:01.026Z"
-categories: ['Tech']
+categories: ["Tech"]
 published: false
 canonical_link: https://medium.com/@anant90/regulate-facebook-d19bb4ed8982
 redirect_from:

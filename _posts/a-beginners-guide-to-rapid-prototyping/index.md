@@ -2,7 +2,7 @@
 title: "A Beginner’s Guide to Rapid Prototyping"
 description: "Everything you need to know about rapid prototyping in 7 minutes (or less)"
 date: "2018-06-04T17:41:03.432Z"
-categories: ['UX']
+categories: ["UX"]
 published: true
 canonical_link: https://medium.com/@anant90/a-beginners-guide-to-rapid-prototyping-71e8722c17df
 redirect_from:
@@ -35,10 +35,10 @@ A prototype is not designed to be a fully functional version of a system, but is
 
 You can prototype not just screens, apps, or websites, but almost anything. Prototyping is an excellent method to test the following (examples provided):
 
--   **New functionalities:** Prototype Instagram Stories in the Instagram app (before they were launched)
--   **Changes in a workflow:** Prototype Medium’s new publishing flow after the introduction of paid memberships
--   **New technology:** Prototype a self-driving car journey!
--   **New interface:** Prototype Apple Watch interface (when it first launched)
+- **New functionalities:** Prototype Instagram Stories in the Instagram app (before they were launched)
+- **Changes in a workflow:** Prototype Medium’s new publishing flow after the introduction of paid memberships
+- **New technology:** Prototype a self-driving car journey!
+- **New interface:** Prototype Apple Watch interface (when it first launched)
 
 ![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-4.png)
 
@@ -94,9 +94,9 @@ Using real labels is also an excellent opportunity to test whether your “copy�
 
 #### What fidelity levels exist?
 
--   **Low-Fidelity:** Low-Fi methods like **pencil-and-paper** sketches produce static prototypes with low visual and content fidelity that allow for quick and easy changes. This forces the user to **focus on functionality** and on how they will use the system instead of what it looks like.
--   **Medium-Fidelity:** Computer-based tools like Visio produce what we can call medium-fidelity prototypes in the form of **wireframes and workflows**. This level of fidelity is used to demonstrate a system’s behavior, to determine if user needs are being met, and to evaluate the user experience.
--   **High-Fidelity:** High-fidelity prototypes can sometimes be so **realistic** that they are often mistaken for the real product. They are also much more **time-consuming** to produce. Tools like InVision, Sketch, Figma, Adobe XD, Framer, and so on allow non-technical users to create high-fidelity prototypes. Although these cannot be converted into usable code, they can be very handy later for usability testing or user training purposes.
+- **Low-Fidelity:** Low-Fi methods like **pencil-and-paper** sketches produce static prototypes with low visual and content fidelity that allow for quick and easy changes. This forces the user to **focus on functionality** and on how they will use the system instead of what it looks like.
+- **Medium-Fidelity:** Computer-based tools like Visio produce what we can call medium-fidelity prototypes in the form of **wireframes and workflows**. This level of fidelity is used to demonstrate a system’s behavior, to determine if user needs are being met, and to evaluate the user experience.
+- **High-Fidelity:** High-fidelity prototypes can sometimes be so **realistic** that they are often mistaken for the real product. They are also much more **time-consuming** to produce. Tools like InVision, Sketch, Figma, Adobe XD, Framer, and so on allow non-technical users to create high-fidelity prototypes. Although these cannot be converted into usable code, they can be very handy later for usability testing or user training purposes.
 
 ![From Low-Fi, to Med-Fi, to Hi-Fi. ([Source](http://murdochcarpenter.com/portfolio/wireframes/))](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-9.jpeg)
 
@@ -110,11 +110,11 @@ Sometimes, your choice might be guided by client requirements or areas of focus.
 
 There is a wide variety of tools available for prototyping depending on your needs and approach. Before choosing a tool, here are a few questions to ask:
 
--   How much **time** would it take to learn how to use the tool?
--   Does it **support** prototypes for the needs of my product (web, software applications, mobile apps, some new technology, and so on)?
--   Does the tool allow me to **share** my prototypes with others and gather their feedback?
--   How **easy** is it to make changes to the prototype?
--   Can I use pre-defined **templates** and stencils with this tool?
+- How much **time** would it take to learn how to use the tool?
+- Does it **support** prototypes for the needs of my product (web, software applications, mobile apps, some new technology, and so on)?
+- Does the tool allow me to **share** my prototypes with others and gather their feedback?
+- How **easy** is it to make changes to the prototype?
+- Can I use pre-defined **templates** and stencils with this tool?
 
 ![Paper and pencil, Sketch, Figma, Framer, Photoshop, Illustrator, XD, Origami…](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-10.png)
 
@@ -122,23 +122,23 @@ There is a wide variety of tools available for prototyping depending on your nee
 
 #### Do’s:
 
--   Work with users and stakeholders to get the most **feedback** and engage them in the ownership of the final product
--   **Set expectations** early by making sure the users and stakeholders know that prototyping is a way to get answers to specific questions, and does not represent the finished product.
--   Make your high-fidelity **realistic** (including response delays) so that users and stakeholders are not disappointed when they compare it with the final product.
--   **Save templates** and **stencils** to reuse on future projects.
+- Work with users and stakeholders to get the most **feedback** and engage them in the ownership of the final product
+- **Set expectations** early by making sure the users and stakeholders know that prototyping is a way to get answers to specific questions, and does not represent the finished product.
+- Make your high-fidelity **realistic** (including response delays) so that users and stakeholders are not disappointed when they compare it with the final product.
+- **Save templates** and **stencils** to reuse on future projects.
 
 ![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-11.png)
 
 #### Don’ts:
 
--   Don’t prototype features that won’t be in the final product
--   Don’t be a perfectionist. Good enough is your friend. The goal of rapid prototyping is to give everyone a common ground.
--   Don’t prototype everything!
+- Don’t prototype features that won’t be in the final product
+- Don’t be a perfectionist. Good enough is your friend. The goal of rapid prototyping is to give everyone a common ground.
+- Don’t prototype everything!
 
 If your’re wondering how you should go about testing out your prototypes, read my post on **Usability Testing** here:
 
 [**The well-kept secret behind great UX: Usability Testing**  
-_Whether you only have a prototype or a full-fledged product, it’s a really good idea to run monthly usability tests…_medium.freecodecamp.org](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3 "https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3")[](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3)
+\_Whether you only have a prototype or a full-fledged product, it’s a really good idea to run monthly usability tests…\_medium.freecodecamp.org](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3 "https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3")[](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3)
 
 ![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-12.png)
 

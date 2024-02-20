@@ -1,8 +1,8 @@
 ---
-title: 'No Silver Bullet'
-description: 'Frederick P. Brooks, Jr., University of North Carolina at Chapel Hill'
-date: '2020-07-11'
-categories: ['Paper Review']
+title: "No Silver Bullet"
+description: "Frederick P. Brooks, Jr., University of North Carolina at Chapel Hill"
+date: "2020-07-11"
+categories: ["Paper Review"]
 published: true
 ---
 

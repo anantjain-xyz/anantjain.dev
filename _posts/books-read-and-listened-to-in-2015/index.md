@@ -2,7 +2,7 @@
 title: "Books read and listened to in 2015"
 description: "12 books and 8 audiobooks"
 date: "2015-12-31T21:37:53.804Z"
-categories: ['Book List']
+categories: ["Book List"]
 published: true
 canonical_link: https://medium.com/@anant90/books-read-and-listened-to-in-2015-42792a6e99d6
 redirect_from:
@@ -22,9 +22,9 @@ redirect_from:
 7.  Talking to Humans: Success Starts with Understanding your Customers. Giff Constable.
 8.  Elon Musk. Tesla, SpaceX and the Conquest for a Fantastic Future. Ashlee Vance.
 9.  How Google Works. Eric Schmidt and Jonathan Rosenberg.
-10.  How to Win Friends and Influence People. Dale Carnegie.
-11.  The Visual Display of Quantitative Information. Edward Tufte.
-12.  The Alliance: Managing Talent in the Networked Age. Ben Casnocha, Chris Yeh, and Reid Hoffman.
+10. How to Win Friends and Influence People. Dale Carnegie.
+11. The Visual Display of Quantitative Information. Edward Tufte.
+12. The Alliance: Managing Talent in the Networked Age. Ben Casnocha, Chris Yeh, and Reid Hoffman.
 
 #### Audiobooks (8)
 
