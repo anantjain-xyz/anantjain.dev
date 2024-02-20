@@ -12,6 +12,7 @@ export function Footer() {
             src="https://anantjain.substack.com/embed"
             width="480"
             height="150"
+            className="max-w-full"
           ></iframe>
         </div>
       </Container>
