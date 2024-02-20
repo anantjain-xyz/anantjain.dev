@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     images: ["/icon.png"],
   },
+  metadataBase: new URL("https://www.anantjain.dev"),
 };
 
 export default function RootLayout({

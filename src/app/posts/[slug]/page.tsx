@@ -53,6 +53,7 @@ export function generateMetadata({ params }: Params): Metadata {
       title,
       images: ["/icon.png"],
     },
+    metadataBase: new URL("https://www.anantjain.dev"),
   };
 }
 
