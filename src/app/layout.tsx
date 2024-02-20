@@ -1,5 +1,4 @@
 import Footer from "@/app/_components/footer";
-import { HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
@@ -11,7 +10,7 @@ export const metadata: Metadata = {
   title: `Anant Jain`,
   description: `Anant Jain's personal website. I write about software engineering, startups, and personal growth.`,
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    images: ["/icon.png"],
   },
 };
 
