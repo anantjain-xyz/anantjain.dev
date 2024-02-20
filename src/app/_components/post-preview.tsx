@@ -14,7 +14,7 @@ export function PostPreview({ title, date, slug }: Props) {
         <Link
           as={`/posts/${slug}`}
           href="/posts/[slug]"
-          className="hover:text-blue-600 transition-colors duration-200 ease-in-out"
+          className="text-gray-900 hover:text-blue-600 transition-colors duration-200 ease-in-out"
         >
           {title}
         </Link>

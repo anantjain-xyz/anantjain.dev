@@ -1,3 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    h1 {
+      @apply text-5xl font-bold;
+    }
+    h2 {
+      @apply text-4xl font-bold;
+    }
+    h3 {
+      @apply text-3xl font-bold;
+    }
+    h4 {
+      @apply text-2xl font-bold;
+    }
+    hr {
+      @apply my-12;
+    }
+    ul {
+      @apply list-disc;
+    }
+    ol {
+      @apply list-decimal;
+    }
+    img {
+      @apply mx-auto;
+    }
+    a {
+      @apply text-blue-600 dark:text-blue-500;
+    }
+  }
