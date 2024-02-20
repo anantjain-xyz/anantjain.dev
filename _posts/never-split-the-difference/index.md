@@ -9,7 +9,7 @@ redirect_from:
   - /never-split-the-difference-a2f63dbc72fa
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/never-split-the-difference/asset-1.jpeg)
 
 _Never Split the Difference_ is the first book I’ve read about the art of negotiation — the other book closest to this one was _Influence_ by Robert Cialdini ([review](https://anantjain.dev/influence-the-psychology-of-persuasion-4805ae32300f)). In this book, Chris Voss, a former international hostage negotiator for the FBI, lays out his approach to high-stakes negotiations and offers a few key lessons that you can incorporate in your daily routines. Negotiation is the heart of collaboration, and is what makes conflict potentially meaningful and productive for all parties. Chris Voss also explains why approaches popularized by other popular books like _Getting to Yes_ are not as effective — they tend to leave a lot on the table by anchoring you to the Best Alternative to a Negotiated Agreement (BATNA) at the start, thereby leaving out possibilities that that you could’ve uncovered during the negotiation.
 
@@ -76,4 +76,4 @@ To wrap this up, remember that every negotiation, every conversation, every mome
 
 _This is #49 in a series of book reviews published weekly on this site._
 
-![Chris Voss](./asset-2.jpeg)
+![Chris Voss](/assets/blog/never-split-the-difference/asset-2.jpeg)

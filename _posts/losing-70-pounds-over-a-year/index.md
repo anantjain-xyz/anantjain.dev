@@ -11,7 +11,7 @@ redirect_from:
 
 Growing up, I never thought I’d be the one giving fitness advice to anyone. I do not remember a point in my life when I wasn’t overweight— I would usually be the last person picked for team sports, have made excuses to drop out of activities like _skydiving_ or swimming, and in general, was desperate to reduce my bodyfat for many years before I found out what worked for me. I wrote this little piece for those in the same boat as I was a year ago. I am a 26 year old male living in San Francisco who went from **242 lbs, 32.8 BMI** to **168 lbs, 22.8 BMI** over ~12 months by bringing together weightlifting, running, and the slow-carb diet. But this is not a post about the specifics of these — instead, I want to share the deeper lessons that, in retrospect, actually made these work.
 
-![[http://status.anantjain.in/helix/core/](http://status.anantjain.in/helix/core/)](./asset-1.png)
+![[http://status.anantjain.in/helix/core/](http://status.anantjain.in/helix/core/)](/assets/blog/losing-70-pounds-over-a-year/asset-1.png)
 
 ---
 
@@ -45,7 +45,7 @@ In April 2016 (236 lbs), three months after I had started the 5x5 workout, I had
 
 **Takeaway:** The best cardio workout for you is the one that you actually end up doing. Running outside is the only cardio I happily look forward to. Also, if you don’t chuckle a little to yourself when you pick your audacious goal, it’s not audacious enough.
 
-![**“Ain’t no distance long enough”** (quote behind the tee of a guy probably twice my age, running faster than me)](./asset-2.gif)
+![**“Ain’t no distance long enough”** (quote behind the tee of a guy probably twice my age, running faster than me)](/assets/blog/losing-70-pounds-over-a-year/asset-2.gif)
 
 ---
 
@@ -62,7 +62,7 @@ One small note — The _Big Sugar industry_ (think Coca Cola, Pepsi etc.) is
 
 **Takeaway**: Compliance can be engineered. It’s good to have discipline in life. Things take time, so patience is key.
 
-![The Power of Habit](./asset-3.jpeg)
+![The Power of Habit](/assets/blog/losing-70-pounds-over-a-year/asset-3.jpeg)
 
 ---
 

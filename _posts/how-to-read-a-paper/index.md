@@ -79,7 +79,7 @@ In the second pass, read the paper with greater care, but ignore details such as
 ### PDF
 
 - [Original](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
-- [Annotated copy](./how-to-read-a-paper-annotated.pdf)
+- [Annotated copy](/assets/blog/how-to-read-a-paper/how-to-read-a-paper-annotated.pdf)
 
 ---
 

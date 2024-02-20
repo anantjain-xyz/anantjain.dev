@@ -9,7 +9,7 @@ redirect_from:
   - /when-breath-becomes-air-af575867bda
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/when-breath-becomes-air/asset-1.jpeg)
 
 _When Breath Becomes Air_ is a hard one to read, and even harder to stop thinking about. It’s an autobiographical memoir of Paul Kalanithi, a Stanford-trained neurosurgeon, who contracted stage IV metastatic lung cancer at a young age of just 35. In the 22 months left to him, Paul went through various cancer treatments, and in the end, had to confront the reality of being mortal.
 
@@ -19,7 +19,7 @@ The next part describes a medical student transforming himself into a world-clas
 
 Cancer eventually returns, and he gets started on chemotherapy this time. He becomes frail again and realizes that at this moment, what matters most to him is to die well. Lucy and Paul have a daughter, and Paul decides to double down on his long ignored passion and ambition for writing. This book is dedicated to their daughter Cady, and it is the result of Paul’s ruthless drive to write in his final days, even as _the weakened skin of his fingertips ruptured from hitting the keys too much_. This book is a very heavy read and will make you cry more than once. It ends with a note on tenses, finitude, time, and a message for their daughter:
 
-![](./asset-2.png)
+![](/assets/blog/when-breath-becomes-air/asset-2.png)
 
 ---
 
@@ -33,4 +33,4 @@ P.S: Bill Gates’ notes on this book are also worth checking out: [https://www.
 
 _This is #43 in a series of book reviews published weekly on this site._
 
-![Paul Kalanithi](./asset-3.jpeg)
+![Paul Kalanithi](/assets/blog/when-breath-becomes-air/asset-3.jpeg)

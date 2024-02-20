@@ -16,7 +16,7 @@ The goal of Google’s BeyondCorp initiative is to improve the security with reg
 
 ### Architecture
 
-![Architecture of the BeyondCorp Infrastructure Components](./beyondcorp-architecture.png)
+![Architecture of the BeyondCorp Infrastructure Components](/assets/blog/beyondcorp/beyondcorp-architecture.png)
 
 These are the fundamental components of the BeyondCorp System:
 - Access requirements are organized into **Trust Tiers** representing levels of increasing sensitivity.
@@ -44,7 +44,7 @@ it’s easy for users to conflate access issues with other ongoing efforts, whic
 ### PDF
 
 * [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44860.pdf)
-* [Annotated copy](./beyondcorp-annotated.pdf)
+* [Annotated copy](/assets/blog/beyondcorp/beyondcorp-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #5 in this [series](https://anantjain.dev/#paper-reviews).

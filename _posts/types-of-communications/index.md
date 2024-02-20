@@ -13,7 +13,7 @@ redirect_from:
 
 A friend and I were discussing the explosion of startups that create a new communication protocol and thereby create a new network. Paul Graham in [this](http://paulgraham.com/twitter.html) small post from 2009 noted that Twitter is a new messaging protocol, and hence a big deal and that new protocols are rare and those owned by private companies are rarer. And interestingly, the networks these new communication protocols create have no equivalent real world counterpart either — the Twitter network is a creation of the web and not a transplant of an existing network from the real world.
 
-![](./asset-1.jpeg)
+![](/assets/blog/types-of-communications/asset-1.jpeg)
 
 Snapchat is a more recent example - a new communication protocol that introduced ephemerality into photo-messaging, and later on, created a Twitter-like network of people following friends’/celebrities’ stories. This engenders the question — can’t we just come up with a list of all the components which when mashed together can yield potential ideas for a new communication protocol? We can start thinking of commonalities between all communication protocols — who participates in it, who receives it, what is sent and received, and finally, what does the network look like. So I attempted to list down all the components that I could imagine in each of these categories. Do leave an inline response if you come up with more and I’ll incorporate it in.
 

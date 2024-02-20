@@ -19,4 +19,4 @@ Just a thought; not stopping writing here any time soon.
 
 ---
 
-![Medium asked me to add a high resolution image. Photo by [Tim Bennett](https://unsplash.com/@timbennettcreative)](./asset-1.png)
+![Medium asked me to add a high resolution image. Photo by [Tim Bennett](https://unsplash.com/@timbennettcreative)](/assets/blog/regulate-facebook/asset-1.png)

@@ -11,7 +11,7 @@ redirect_from:
 
 Whether you only have a prototype or a full-fledged product, it’s a really good idea to run monthly usability tests. These make sure that whatever you’re working on is **usable** and the **user experience** is excellent.
 
-![Source: [Bram Naus](https://unsplash.com/@bramnaus)](./asset-1.png)
+![Source: [Bram Naus](https://unsplash.com/@bramnaus)](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-1.png)
 
 If you’re wondering what you can do to make your usability tests more structured and organized, this guide is for you. Let’s get started!
 
@@ -40,7 +40,7 @@ Before we get to the test itself, here are a few things to note:
 3.  If you are part of a big company and have the budget, you can recruit via Craigslist and offer a $50 gift card for an hour of the participant’s time. If you don’t have those kind of resources, don’t worry — you can ask your friends, your existing users, or even go to a café and ask strangers for 15 minutes of their time in exchange for buying them a coffee.
 4.  If you’re doing this as part of a bigger team, get as many **observers** as possible to observe the tests in a separate observation room. These will be the **designers, engineers, project managers, executives, etc.** Or, in case of side projects, it’ll be just be you later in your room!
 
-![](./asset-2.png)
+![](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-2.png)
 
 ### What happens during the test?
 
@@ -53,7 +53,7 @@ During a usability test, you will record the participant’s voice and their com
 5.  **Probing (5 mins):** Ask the participant any questions you may have about anything that happened during the test and about any issues that people in the observation room may have. Also, answer any questions that the participant may have at this point (don’t answer them during the actual tasks since you’re testing how they’ll perform with no one around.)
 6.  **Wrapping Up (5 mins):** Thank them for their help, and give them their gift card if you promised one while recruiting them.
 
-![](./asset-3.png)
+![](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-3.png)
 
 ### The debrief
 
@@ -66,7 +66,7 @@ During the breaks between successive tests, ask the observers to write down the 
 -   Ignore the problems where the user goes astray for a bit but comes back on track by themselves. These are usually not worth investing much time unless you see a pattern across multiple participants.
 -   **Good design is a delicate balance**, so when fixing a problem, ensure that you aren’t introducing new ones.
 
-![](./asset-4.png)
+![](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-4.png)
 
 ### Remote testing and unmoderated user testing
 
@@ -81,7 +81,7 @@ Unmoderated user testing is another way to test, where you specify your website,
 
 
 
-![](./asset-5.png)
+![](/assets/blog/the-well-kept-secret-behind-great-ux-usability-testing/asset-5.png)
 
 I want to thank you for reading this quick guide. This was originally published as part of the [UX Design course](https://www.commonlounge.com/discussion/d8c1c96e92024adf9f496fe41dcaad1a) on [Commonlounge](https://www.commonlounge.com/), a platform that has courses with small bite-sized lessons like these on topics ranging from [Project Management](https://www.commonlounge.com/discussion/1013c511951f4c47a803c32c4e1ae0f2) to [Machine Learning](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232) that deliver the most value for the time you put in.
 

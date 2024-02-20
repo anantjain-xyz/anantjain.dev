@@ -9,7 +9,7 @@ redirect_from:
   - /16-ux-design-tools-from-the-sprint-process-b6ca467b30ad
 ---
 
-![([Source](https://blog.ajsmart.com/user-research-is-overrated-c0c146d1b9d0))](./asset-1.jpeg)
+![([Source](https://blog.ajsmart.com/user-research-is-overrated-c0c146d1b9d0))](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-1.jpeg)
 
 _The Sprint_ is a 5-day process to answer critical business questions through design, prototyping, and testing ideas with customers. It was developed at Google Ventures by Jake Knapp, John Zeratsky, Braden Kowitz, and others.
 
@@ -19,7 +19,7 @@ If you’re already familiar with the Sprint Process, you will find this post us
 
 Let’s get started.
 
-![([Source](https://www.gv.com/sprint/#design-sprint))](./asset-2.png)
+![([Source](https://www.gv.com/sprint/#design-sprint))](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-2.png)
 
 ### Day 1: Start at the End, Make a map and Ask the Experts
 
@@ -52,7 +52,7 @@ This is a useful technique for setting goals and defining what you want to get o
 -   Each person gets two votes. You can vote on your own notes, or even on the same note twice. Move winners onto the map.
 -   **Pick a target:** Let the Decider pick the most important customer, and one target moment on the map. The team can weigh in, but the Decider makes the call. _Life pro-tip:_ Never go into a project meeting where no one has the clear role of a _Decider._
 
-![([Source](https://www.gv.com/sprint/#design-sprint))](./asset-3.png)
+![([Source](https://www.gv.com/sprint/#design-sprint))](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-3.png)
 
 ### Day 2: Remix & Improve and Sketch
 
@@ -77,7 +77,7 @@ Anyone can sketch, and everyone in the room will in this Four-Step Sketching exe
 -   Recruit customers through your network: If you need experts or existing customers.
 -   Make sure to follow up with emails and phone calls over the week to make sure five interviewees show up on Day 5.
 
-![([Source](https://www.gv.com/sprint/#design-sprint))](./asset-4.png)
+![([Source](https://www.gv.com/sprint/#design-sprint))](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-4.png)
 
 ### Day 3: Decide, Rumble, and Storyboard
 
@@ -103,7 +103,7 @@ To plan your prototype:
 -   **Choose an opening scene:** how your customers usually encounter your product or service. Keep it simple (like a Google search, Facebook ad, content on the blog, etc.)
 -   **Fill out the storyboard:** Move existing sketches to the storyboard whenever you can. Include just enough detail to help the team prototype next day. The finished story should have five to fifteen steps.
 
-![([Source](https://www.gv.com/sprint/#design-sprint))](./asset-5.png)
+![([Source](https://www.gv.com/sprint/#design-sprint))](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-5.png)
 
 ### Day 4: Prototype
 
@@ -115,7 +115,7 @@ To plan your prototype:
 -   Do a **trial run** and look for mistakes. Make sure the Interviewer sees it and is ready with the interview script, and has reminded interviewees to come in the next day and has gift cards ready to be given.
 -   The key idea here is that anything can be prototyped within a day by a team, and prototypes are meant to be disposable. They are built just enough to learn, but not more. It should appear real to evoke an honest reaction from the interviewee.
 
-![([Source](https://www.gv.com/sprint/#design-sprint))](./asset-6.png)
+![([Source](https://www.gv.com/sprint/#design-sprint))](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-6.png)
 
 ### Day 5: Test and Learn
 
@@ -150,7 +150,7 @@ If you found this useful, it might be a good idea to read the entire process in 
 
 You can also check out my other posts on [UX Research](https://hackernoon.com/ux-design-for-developers-d3429200a1da), [Rapid Prototyping](https://medium.freecodecamp.org/a-beginners-guide-to-rapid-prototyping-71e8722c17df), or [Usability Testing](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3). Thanks for reading!
 
-![](./asset-7.png)
+![](/assets/blog/16-ux-design-tools-from-the-sprint-process/asset-7.png)
 
 Thanks for reading this quick guide. This was originally published as part of the [UX Design course](https://www.commonlounge.com/discussion/d8c1c96e92024adf9f496fe41dcaad1a) on [Commonlounge](https://www.commonlounge.com/). You learn by working on real-world projects and getting feedback from industry mentors.
 

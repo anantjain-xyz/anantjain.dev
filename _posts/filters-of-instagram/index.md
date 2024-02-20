@@ -9,51 +9,51 @@ redirect_from:
   - /filters-of-instagram-b51fd4755e1
 ---
 
-![Not **Normal**](./asset-1.jpeg)
+![Not **Normal**](/assets/blog/filters-of-instagram/asset-1.jpeg)
 
 ---
 
-![Rain drops in focus, with a **Lo-Fi** shot of the city in the background.](./asset-2.jpeg)
+![Rain drops in focus, with a **Lo-Fi** shot of the city in the background.](/assets/blog/filters-of-instagram/asset-2.jpeg)
 
 ---
 
-![Sunday 7 am — the city still in **Slumber**](./asset-3.jpeg)
+![Sunday 7 am — the city still in **Slumber**](/assets/blog/filters-of-instagram/asset-3.jpeg)
 
 ---
 
-![The iconic **Sutro** Tower](./asset-4.jpeg)
+![The iconic **Sutro** Tower](/assets/blog/filters-of-instagram/asset-4.jpeg)
 
 ---
 
-![**Amaro**, in Italian, means bitter.](./asset-5.jpeg)
+![**Amaro**, in Italian, means bitter.](/assets/blog/filters-of-instagram/asset-5.jpeg)
 
 ---
 
-![Little Skillet has great **Nashville**\-style southern comfort food.](./asset-6.jpeg)
+![Little Skillet has great **Nashville**\-style southern comfort food.](/assets/blog/filters-of-instagram/asset-6.jpeg)
 
 ---
 
-![Of old **perpetua**l festivals, and new.](./asset-7.jpeg)
+![Of old **perpetua**l festivals, and new.](/assets/blog/filters-of-instagram/asset-7.jpeg)
 
 ---
 
-![**Aden**, in Hebrew, means attractive.](./asset-8.jpeg)
+![**Aden**, in Hebrew, means attractive.](/assets/blog/filters-of-instagram/asset-8.jpeg)
 
 ---
 
-![The Bay Bridge pairs really well with a full **moon**.](./asset-9.jpeg)
+![The Bay Bridge pairs really well with a full **moon**.](/assets/blog/filters-of-instagram/asset-9.jpeg)
 
 ---
 
-![**Rise** and shine.](./asset-10.jpeg)
+![**Rise** and shine.](/assets/blog/filters-of-instagram/asset-10.jpeg)
 
 ---
 
-![Lord **Kelvin**, amongst other things, studied temperature.](./asset-11.jpeg)
+![Lord **Kelvin**, amongst other things, studied temperature.](/assets/blog/filters-of-instagram/asset-11.jpeg)
 
 ---
 
-![**Hefe**weizen is a traditional, unfiltered wheat beer from Bavaria.](./asset-12.jpeg)
+![**Hefe**weizen is a traditional, unfiltered wheat beer from Bavaria.](/assets/blog/filters-of-instagram/asset-12.jpeg)
 
 ---
 

@@ -9,7 +9,7 @@ redirect_from:
   - /oh-snap-74d4013ba02e
 ---
 
-![That dip tho!](./asset-1.png)
+![That dip tho!](/assets/blog/oh-snap/asset-1.png)
 
 In the midst of all the gloom surrounding Snap, Inc.’s stock’s nose-dive after their Q1 earnings call this week, I wanted to share a couple of reasons why I’m still long on Snap:
 

@@ -9,7 +9,7 @@ redirect_from:
   - /smarter-faster-better-the-secrets-of-being-productive-in-life-and-business-b49ae9eeac6b
 ---
 
-![](./asset-1.png)
+![](/assets/blog/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business/asset-1.png)
 
 In _Smarter Faster Better_, Charles Duhigg tries to solve the science of productivity for individuals and teams. It’s a great follow up to Cal Newport’s [_Deep Work_](https://anantjain.dev/deep-work-c4a1b7232482)_,_ and if you’re a productivity nerd like me, this book will appeal to you every single bit as well. In addition, Charles Duhigg is one of my favorite authors, and I recommend this one as much as his other book [_The Power of Habit_](https://anantjain.dev/the-power-of-habit-25418fa8f832) that I reviewed earlier this year.
 
@@ -111,4 +111,4 @@ This concludes my review of Smarter, Faster, Better. If these ideas clicked with
 
 _This is #19 in a series of book reviews published weekly on this site._
 
-![Chicago Athletic Association Hotel has a wonderful café tucked in on the second floor](./asset-2.png)
+![Chicago Athletic Association Hotel has a wonderful café tucked in on the second floor](/assets/blog/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business/asset-2.png)

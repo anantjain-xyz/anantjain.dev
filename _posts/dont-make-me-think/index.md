@@ -9,7 +9,7 @@ redirect_from:
   - /dont-make-me-think-4763547bc1cc
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/dont-make-me-think/asset-1.jpeg)
 
 Steve Krug’s book “Don’t Make Me Think” is considered a classic amongst UX Designers. This book is highly readable, and is an essential read if you’re in the field of designing products. In this summary, we’ll go through the least you can do today to make your website a lot more usable.
 
@@ -117,4 +117,4 @@ _Originally published at_ [_www.commonlounge.com_](https://www.commonlounge.com/
 
 _This is #12 in a series of book reviews published weekly on this site._
 
-![Photo by [David Travis](https://unsplash.com/@dtravisphd)](./asset-2.png)
+![Photo by [David Travis](https://unsplash.com/@dtravisphd)](/assets/blog/dont-make-me-think/asset-2.png)

@@ -8,12 +8,12 @@ published: true
 
 Until recently, meditation had a marketing problem. It was too often confused to have something to do with the spiritual (or even the religious), but it doesn't. Headspace solved that problem by giving meditation a new verb. I've been doing Headspace on and off since Summer 2017 and wanted to share a few thoughts I had.
 
-![](./hs.png)
+![](/assets/blog/100-hours-of-headspace/hs.png)
 
 ## Meditation and associative activation
 I believe that the biggest win of meditating regularly is getting **associative activation** a little more under control. Daniel Kahneman describes associative activation in [Thinking Fast and Slow](/thinking-fast-and-slow/) as follows:
 
-![](./tfs.png)
+![](/assets/blog/100-hours-of-headspace/tfs.png)
 
 Just like you can train a physical muscle, you can train your mind to wander away a bit lesser. Make a resolve to focus on something — your breath, an object, or anything else. Watch this associative activation process unfold over and over again, it inevitably will. The beauty of meditation is that it teaches you that it's normal for this to happen. However, as soon as you find yourself lost in your thoughts, note down whether you were _thinking_ or _feeling_, and let it go and get back to your center of focus.
 

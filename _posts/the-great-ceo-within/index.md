@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![The Great CEO Within: The Tactical Guide to Company Building.](./great-ceo-within-cover.jpg)
+![The Great CEO Within: The Tactical Guide to Company Building.](/assets/blog/the-great-ceo-within/great-ceo-within-cover.jpg)
 
 If you are starting a tech company, this is the one book you cannot _afford_ to miss. It is the most practical, tactical guide to building a well-functioning business that I've come across, and was easily the best book I read in all of 2019. Straight to the point, this book epitomizes the Pareto Principle — in less than 200 pages, it gives you more than 80% of what you will learn _if_ you ever become a successful, effective executive. Topics covered:
 - **Individual Habits** (Getting Things Done, Top Goal, On Time and Present, Energy Audit, etc.)

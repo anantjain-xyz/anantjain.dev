@@ -34,14 +34,14 @@ As a globally-distributed database, Spanner provides several interesting feature
 
 - A Spanner deployment is called a universe. Zones are the unit of administrative deployment. Zones are also the unit of physical isolation: there may be one or more zones in a datacenter, for example, if different applications’ data must be partitioned across different sets of servers in the same datacenter.
 
-![Spanner server organization](./1.png)
+![Spanner server organization](/assets/blog/spanner/1.png)
 
 - A zone has one zonemaster and between one hundred and several thousand spanservers. The former assigns data to spanservers; the latter serve data to clients. The per-zone location proxies are used by clients to locate the spanservers assigned to serve their data.
 - The universe master is primarily a console that displays status information about all the zones for interactive debugging. The placement driver handles automated movement of data across zones on the timescale of minutes. The placement driver periodically communicates with the spanservers to find data that needs to be moved, either to meet updated replication constraints or to balance load.
 
 ### Spanserver Software Stack
 
-![Spanserver Software Stack](./2.png)
+![Spanserver Software Stack](/assets/blog/spanner/2.png)
 
 - At the bottom, each spanserver is responsible for between 100 and 1000 instances of a data structure called a tablet. A tablet is similar to Bigtable’s tablet abstraction.
 - Unlike Bigtable, Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.
@@ -66,7 +66,7 @@ As a globally-distributed database, Spanner provides several interesting feature
 
 ### True Time
 
-![TrueTime API. The argument t is of type TTstamp.](./3.png)
+![TrueTime API. The argument t is of type TTstamp.](/assets/blog/spanner/3.png)
 
 - The time epoch is analogous to UNIX time with leap-second smearing.
 - The underlying time references used by TrueTime are GPS and atomic clocks.
@@ -93,7 +93,7 @@ To summarize, Spanner combines and extends on ideas from two research communitie
 ### PDF
 
 - [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44915.pdf)
-- [Annotated copy](./spanner-annotated.pdf)
+- [Annotated copy](/assets/blog/spanner/spanner-annotated.pdf)
 
 ---
 

@@ -71,7 +71,7 @@ An implementation that uses a single central server fails if that server fails. 
 ### PDF
 
 * [Original](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
-* [Annotated copy](./paxos-annotated.pdf)
+* [Annotated copy](/assets/blog/paxos/paxos-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #8 in this [series](https://anantjain.dev/#paper-reviews).

@@ -56,7 +56,7 @@ A number of techniques were described for the first time:
 ### PDF
 
 * [Original](http://cidrdb.org/cidr2017/papers/p82-dong-cidr17.pdf)
-* [Annotated copy](./rocksdb-annotated.pdf)
+* [Annotated copy](/assets/blog/rocksdb/rocksdb-annotated.pdf)
 
 ---
 I love reading foundational papers in Computer Science and publish my notes here on this blog. This was post #36 in this [series](https://anantjain.dev/#paper-reviews).

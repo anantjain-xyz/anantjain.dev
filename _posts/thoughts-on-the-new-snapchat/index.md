@@ -14,7 +14,7 @@ As you may know, Snap Inc. announced a new version of Snapchat today. To be fair
 -   **Social:** Chats and Stories from your friends will be on the left side of the camera. Earlier, the stories used to be on the right. Also, this friend list would be ordered not by most recent conversation first, but by whom you’re most likely to interact with at the moment.
 -   **Media:** Stories from publishers, creators, and the community will be on the right side of the camera.  While the Stories here are personalized algorithmically, the curators review and approve everything that gets promoted on the page.
 
-![So you see, your **_Social_** is, umm, separated from **_Media_** now](./asset-1.png)
+![So you see, your **_Social_** is, umm, separated from **_Media_** now](/assets/blog/thoughts-on-the-new-snapchat/asset-1.png)
 
 #### Snapchat’s strengths
 

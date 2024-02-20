@@ -64,7 +64,7 @@ ClangMR allows for fast and versatile refactoring of large C++ codebases, and ha
 ### PDF
 
 * [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41342.pdf)
-* [Annotated copy](./clangmr-annotated.pdf)
+* [Annotated copy](/assets/blog/clangmr/clangmr-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #30 in this [series](https://anantjain.dev/#paper-reviews).

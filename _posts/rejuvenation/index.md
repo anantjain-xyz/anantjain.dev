@@ -48,7 +48,7 @@ published: true
 
 - Refactoring strictly preserves the observable behavior of the program.
 
-![Source Code Rejuvenation vs. Refactoring](./rejuvenation.png)
+![Source Code Rejuvenation vs. Refactoring](/assets/blog/rejuvenation/rejuvenation.png)
 
 ### Conclusion
 
@@ -57,7 +57,7 @@ In this paper, the authors have demonstrated with examples that the diﬀerence 
 ### PDF
 
 - [Original](https://www.stroustrup.com/sofsem10.pdf)
-- [Annotated copy](./rejuvenation-annotated.pdf)
+- [Annotated copy](/assets/blog/rejuvenation/rejuvenation-annotated.pdf)
 
 ---
 

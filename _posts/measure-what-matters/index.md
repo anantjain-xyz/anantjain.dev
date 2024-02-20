@@ -9,7 +9,7 @@ redirect_from:
   - /measure-what-matters-9187e735b26f
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/measure-what-matters/asset-1.jpeg)
 
 John Doerr is pretty much a legend in the Silicon Valley. He’s a venture capitalist at KPCB, and was amongst the first backers of both Amazon.com and Google, two of the four largest US technology giants today. Earlier, in 1970s, he was one of the most successful salespeople at Intel in the Andy-Grove-era, and also holds several patents for memory devices.
 
@@ -21,7 +21,7 @@ Let me recap this book real quick for you, so you can skip it:
 
 OKRs are a goal setting system. Each quarter, the company as a whole, the teams, and the individuals create a list of 3–5 Objectives, with 3–5 measurable Key Results each. Here’s a sample OKR for the Product team:
 
-![Sample OKR for a PM. Source: [http://okrexamples.co](http://okrexamples.co)](./asset-2.png)
+![Sample OKR for a PM. Source: [http://okrexamples.co](http://okrexamples.co)](/assets/blog/measure-what-matters/asset-2.png)
 
 Here are a few points to note about OKRs:
 
@@ -50,6 +50,6 @@ OKRs catalyze culture. CFRs nourish it. The two tools, used together, can help b
 
 It seems that just reading [GV’s blog post](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7) on OKRs will teach you as much as reading the whole book. If you’re looking forward to implementing the OKR system in your company, a low-fi solution like a public Google Doc may be good enough. If you can afford to splurge, a formal software system may work well for your company. [Betterworks](https://www.betterworks.com) comes highly recommended.
 
-![](./asset-3.jpeg)
+![](/assets/blog/measure-what-matters/asset-3.jpeg)
 
 _This is #30 in a series of book reviews published weekly on this site._

@@ -68,7 +68,7 @@ Containerization transforms the data center from being machine-oriented to being
 ### PDF
 
 * [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
-* [Annotated copy](./borg-omega-kubernetes-annotated.pdf)
+* [Annotated copy](/assets/blog/borg-omega-kubernetes/borg-omega-kubernetes-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #1 in this [series](https://anantjain.dev/#paper-reviews).

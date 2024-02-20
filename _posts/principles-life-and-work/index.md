@@ -9,7 +9,7 @@ redirect_from:
   - /principles-life-and-work-1854406bb841
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/principles-life-and-work/asset-1.jpeg)
 
 Principles by Ray Dalio is an interesting book. It’s full of very smart ideas on managing your life and work — by probably one of the smartest people out there. Ray Dalio is a self-made billionaire who founded Bridgewater Associates and grew it into one of the largest hedge funds in the world.
 
@@ -56,4 +56,4 @@ A fair warning: the book is overall very dry and not easy to read. At times, it 
 
 _This is #20 in a series of book reviews published weekly on this site._
 
-![Photo by [Markus Spiske](https://unsplash.com/@markusspiske)](./asset-2.png)
+![Photo by [Markus Spiske](https://unsplash.com/@markusspiske)](/assets/blog/principles-life-and-work/asset-2.png)

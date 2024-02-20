@@ -57,4 +57,4 @@ redirect_from:
 - Good to Great: Why Some Companies Make the Leap… and Others Don’t. James C. Collins.
 - Indistractable: How to Control Your Attention and Choose Your Life. Nir Eyal.
 
-![Photo by [Dmitrij Paskevic](https://unsplash.com/@zeak)](./asset-1.png)
+![Photo by [Dmitrij Paskevic](https://unsplash.com/@zeak)](/assets/blog/books-read-and-listened-to-in-2019/asset-1.png)

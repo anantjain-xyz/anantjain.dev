@@ -9,7 +9,7 @@ redirect_from:
   - /the-7-habits-of-highly-effective-people-d5041a1842b5
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-7-habits-of-highly-effective-people/asset-1.jpeg)
 
 I love books that are easy to recollect and are huge multipliers in your life. This classic book by Stephen Covey squarely falls in that category. Reading it is a one time investment that changes your outlook on a lot of habits in your life — and the secondary and tertiary order effects of that have a life-changing impact on you. You probably invest some of your time in building these habits — reading a book like this gives you a good framework to think about them.
 
@@ -43,4 +43,4 @@ One of the things I liked about the book was how these seven habits flow into ea
 
 _This is #3 in a series of book reviews published weekly on this site._
 
-![I guessed the photographer was German by the way they styled their 1’s. Double confirmed by googling for Tuesday in German (Dienstag) and Thursday in German (Donnerstag). Photo by [Estée Janssens](https://unsplash.com/photos/zni0zgb3bkQ) on [Unsplash](https://unsplash.com/search/photos/calendar).](./asset-2.jpeg)
+![I guessed the photographer was German by the way they styled their 1’s. Double confirmed by googling for Tuesday in German (Dienstag) and Thursday in German (Donnerstag). Photo by [Estée Janssens](https://unsplash.com/photos/zni0zgb3bkQ) on [Unsplash](https://unsplash.com/search/photos/calendar).](/assets/blog/the-7-habits-of-highly-effective-people/asset-2.jpeg)

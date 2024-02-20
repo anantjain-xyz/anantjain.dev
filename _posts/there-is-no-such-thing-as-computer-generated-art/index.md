@@ -13,7 +13,7 @@ Around a year ago, Christie’s, a British auction house, sold its first piece o
 
 I have always been intrigued by the notion of computer-generated art. However, every time I try to think of the term, “computer-generated art” something seems off. Somehow, it sounds like an oxymoron to me. Let’s look at why. Here’s the definition of art from Google search:
 
-![[Portrait of Edmond Belamy](http://obvious-art.com/edmond-de-belamy.html)](./asset-1.png)
+![[Portrait of Edmond Belamy](http://obvious-art.com/edmond-de-belamy.html)](/assets/blog/there-is-no-such-thing-as-computer-generated-art/asset-1.png)
 
 **“Art** is the expression or application of **human** creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power.”
 
@@ -33,4 +33,4 @@ Art, by definition, cannot be scalable. The marginal cost of generating each pie
 
 And maybe, after all, Picasso wasn’t wrong when he said, “Computers are useless. They can only give answers.”
 
-![Photo by [Igor Miske](https://unsplash.com/@igormiske)](./asset-2.png)
+![Photo by [Igor Miske](https://unsplash.com/@igormiske)](/assets/blog/there-is-no-such-thing-as-computer-generated-art/asset-2.png)

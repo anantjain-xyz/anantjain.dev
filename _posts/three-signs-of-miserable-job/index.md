@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![The Three Signs of a Miserable Job: A Fable for Managers](./three-signs-cover.jpg)
+![The Three Signs of a Miserable Job: A Fable for Managers](/assets/blog/three-signs-of-miserable-job/three-signs-cover.jpg)
 
 Patrick Lencioni's approach to writing business books is quite refreshing. The book reads like a story while driving home a few, but important takeaways for becoming a great manager. _The Three Signs of a Miserable Job_ is a story of a retired CEO who goes on to become the weekend manager at a local pizza joint since he cannot stand how common it is for people to be miserable at their jobs. He takes on this challenge to test out his theory of how to make sure the people you manage lead a fulfilling work life, even if they work at a pizza parlor. Here are my notes from this book.
 

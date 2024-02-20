@@ -11,7 +11,7 @@ redirect_from:
 
 There are very few moments in your life where you realize what you just saw is going to change the world as we know it. The first time you connected to the internet over a dial-up modem _(I’m old enough to have done so!)._ The first time you flicked the iPhone screen and saw the smooth and springy scroll. The first time Google Now told you to leave for the airport earlier due to excessive traffic. VR is one of those experiences.
 
-![](./asset-1.jpeg)
+![](/assets/blog/virtual-reality/asset-1.jpeg)
 
 It’s one of those things that set my mind racing with the opportunities we as designers and developers are going to have for changing the environment we live in:
 

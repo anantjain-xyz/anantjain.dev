@@ -9,7 +9,7 @@ redirect_from:
   - /bad-blood-secret-and-lies-in-a-silicon-valley-startup-e66e18d97641
 ---
 
-![](./asset-1.png)
+![](/assets/blog/bad-blood-secret-and-lies-in-a-silicon-valley-startup/asset-1.png)
 
 I was initially planning to skip this book. I always tell people that there isn’t much to learn from failures — there are so many ways to fail and so few to succeed that it’s probably better to focus on just the successes. After multiple strong recommendations from friends, I decided to give this one a go on Audible.
 
@@ -31,4 +31,4 @@ Next time you’re in the mood for some dark fiction, read this book instead.
 
 _This is #38 in a series of book reviews published weekly on this site._
 
-![You need a lot more blood than can fit in that vial to run 200+ tests.](./asset-2.jpeg)
+![You need a lot more blood than can fit in that vial to run 200+ tests.](/assets/blog/bad-blood-secret-and-lies-in-a-silicon-valley-startup/asset-2.jpeg)

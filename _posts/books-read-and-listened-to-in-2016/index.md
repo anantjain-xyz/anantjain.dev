@@ -9,7 +9,7 @@ redirect_from:
   - /books-read-and-listened-to-in-2016-2677038679ed
 ---
 
-![Photo by [Alex Block](https://unsplash.com/photos/PdDBTrkGYLo) on [Unsplash](https://unsplash.com/)](./asset-1.jpeg)
+![Photo by [Alex Block](https://unsplash.com/photos/PdDBTrkGYLo) on [Unsplash](https://unsplash.com/)](/assets/blog/books-read-and-listened-to-in-2016/asset-1.jpeg)
 
 #### Books (17)
 

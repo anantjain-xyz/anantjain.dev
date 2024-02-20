@@ -9,7 +9,7 @@ redirect_from:
   - /on-writing-a-memoir-of-the-craft-a037cd5cf928
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/on-writing-a-memoir-of-the-craft/asset-1.jpeg)
 
 Stephen King is a magician with a pen for a wand. He is a fiction author with more than 50 bestselling books to his name. _On Writing_ opens with a little autobiography that charts the path his life took that made him the writer he is today. He talks about the general state of poverty and helpness that he went through not just as a child raised by a single mother, but also later as a writer with a laundromat job to pay the bills.
 
@@ -65,4 +65,4 @@ There are books that change your modus operandus. They change your life or work.
 
 _This is #32 in a series of book reviews published weekly on this site._
 
-![— at Thorough Bread and Pastry, San Francisco.](./asset-2.jpeg)
+![— at Thorough Bread and Pastry, San Francisco.](/assets/blog/on-writing-a-memoir-of-the-craft/asset-2.jpeg)

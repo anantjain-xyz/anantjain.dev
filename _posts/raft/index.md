@@ -179,7 +179,7 @@ broadcastTime ≪ electionTimeout ≪ MTBF
 ### PDF
 
 - [Original](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)
-- [Annotated copy](./raft-annotated.pdf)
+- [Annotated copy](/assets/blog/raft/raft-annotated.pdf)
 
 ---
 

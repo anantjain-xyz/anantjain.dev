@@ -9,7 +9,7 @@ redirect_from:
   - /10-happier-5d27ba69b185
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/10-happier/asset-1.jpeg)
 
 Dan Harris, the author of _10% Happier_, was an ABC News correspondent who had a very public panic attack on live TV (start at 0:49):
 
@@ -39,4 +39,4 @@ P.S.: If you’re looking to get started with meditation, I can’t recommend [H
 
 _This is #27 in a series of book reviews published weekly on this site._
 
-![Photo by [Simon Migaj](https://unsplash.com/@simonmigaj)](./asset-2.png)
+![Photo by [Simon Migaj](https://unsplash.com/@simonmigaj)](/assets/blog/10-happier/asset-2.png)

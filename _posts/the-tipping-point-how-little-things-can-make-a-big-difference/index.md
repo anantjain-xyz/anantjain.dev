@@ -13,7 +13,7 @@ Up next on this blog, I’ll review three of Malcolm Gladwell’s five books I�
 
 First up, let’s review _The Tipping Point_ this week.
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-tipping-point-how-little-things-can-make-a-big-difference/asset-1.jpeg)
 
 The Tipping Point deconstructs the science of social epidemics — how ideas break out and spread like wild fire. It’s the second book I’ve read on the topic, the first one being Jonah Berger’s [Contagious](https://anantjain.dev/contagious-why-things-catch-on-c4dfa405db14) that I reviewed earlier this year. With examples spanning from the sudden spike in popularity of Hush Puppies to the rapid decline in crime rate in New York City in 1990s, Gladwell deconstructs what goes into that single moment of crystallization when seemingly isolated events “tip” into an influential trend. According to Gladwell, it boils down to just three factors: the **Law of the Few**, the **Stickiness Factor**, and the **Power of Context.**
 
@@ -60,4 +60,4 @@ Although the ideas in this book might not be that unique, I’d say it’s still
 
 _This is #21 in a series of book reviews published weekly on this site. You can read rest of them_ [_here_](https://anantjain.dev/tagged/books)_._
 
-![The initial inspiration for the book came from came from the sudden drop of crime rate in New York City. Photo by [Zach Miles](https://unsplash.com/@zachmiles).](./asset-2.png)
+![The initial inspiration for the book came from came from the sudden drop of crime rate in New York City. Photo by [Zach Miles](https://unsplash.com/@zachmiles).](/assets/blog/the-tipping-point-how-little-things-can-make-a-big-difference/asset-2.png)

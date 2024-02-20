@@ -25,4 +25,4 @@ Now this space data center is our new home. It’s our only home. We happily rev
 
 Nor is there a need to.
 
-![This photo has nothing to do with SpaceX, OpenAI or Neuralink. Also, it’s not a photo — it’s a CGI. No one in their right mind would send another flying object in the path of a space shuttle just to get a nice click.](./asset-1.jpeg)
+![This photo has nothing to do with SpaceX, OpenAI or Neuralink. Also, it’s not a photo — it’s a CGI. No one in their right mind would send another flying object in the path of a space shuttle just to get a nice click.](/assets/blog/alternative-to-space-travel/asset-1.jpeg)

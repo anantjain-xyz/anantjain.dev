@@ -9,7 +9,7 @@ redirect_from:
   - /skin-in-the-game-9bf95b82c0ff
 ---
 
-![](./asset-1.png)
+![](/assets/blog/skin-in-the-game/asset-1.png)
 
 In [Antifragile](https://anantjain.dev/antifragile-things-that-gain-from-disorder-8a0e86257edb), I mentioned that the book is part of Nassim Nicholas Taleb’s Incerto series. In 2018, Taleb added _Skin in the Game_ to this series.  I hopped onto the audiobook over the past week and was happy to find that while sticking to his fuck-you writing style, Taleb did a great job expanding on the ideas introduced over his last 3 books. Listening to this book felt like a quick summary, or rather, a re-read of his last three books and although no radically new ideas were presented here, it was still totally worth it.
 
@@ -47,4 +47,4 @@ You should really read the whole back and forth on Twitter, but at the end of th
 
 _This is #50 in a series of book reviews published weekly on this site._
 
-![Nassim Nicholas Taleb](./asset-2.jpeg)
+![Nassim Nicholas Taleb](/assets/blog/skin-in-the-game/asset-2.jpeg)

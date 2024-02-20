@@ -9,7 +9,7 @@ redirect_from:
   - /a-beginners-guide-to-rapid-prototyping-71e8722c17df
 ---
 
-![Photo by [Denise Jans](https://unsplash.com/photos/ZEtE38ybfao) on [Unsplash](https://unsplash.com/search/photos/sketch)](./asset-1.jpeg)
+![Photo by [Denise Jans](https://unsplash.com/photos/ZEtE38ybfao) on [Unsplash](https://unsplash.com/search/photos/sketch)](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-1.jpeg)
 
 The process of going from an idea to a product is a messy one. Learning how to **prototype** your idea, getting **feedback,** and **iterating** on it is the most critical skill anyone aspiring to build their own products should have. This is also one of the most significant parts of a UX Designer’s job.
 
@@ -17,7 +17,7 @@ Prototypes come in many forms, from a rough sketch on paper to an interactive si
 
 We’ll cover the meaning of a few terms related to rapid prototyping as well as the following:
 
-![](./asset-2.jpeg)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-2.jpeg)
 
 ### What is Rapid Prototyping?
 
@@ -25,7 +25,7 @@ We’ll cover the meaning of a few terms related to rapid prototyping as well as
 
 When used well, rapid prototyping will improve the quality of your designs by enhancing communication between the various parties and reducing the risk of building something that no one wants.
 
-![](./asset-3.png)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-3.png)
 
 ### What do you need to prototype?
 
@@ -40,7 +40,7 @@ You can prototype not just screens, apps, or websites, but almost anything. Prot
 -   **New technology:** Prototype a self-driving car journey!
 -   **New interface:** Prototype Apple Watch interface (when it first launched)
 
-![](./asset-4.png)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-4.png)
 
 So, now you understand what rapid prototyping is for. But how do you do it? We’ll cover that next.
 
@@ -52,7 +52,7 @@ Rapid Prototyping involves a three-step process, repeated as many times as neede
 2.  **Review:** Share the prototype with users and evaluate if it meets their needs and expectations.
 3.  **Refine:** Based on this feedback, identify areas that need to be improved or clarified.
 
-![Prototype, Review, Refine, Repeat.](./asset-5.png)
+![Prototype, Review, Refine, Repeat.](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-5.png)
 
 A prototype will usually start with a very simple mock-up of key areas and become more complex with each iteration as you gather more data from user feedback.
 
@@ -66,7 +66,7 @@ Also, remember to have an **iteration plan** in mind. A good rule of thumb when 
 
 But wait, what is this fidelity?
 
-![](./asset-6.png)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-6.png)
 
 ### What is meant by the fidelity of a prototype?
 
@@ -76,13 +76,13 @@ Fidelity refers to how closely a prototype matches the final product or solution
 
 Layout and design are the most noticeable aspects of a prototype’s fidelity. If a prototype is produced with a high level of visual fidelity from the beginning, users will tend to focus on visual rather than functional details, which would distract from the primary goal of the early stages of prototyping.
 
-![Static prototypes with two different fidelity levels - sketched (low-fidelity) and styled (high-fidelity)](./asset-7.png)
+![Static prototypes with two different fidelity levels - sketched (low-fidelity) and styled (high-fidelity)](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-7.png)
 
 #### Functional (Static vs. Interactive)
 
 Should the prototype be static, or does it have to look fully functional (interactive)? Both versions have pros and cons: static prototypes are simpler and quicker to implement, while interactive ones can be used later for usability testing and user training.
 
-![A high-fidelity Interactive Prototype. ([Source](https://framer.com/getstarted/examples/))](./asset-8.gif)
+![A high-fidelity Interactive Prototype. ([Source](https://framer.com/getstarted/examples/))](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-8.gif)
 
 #### Content (Lorem ipsum vs. real content)
 
@@ -98,7 +98,7 @@ Using real labels is also an excellent opportunity to test whether your “copy�
 -   **Medium-Fidelity:** Computer-based tools like Visio produce what we can call medium-fidelity prototypes in the form of **wireframes and workflows**. This level of fidelity is used to demonstrate a system’s behavior, to determine if user needs are being met, and to evaluate the user experience.
 -   **High-Fidelity:** High-fidelity prototypes can sometimes be so **realistic** that they are often mistaken for the real product. They are also much more **time-consuming** to produce. Tools like InVision, Sketch, Figma, Adobe XD, Framer, and so on allow non-technical users to create high-fidelity prototypes. Although these cannot be converted into usable code, they can be very handy later for usability testing or user training purposes.
 
-![From Low-Fi, to Med-Fi, to Hi-Fi. ([Source](http://murdochcarpenter.com/portfolio/wireframes/))](./asset-9.jpeg)
+![From Low-Fi, to Med-Fi, to Hi-Fi. ([Source](http://murdochcarpenter.com/portfolio/wireframes/))](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-9.jpeg)
 
 ### How do you select which fidelity level to prototype on?
 
@@ -116,7 +116,7 @@ There is a wide variety of tools available for prototyping depending on your nee
 -   How **easy** is it to make changes to the prototype?
 -   Can I use pre-defined **templates** and stencils with this tool?
 
-![Paper and pencil, Sketch, Figma, Framer, Photoshop, Illustrator, XD, Origami…](./asset-10.png)
+![Paper and pencil, Sketch, Figma, Framer, Photoshop, Illustrator, XD, Origami…](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-10.png)
 
 ### Prototyping best practices: do’s and don’ts
 
@@ -127,7 +127,7 @@ There is a wide variety of tools available for prototyping depending on your nee
 -   Make your high-fidelity **realistic** (including response delays) so that users and stakeholders are not disappointed when they compare it with the final product.
 -   **Save templates** and **stencils** to reuse on future projects.
 
-![](./asset-11.png)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-11.png)
 
 #### Don’ts:
 
@@ -140,10 +140,10 @@ If your’re wondering how you should go about testing out your prototypes, read
 [**The well-kept secret behind great UX: Usability Testing**  
 _Whether you only have a prototype or a full-fledged product, it’s a really good idea to run monthly usability tests…_medium.freecodecamp.org](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3 "https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3")[](https://medium.freecodecamp.org/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3)
 
-![](./asset-12.png)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-12.png)
 
 Thanks for reading this quick guide. This was originally published as part of the [UX Design course](https://www.commonlounge.com/discussion/d8c1c96e92024adf9f496fe41dcaad1a) on [Commonlounge](https://www.commonlounge.com/), a platform that has courses with small bite-sized lessons like these on topics ranging from [Django](https://www.commonlounge.com/discussion/8053bde657804a6b9135c0d781c9d2c7) to [Machine Learning](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232) that deliver the most value for the time you put in.
 
 You learn by working on real-world projects and getting feedback from industry mentors. You should check it out [here](https://www.commonlounge.com/)!
 
-![](./asset-13.png)
+![](/assets/blog/a-beginners-guide-to-rapid-prototyping/asset-13.png)

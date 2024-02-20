@@ -9,7 +9,7 @@ redirect_from:
   - /blink-the-power-of-thinking-without-thinking-c3a554181166
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/blink-the-power-of-thinking-without-thinking/asset-1.jpeg)
 
 _Blink_ is Malcolm Gladwell’s second book, and I’m glad I finally got around to it earlier last month. I heard it on Audible after putting it off for many years and bought a paperback last week since it receives a more thorough re-read.
 
@@ -72,4 +72,4 @@ Thanks for reading this blog! Next Sunday, we have Gladwell’s third book: _Out
 
 _This is #22 in a series of book reviews published weekly on this site. You can read rest of them_ [_here_](https://anantjain.dev/tagged/books)_._
 
-![Photo by [Samuel Zeller](https://unsplash.com/@samuelzeller)](./asset-2.png)
+![Photo by [Samuel Zeller](https://unsplash.com/@samuelzeller)](/assets/blog/blink-the-power-of-thinking-without-thinking/asset-2.png)

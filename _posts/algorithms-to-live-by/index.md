@@ -9,7 +9,7 @@ redirect_from:
   - /algorithms-to-live-by-book-review-77f53d63fa78
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/algorithms-to-live-by/asset-1.jpeg)
 
 Whether you’re a computer science veteran, or just want to dip your toes into the fantastic world of algorithms, this book is for you. Being able to explain complex ideas in simple words is the hallmark of mastery of a subject, and Brian Christian and Tom Griffiths prove every bit of theirs in this book.
 
@@ -83,4 +83,4 @@ _This 29-part course consists of tutorials on ML concepts and algorithms, as wel
 
 _This is #36 in a series of book reviews that I write every week._
 
-![Sorting. Caching. By [Ugur Akdemir](https://unsplash.com/@ugur)](./asset-2.png)
+![Sorting. Caching. By [Ugur Akdemir](https://unsplash.com/@ugur)](/assets/blog/algorithms-to-live-by/asset-2.png)

@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![](./the-mom-test-cover.png)
+![](/assets/blog/the-mom-test/the-mom-test-cover.png)
 
 _The Mom Test_ is exactly the kind of book that I want to read — short, original, and to-the-point. _User Research_ is a huge buzzword now — folks realize it can save you world of pain if you do it right. _"Just talk to your users"_ is one piece of advice that you can give to any entrepreneur or product person and never be wrong (or more right!), but the sad reality is that nobody really knows how they are supposed to be doing it, or what exactly they are supposed to be getting out of it.
 

@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![](./gtd-cover.jpg)
+![](/assets/blog/getting-things-done/gtd-cover.jpg)
 
 Getting Things Done, often abbreviated to GTD, is a time-management philosophy by Dave Allen. First published in 2001, GTD has acquired a cult-level following amongst its adopters.
 
@@ -31,7 +31,7 @@ Rest of this post is just quotes from the book's [Wikipedia page](https://en.wik
 
 * The GTD workflow consists of five stages: **capture, clarify, organize, reflect, and engage**. Once all the material is captured in the inbox, each item is clarified and organized by asking and answering questions about each item in turn as shown in the black boxes in the logic tree diagram:
 
-![The GTD Workflow](./gtd.png)
+![The GTD Workflow](/assets/blog/getting-things-done/gtd.png)
 
 * The most important thing I took away from GTD is the "2-minute rule": if it can be done in less than 2 minutes, just do it now. If not, file it away.
 

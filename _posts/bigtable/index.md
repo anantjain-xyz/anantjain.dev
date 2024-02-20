@@ -21,7 +21,7 @@ published: true
 
 ### Data Model
 
-![A slice of an example table that stores Web pages.](./webtable.png)
+![A slice of an example table that stores Web pages.](/assets/blog/bigtable/webtable.png)
 
 - A Bigtable is a sparse, distributed, persistent multi-dimensional sorted map. The map is indexed by a row key, column key, and a timestamp; each value in the map is an uninterpreted array of bytes.
 
@@ -79,7 +79,7 @@ published: true
 
 ### Real Applications
 
-![Characteristics of a few tables in production use.](./production-use.png)
+![Characteristics of a few tables in production use.](/assets/blog/bigtable/production-use.png)
 
 As of August 2006, there are 388 non-test Bigtable clusters running in various Google machine clusters, with a combined total of about 24,500 tablet servers.
 
@@ -96,7 +96,7 @@ As of August 2006, there are 388 non-test Bigtable clusters running in various G
 ### PDF
 
 * [Original](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-* [Annotated copy](./bigtable-annotated.pdf)
+* [Annotated copy](/assets/blog/bigtable/bigtable-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #6 in this [series](https://anantjain.dev/#paper-reviews).

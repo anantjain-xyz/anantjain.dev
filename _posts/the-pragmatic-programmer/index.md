@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![The Pragmatic Programmer](./the-pragmatic-programmer.jpg)
+![The Pragmatic Programmer](/assets/blog/the-pragmatic-programmer/the-pragmatic-programmer.jpg)
 
 Last week, after reviewing [_The Passionate Programmer_](/the-passionate-programmer), I realized that another book that will definitely belong in the top 3 in my list of essential reads for professional software developers has a fairly similar title: _The Pragmatic Programmer_. I read this book over multiple years — Amazon shows that I bought it in 2016 and according to Goodreads, I finally finished it in 2019. Over that three-year period, this book served as a personal oasis to remind me of the art and beauty of programming while I was knee deep in the muckiness of building a startup — which usually isn't as elegant or pragmatic as the craft programming can be.
 

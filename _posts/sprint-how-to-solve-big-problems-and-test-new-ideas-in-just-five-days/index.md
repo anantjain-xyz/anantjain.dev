@@ -9,7 +9,7 @@ redirect_from:
   - /sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days-d2913196f38e
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days/asset-1.jpeg)
 
 The Sprint process was developed at Google Ventures by Jake Knapp and John Zeratsky. It’s a highly effective process for solving problems by building prototypes and user-testing them over a span of five days. _Sprint_ is almost a required reading for everyone in the tech industry — from the executives to the engineers. I’ve recommended this book to more people than I can remember and recently realized that I haven’t published an official review of this book here, or have one place with all the links to my writings on it. I’m rectifying that this week.
 
@@ -37,4 +37,4 @@ That’s about it! The authors also wrote _Make Time_ that I [reviewed](https://
 
 _This is #48 in a series of book reviews published weekly on this site._
 
-![](./asset-2.jpeg)
+![](/assets/blog/sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days/asset-2.jpeg)

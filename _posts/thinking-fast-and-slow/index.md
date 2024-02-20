@@ -9,7 +9,7 @@ redirect_from:
   - /thinking-fast-and-slow-d1ce7c58215b
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/thinking-fast-and-slow/asset-1.jpeg)
 
 _Thinking, Fast and Slow_ by Daniel Kahneman is dense and introduces you to foundational ideas in behavioral science. It’s shocking, entertaining, and probably more educational than any college course I’ve taken. It introduces you to the fallibility of your own brain in quite a delightful way.
 
@@ -59,11 +59,11 @@ The goal of this book is to recognize the systematic errors that System 1 makes 
 -   **Loss aversion:** We dislike losing more than we like winning. A loss of $100 is worse than a gain of $100.
 -   **Prospect Theory:** Kahneman won the Nobel prize in economics by proposing Prospect Theory alongside Amos Tversky. It improves upon Bernoulli’s Utility Theory by accounting for loss aversion (greater slope on the loss side) and also for a subjective reference point.
 
-![Prospect Theory: S-shaped, asymmetrical and subjective reference point. Page 283.](./asset-2.jpeg)
+![Prospect Theory: S-shaped, asymmetrical and subjective reference point. Page 283.](/assets/blog/thinking-fast-and-slow/asset-2.jpeg)
 
 -   **Possibility Effect, Certainty Effect and the Fourfold Pattern:**
 
-![The Fourfold Pattern. Page 317.](./asset-3.png)
+![The Fourfold Pattern. Page 317.](/assets/blog/thinking-fast-and-slow/asset-3.png)
 
 -   **The Expectation Principle:** As per the last two heuristics, we can see that the decision weights that we assign to outcomes are not identical to the probabilities of these outcomes. We contradict the Expectation Principle.
 -   **Overestimating the likelihood of Rare Events:** We choose the alternative in a decision which is described with explicit vividness, repetition and higher relative frequency. Availability Cascade and Cognitive Ease play a huge role in this.
@@ -84,4 +84,4 @@ The goal of this book is to recognize the systematic errors that System 1 makes 
 
 _This is #4 in a series of book reviews published weekly on this site._
 
-![Photo by [Quentin Dr](https://unsplash.com/photos/kcw2MMrjesk) on [Unsplash](https://unsplash.com/search/photos/thinking)](./asset-4.jpeg)
+![Photo by [Quentin Dr](https://unsplash.com/photos/kcw2MMrjesk) on [Unsplash](https://unsplash.com/search/photos/thinking)](/assets/blog/thinking-fast-and-slow/asset-4.jpeg)

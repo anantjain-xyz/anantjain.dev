@@ -9,7 +9,7 @@ redirect_from:
   - /writing-to-learn-9ed157c4fe4a
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/writing-to-learn/asset-1.jpeg)
 
 _Writing to Learn_ by William Zinsser is the third (and last, for now) book on writing I picked up this summer — the others were [_On Writing Well_](https://anantjain.dev/on-writing-well-24235ff04dab) by Zinsser again, and [_On Writing_](https://anantjain.dev/on-writing-a-memoir-of-the-craft-a037cd5cf928) by Stephen King. I still like the Stephen King book a whole lot better than the other two — in fact, I liked _Writing to Learn,_ the one I’m reviewing here, the least. Nevertheless, I came out with a strong validation of an idea I’ve always had in my head: that writing about something is one of the best ways to learn it.
 
@@ -35,4 +35,4 @@ This is so true. We don’t think of words that make up parts of sentences as to
 
 _This is #35 in a series of book reviews published weekly on this site._
 
-![Why do all stock images for “writing” have typewriters in them — who is still using these typewriters?](./asset-2.png)
+![Why do all stock images for “writing” have typewriters in them — who is still using these typewriters?](/assets/blog/writing-to-learn/asset-2.png)

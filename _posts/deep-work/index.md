@@ -9,7 +9,7 @@ redirect_from:
   - /deep-work-c4a1b7232482
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/deep-work/asset-1.jpeg)
 
 I liked _Deep Work_ by Cal Newport better than his other book, _So Good That They Cannot Ignore You,_ that I reviewed last week. Part of the reason is that I’m a huge productivity nerd who’s never happy with the systems I come up with. This book is broken down into two parts: _The Idea_ and _The Rules_.I liked the first part a whole lot better since it drives home the importance of focussed work. After reading this book, it’ll take months before you slump back to your distracted world, at which point, you can re-read this review :)
 
@@ -56,4 +56,4 @@ Be done with your work by 5:30, or whatever cutoff works for you. Very rarely do
 
 _This is #17 in a series of book reviews published weekly on this site._
 
-![“A beige chair at a small white desk with potted plants and framed art” by [Bench Accounting](https://unsplash.com/@benchaccounting)](./asset-2.png)
+![“A beige chair at a small white desk with potted plants and framed art” by [Bench Accounting](https://unsplash.com/@benchaccounting)](/assets/blog/deep-work/asset-2.png)

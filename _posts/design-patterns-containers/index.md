@@ -67,7 +67,7 @@ Beyond the interface of a single container, we also see design patterns emerging
 ### PDF
 
 - [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf)
-- [Annotated copy](./design-patterns-containers-annotated.pdf)
+- [Annotated copy](/assets/blog/design-patterns-containers/design-patterns-containers-annotated.pdf)
 
 ---
 

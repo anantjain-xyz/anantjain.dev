@@ -31,7 +31,7 @@ published: true
 - The median latency for trace data collection – that is, the time it takes data to propagate from instrumented application binaries to the central repository – is less than 15 seconds. The 98th percentile latency is itself bimodal over time; approximately 75% of the time, 98th percentile collection latency is less than two minutes, but the other approximately 25% of the time it can grow to be many hours.
 - Since security and privacy concerns are non-negotiable, Dapper stores the name of RPC methods but does not log any payload data at this time. Instead, application-level annotations provide a convenient opt-in mechanism.
 
-![An overview of the Dapper collection pipeline.](./dapper-overview.png)
+![An overview of the Dapper collection pipeline.](/assets/blog/dapper/dapper-overview.png)
 
 ### General-Purpose Dapper Tools
 
@@ -39,7 +39,7 @@ published: true
   - The Dapper “Depot API,” or DAPI, provides direct access to the distributed trace records in the regional Dapper repositories (or “Depots”).
   - The Dapper User Interface:
 
-![A typical user workflow in the general-purpose Dapper user interface.](./dapper-ui.png)
+![A typical user workflow in the general-purpose Dapper user interface.](/assets/blog/dapper/dapper-ui.png)
 
 ### Experiences
 
@@ -64,7 +64,7 @@ Below are some of the limitations of Dapper:
 ### PDF
 
 - [Original](https://s3.amazonaws.com/systemsandpapers/papers/dapper.pdf)
-- [Annotated copy](./dapper-annotated.pdf)
+- [Annotated copy](/assets/blog/dapper/dapper-annotated.pdf)
 
 ---
 

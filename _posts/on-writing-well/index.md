@@ -9,7 +9,7 @@ redirect_from:
   - /on-writing-well-24235ff04dab
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/on-writing-well/asset-1.jpeg)
 
 _On Writing Well_ is a book about the craft of putting words on paper. Fittingly, it also happens to be very well written and is an absolute pleasure to read. Becoming a better writer pays out dividends throughout your professional and personal life. Writing is more than just a presentation of ideas — it’s a transaction between the writer and the reader involving sharing of a passion, and it is that passion that will keep a reader reading. In this review, I’ll share my top seven learnings along with favorite quotes from this book.
 
@@ -49,4 +49,4 @@ And finally, “The perfect ending should take your readers slightly by surprise
 
 _This is #26 in a series of book reviews published weekly on this site._
 
-![“A vintage analogue typewriter with a white plain paper” by [Florian Klauer](https://unsplash.com/@florianklauer)](./asset-2.png)
+![“A vintage analogue typewriter with a white plain paper” by [Florian Klauer](https://unsplash.com/@florianklauer)](/assets/blog/on-writing-well/asset-2.png)

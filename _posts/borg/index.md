@@ -24,7 +24,7 @@ Distributed storage systems such as [GFS](/google-file-system) and its successor
 
 Users submit their work to Borg in the form of jobs, each of which consists of one or more tasks that all run the same program (binary). Each job runs in one Borg cell, a set of machines that are managed as a unit.
 
-![The high-level architecture of Borg. Only a tiny fraction of the thousands of worker nodes are shown.](./borg-architecture.png)
+![The high-level architecture of Borg. Only a tiny fraction of the thousands of worker nodes are shown.](/assets/blog/borg/borg-architecture.png)
 
 - Borg cells run a heterogenous workload with two main parts. The ﬁrst is long-running services that should “never” go down. The second is batch jobs that take from a few seconds to a few days to complete. Most long-running server jobs are prod; most batch jobs are non-prod.
 
@@ -168,7 +168,7 @@ This section describes how the lessons in building Borg have been leveraged in d
 ### PDF
 
 * [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
-* [Annotated copy](./borg-annotated.pdf)
+* [Annotated copy](/assets/blog/borg/borg-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #17 in this [series](https://anantjain.dev/#paper-reviews).

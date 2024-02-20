@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](./masters-of-doom.jpg)
+![Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](/assets/blog/masters-of-doom/masters-of-doom.jpg)
 
 _Masters of Doom_ is the incredible story of two Johns: John Carmack and John Romero, the legends behind two of the most well-known first-person shooter games in the history of gaming: _Doom_ and _Quake_. I listened to this book on Audible, and was very impressed with Wil Wheaton's narration. I'm sure I wouldn't have liked the book half as much (or even finished it) had I tried reading it on Kindle: so, I highly recommend grabbing an audio copy for this one. This also means that I don't have detailed notes/highlights to share for this book — so, I'll keep this summary short.
 

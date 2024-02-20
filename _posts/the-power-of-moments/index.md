@@ -9,7 +9,7 @@ redirect_from:
   - /the-power-of-moments-857ed275fde2
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-power-of-moments/asset-1.jpeg)
 
 Certain experiences have an extraordinary impact. We don’t have to wait for them to happen — we can intentionally engineer these _moments_ into our lives, or at least create conditions for them to emerge. This is the premise of the Heath brothers’ latest book that came out later last year. It’s a very easy, quick read full of engaging examples. You should give it a shot if you like some of the ideas below.
 
@@ -44,4 +44,4 @@ This post is the tip of the iceberg of ideas, examples and case studies presente
 
 _This is #10 in a series of book reviews published weekly on this site._
 
-![Photo by [Jonas Kaiser](https://unsplash.com/@kaiser1310)](./asset-2.png)
+![Photo by [Jonas Kaiser](https://unsplash.com/@kaiser1310)](/assets/blog/the-power-of-moments/asset-2.png)

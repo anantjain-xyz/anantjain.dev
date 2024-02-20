@@ -15,7 +15,7 @@ I’m **Anant**. Welcome to my little home on the web.
 
 I live in **San Francisco, CA** where I’m building [**Commonlounge**](https://www.commonlounge.com) with two of my friends —it has courses with up-to-date, bite-sized lessons that deliver the most value for the time you invest in. You should check it out!
 
-![In case you were wondering what I actually look like. Also, yes, that IS my Snapcode.](./asset-1.jpeg)
+![In case you were wondering what I actually look like. Also, yes, that IS my Snapcode.](/assets/blog/about-me/asset-1.jpeg)
 
 Other than that, I’m into **fitness, books, electronic music, art, design**, and of course, my original passion: computer science, and more broadly **technology** and its _insane_ potential to shape the world around us.
 

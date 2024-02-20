@@ -50,7 +50,7 @@ I recently started a Technical Paper Reading Group at Brex. In order to facilita
 ### PDF
 
 - [Original](http://www.wucathy.com/blog/wp-content/uploads/2016/07/2012-How-to-lead-a-technical-reading-group-Cathy-Wu.pdf)
-- [Annotated copy](./how-to-lead-a-technical-reading-group-annotated.pdf)
+- [Annotated copy](/assets/blog/how-to-lead-a-technical-reading-group/how-to-lead-a-technical-reading-group-annotated.pdf)
 
 ---
 

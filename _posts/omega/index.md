@@ -19,7 +19,7 @@ Monolithic schedulers do not make it easy to add new policies and specialized im
 
 Omega is a new parallel scheduler architecture built around shared state, using lock-free optimistic concurrency control, to achieve both implementation extensibility and performance scalability.
 
-![Schematic overview of the scheduling architectures explored in this paper.](./scheduler-architectures.png)
+![Schematic overview of the scheduling architectures explored in this paper.](/assets/blog/omega/scheduler-architectures.png)
 
 ### Requirements
 
@@ -50,7 +50,7 @@ Most (>80%) jobs are batch jobs, but the majority of resources (55–80%) are al
 ### PDF
 
 * [Original](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf)
-* [Annotated copy](./omega-annotated.pdf)
+* [Annotated copy](/assets/blog/omega/omega-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #7 in this [series](https://anantjain.dev/#paper-reviews).

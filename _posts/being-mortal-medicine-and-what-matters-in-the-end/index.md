@@ -9,7 +9,7 @@ redirect_from:
   - /being-mortal-medicine-and-what-matters-in-the-end-24c737f8250a
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/being-mortal-medicine-and-what-matters-in-the-end/asset-1.jpeg)
 
 Atul Gawande is an author of four books and a staff writer for The New Yorker in addition to being a surgeon and a public health researcher. Most people know him as the author of _The Checklist Manifesto_, which focuses on the use of checklists in daily and professional life. It’s amazing to see someone adept at and make a career out of more than one profession. In Dr. Gawande’s case, it’s three: writing, surgery and research. I was talking about Senior Care industry and the potential of solving problems in this space with a friend when this book got recommended to me. Since I’m already a fan of Dr. Gawande’s storytelling prowess, it went straight up to the top of my list.
 
@@ -31,4 +31,4 @@ Solving problems for the elderly with tech is one of the spaces where I think st
 
 _This is #44 in a series of book reviews published weekly on this site._
 
-![by [Elien Dumon](https://unsplash.com/@elien_dumon)](./asset-2.png)
+![by [Elien Dumon](https://unsplash.com/@elien_dumon)](/assets/blog/being-mortal-medicine-and-what-matters-in-the-end/asset-2.png)

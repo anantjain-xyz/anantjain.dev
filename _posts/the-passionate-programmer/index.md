@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![The Passionate Programmer: Creating a Remarkable Career in Software Development](./passionate-programmer-cover.jpg)
+![The Passionate Programmer: Creating a Remarkable Career in Software Development](/assets/blog/the-passionate-programmer/passionate-programmer-cover.jpg)
 
 If I were to create a list of essential reads for anyone about to start a career as a professional software developer, _The Passionate Programmer_ would be in the top 3 slots on it. In this book, Chad Fowler, a musician turned software developer, lays out a very useful framework to think about your software engineering career.
 

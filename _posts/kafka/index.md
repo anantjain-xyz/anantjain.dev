@@ -20,7 +20,7 @@ published: true
 * Kafka guarantees that messages from a single partition are delivered to a consumer in order. However, there is no guarantee on the ordering of messages coming from different partitions.
 
 ### Architecture
-![Kafka Architecture](./kafka-architecture.png)
+![Kafka Architecture](/assets/blog/kafka/kafka-architecture.png)
 * A stream of messages of a particular type is defined by a topic.
 * A producer can publish messages to a topic.
 * The published messages are then stored at a set of servers called brokers. Each producer can publish a message to either a randomly selected partition or a partition semantically determined by a partitioning key and a partitioning function.
@@ -41,7 +41,7 @@ published: true
 * **Reconsumption:** A consumer can deliberately rewind back to an old offset and re-consume data.
 
 ### Performance
-![Kafka Performance](./kafka-performance.png)
+![Kafka Performance](/assets/blog/kafka/kafka-performance.png)
 * On average, Kafka can publish messages at the rate of 50,000 and 400,000 messages per second for batch size of 1 and 50, respectively.
 * On average, Kafka consumed 22,000 messages per second, more than 4 times that of ActiveMQ and RabbitMQ
 
@@ -55,7 +55,7 @@ published: true
 
 ### PDF
 * [Original](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
-* [Annotated copy](./kafka-annotated.pdf)
+* [Annotated copy](/assets/blog/kafka/kafka-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #2 in this [series](https://anantjain.dev/#paper-reviews).

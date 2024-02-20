@@ -9,7 +9,7 @@ redirect_from:
   - /books-read-and-listened-to-in-2015-42792a6e99d6
 ---
 
-![Photo by [Patrick Tomasso](https://unsplash.com/photos/Oaqk7qqNh_c) on [Unsplash](https://unsplash.com/)](./asset-1.jpeg)
+![Photo by [Patrick Tomasso](https://unsplash.com/photos/Oaqk7qqNh_c) on [Unsplash](https://unsplash.com/)](/assets/blog/books-read-and-listened-to-in-2015/asset-1.jpeg)
 
 #### Books (12)
 

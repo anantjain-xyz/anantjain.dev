@@ -9,7 +9,7 @@ redirect_from:
   - /lean-in-women-work-and-the-will-to-lead-c014a047d6fc
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/lean-in-women-work-and-the-will-to-lead/asset-1.jpeg)
 
 _Lean In_ needs to be a required reading for anyone about to enter the workforce, irrespective of their gender. In this book, Sheryl Sandberg, Facebook’s COO, puts out a blueprint for individual growth for women, and sage advice for men so that we can all work towards the goal of _real_ gender equality, instead of just paying lip service to it. I’m really glad that a book like this exists that I can point my friends to if ever I see them holding their ambitions back.
 
@@ -43,4 +43,4 @@ At some level, it annoys me that books like _Lean In_ still need to be written a
 
 _This is #40 in a series of book reviews published weekly on this site._
 
-![Source: [https://www.ted.com/talks/sheryl\_sandberg\_why\_we\_have\_too\_few\_women\_leaders](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders)](./asset-2.jpeg)
+![Source: [https://www.ted.com/talks/sheryl\_sandberg\_why\_we\_have\_too\_few\_women\_leaders](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders)](/assets/blog/lean-in-women-work-and-the-will-to-lead/asset-2.jpeg)

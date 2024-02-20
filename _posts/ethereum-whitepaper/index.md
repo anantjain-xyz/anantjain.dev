@@ -121,7 +121,7 @@ published: true
 ### PDF
 
 - [Original](https://ethereum.org/en/whitepaper/)
-- [Annotated copy](./ethereum-whitepaper-annotated.pdf)
+- [Annotated copy](/assets/blog/ethereum-whitepaper/ethereum-whitepaper-annotated.pdf)
 
 ---
 

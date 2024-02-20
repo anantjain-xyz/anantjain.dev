@@ -9,7 +9,7 @@ redirect_from:
   - /the-selfish-gene-60d38c4e0e90
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-selfish-gene/asset-1.jpeg)
 
 I heard this one as an audiobook — which means I probably retained a lot less than I otherwise would have. I forewarn that parts of this book might be a little controversial or hard to swallow, but I remember coming out severely impressed by the elegance of the _Selfish Gene theory_. Overall, it’s a very interesting read and you shouldn’t miss it.
 
@@ -63,4 +63,4 @@ Very riveting, go read it.
 
 _This is #7 in a series of book reviews published weekly on this site._
 
-![So Selfish, eh!](./asset-2.jpeg)
+![So Selfish, eh!](/assets/blog/the-selfish-gene/asset-2.jpeg)

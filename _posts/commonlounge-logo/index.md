@@ -10,7 +10,7 @@ One of the things I fondly remember from 2016 is coming up with the [CommonLoung
 
 I wanted to doodle up something that remotely resembled the letters "CL", was a unique shape, and could easily adapt to multiple light/dark backgrounds. This was my first foray into any sort of logo design work, and this is what I came up with:
 
-![](./logo.png)
+![](/assets/blog/commonlounge-logo/logo.png)
 
 The left half resembled a _broken_ capital "C", and the right half resembled a lowercase "L". I know it's quite a stretch to imagine that, but I was happy with it. It was just a simple, symmetric shape that I could see getting used everywhere: app icons, splash pages, site ID on the headers, business cards, letterheads, etc.
 
@@ -24,7 +24,7 @@ I kept tinkering and having fun with it over time. Once, I tried to animate the 
 
 When Instagram splashed up their own logo with rainbow colors, I tried out a version for us to better fit into the zeitgeist.
 
-![](./colored-logo.png)
+![](/assets/blog/commonlounge-logo/colored-logo.png)
 
 ---
 

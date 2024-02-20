@@ -9,7 +9,7 @@ redirect_from:
   - /rocket-surgery-made-easy-f713083706a0
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/rocket-surgery-made-easy/asset-1.jpeg)
 
 This book is all about Usability Testing and builds upon the basics covered in [Don’t Make Me Think](https://anantjain.dev/dont-make-me-think-4763547bc1cc) that I covered last week. I really loved Steve Krug’s writing style. He does an excellent job of keeping you entertained and making sure you actually finish the book. I was in awe of how excellent writing makes a world of difference when it comes to presenting a topic that otherwise could have been pretty bland. Here are my notes from the book:
 
@@ -56,4 +56,4 @@ _Originally published at_ [_www.commonlounge.com_](https://www.commonlounge.com/
 
 _This is #13 in a series of book reviews published weekly on this site._
 
-![Photo by [Tran Mau Tri Tam](https://unsplash.com/@tranmautritam)](./asset-2.png)
+![Photo by [Tran Mau Tri Tam](https://unsplash.com/@tranmautritam)](/assets/blog/rocket-surgery-made-easy/asset-2.png)

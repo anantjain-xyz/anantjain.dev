@@ -9,7 +9,7 @@ redirect_from:
   - /books-read-in-2014-9d2a3d87ef46
 ---
 
-![Photo by [Tom Hermans](https://unsplash.com/photos/9BoqXzEeQqM) on [Unsplash](https://unsplash.com/)](./asset-1.jpeg)
+![Photo by [Tom Hermans](https://unsplash.com/photos/9BoqXzEeQqM) on [Unsplash](https://unsplash.com/)](/assets/blog/books-read-in-2014-and-2013/asset-1.jpeg)
 
 #### 2014 (27 books)
 

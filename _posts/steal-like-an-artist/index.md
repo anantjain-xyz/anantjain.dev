@@ -9,7 +9,7 @@ redirect_from:
   - /steal-like-an-artist-275d7027429d
 ---
 
-![](./asset-1.png)
+![](/assets/blog/steal-like-an-artist/asset-1.png)
 
 Chris Anderson, the curator of the TED Conference, sums up this book well in just one word: “Beautiful”. It’s a very short read, but it’s full of more wisdom than most books I’ve read. What follows is a collection of my favorite lines straight from the book.
 
@@ -21,7 +21,7 @@ This is the key message of the book. Nothing is original. All creative work buil
 
 You’re ready to start making stuff today. Start copying what you love — we’re talking about practice here, not plagiarism. There’s a difference between the _Good Theft_ and the _Bad Theft_:
 
-![](./asset-2.gif)
+![](/assets/blog/steal-like-an-artist/asset-2.gif)
 
 #### Write the book you want to read
 
@@ -57,6 +57,6 @@ It takes a lot of energy to be creative. You don’t have the energy if you wast
 
 Choose what to leave out. The right constraints can lead to your very best work. Creativity isn’t just the things we choose to put in, it’s the things we choose to leave out. Choose wisely. And have fun.
 
-![](./asset-3.jpeg)
+![](/assets/blog/steal-like-an-artist/asset-3.jpeg)
 
 _This is #28 in a series of book reviews published weekly on this site._

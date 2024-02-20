@@ -31,7 +31,7 @@ published: true
 
 ### System Structure
 
-![](./system-structure.png)
+![](/assets/blog/chubby/system-structure.png)
 
 * All communication between Chubby clients and the servers is mediated by the client library.
 * The replicas use a distributed consensus protocol to elect a **master**; the master must obtain votes from a majority of the replicas, plus promises that those replicas will not elect a different master for an interval of a few seconds known as the **master lease**.
@@ -76,7 +76,7 @@ Chubby is a distributed lock service intended for coarse-grained synchronization
 ### PDF
 
 * [Original](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
-* [Annotated copy](./chubby-annotated.pdf)
+* [Annotated copy](/assets/blog/chubby/chubby-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #9 in this [series](https://anantjain.dev/#paper-reviews).

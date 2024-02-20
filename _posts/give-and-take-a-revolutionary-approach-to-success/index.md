@@ -9,7 +9,7 @@ redirect_from:
   - /give-and-take-a-revolutionary-approach-to-success-6244e28faf6c
 ---
 
-![](./asset-1.png)
+![](/assets/blog/give-and-take-a-revolutionary-approach-to-success/asset-1.png)
 
 I read Adam Grant’s first book, _Give and Take,_ in August 2017. It introduced me to his excellent framework for building your professional (and personal) network. It’s probably the most valuable book on “networking” ever written.
 
@@ -19,6 +19,6 @@ Over the book, Adam makes a very strong case of becoming a _giver_ node in every
 
 I’m going to be a bit of a cop-out this week and instead of summarizing this book myself, I’ll leave you with this excellent infographic I found on Adam Grant’s site that does the job way better than I can. Happy Sunday :)
 
-![Credit: [Dana Wright / Take Action Inc.](http://take-action.com/pages/meet-the-team/)](./asset-2.jpeg)
+![Credit: [Dana Wright / Take Action Inc.](http://take-action.com/pages/meet-the-team/)](/assets/blog/give-and-take-a-revolutionary-approach-to-success/asset-2.jpeg)
 
 _This is #47 in a series of book reviews published weekly on this site._

@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![The Untold Story of the Scientific Betting System that Beat the Casinos and the Wall Street.](./fortunes-formula.jpg)
+![The Untold Story of the Scientific Betting System that Beat the Casinos and the Wall Street.](/assets/blog/fortunes-formula/fortunes-formula.jpg)
 
 > "*Fortune's Formula* may be the world's first history book, gambling primer, mathematics text, economics manual, personal finance guide and joke book in a single volume." — *The New York Times Book Review*
 
@@ -35,7 +35,7 @@ To many of Einstein's contemporaries, E = mc<sup>2</sup> made no sense. Matter a
 
 Furthermore, there's another collary to Kelly's criterion. There's a difference between aggressive vs. insane risk taking. Kelly's bet gives the highest return. Exceed it at your own peril:
 
-![](./aggressive-vs-insane.png)
+![](/assets/blog/fortunes-formula/aggressive-vs-insane.png)
 
 ## 4. Edward Thorpe and Princeton-Newport Partners
 From [Wikipedia](https://en.wikipedia.org/wiki/Edward_O._Thorp),
@@ -44,7 +44,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Edward_O._Thorp),
 
 Oh, as for the performance of the Princeton-Newton Partners, I'll leave this graph here:
 
-![](./pnp-performance.jpg)
+![](/assets/blog/fortunes-formula/pnp-performance.jpg)
 
 ## 5. Shannon's Portfolio
 When Warren Buffett bought Berkshire Hathaway in 1965, it was trading at $18 a share. By 1995 each share was worth $24,000. Over thirty years, that represents a return of 27 percent. From the late 1950s through 1986, Shannon's return on his stock portfolio was about 28 percent.

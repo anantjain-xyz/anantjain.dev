@@ -11,7 +11,7 @@ redirect_from:
 
 I came across the _Slow Carb Diet_ in Tim Ferris’ _Four-Hour Body_ in early 2015. I wrote out the following notes but didn’t get started on the diet until March 2016. If you’re trying to lose fat, I highly recommend you try it out for just 2 weeks — the initial fat loss would motivate you to stick to it. If there ever was a panacea to excessive body-fat, it’s probably this diet coupled with an increased level of physical activity — I lost 80 pounds over the following year by combining this with running and lifting, and still partially follow it.
 
-![Photo by [Carly Jayne](https://unsplash.com/photos/Lv174o7fn7Y) on [Unsplash](https://unsplash.com/search/photos/weight-loss)](./asset-1.jpeg)
+![Photo by [Carly Jayne](https://unsplash.com/photos/Lv174o7fn7Y) on [Unsplash](https://unsplash.com/search/photos/weight-loss)](/assets/blog/the-slow-carb-diet/asset-1.jpeg)
 
 ### Part I: The Five Rules
 

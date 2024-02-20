@@ -9,7 +9,7 @@ redirect_from:
   - /what-i-talk-about-when-i-talk-about-running-5ca1aad1c5e1
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/what-i-talk-about-when-i-talk-about-running/asset-1.jpeg)
 
 I had heard of Haruki Murakami before — I mean, who hasn’t? I’m not a big fiction reader myself, but Murakami is a massive force in the literary world: one of his recent novel’s, 1Q84’s, first printing sold out on the day it was released and sales crossed a million within a month.
 
@@ -21,7 +21,7 @@ The book is a beautiful memoir of Murakami’s four-month preparation for the 20
 
 Let’s start with something light. Murakami’s description of the cycle of seasons in New England, and specifically of the Fall in Boston as he trained along the Charles River is pretty remarkable. I believe he can write about anything in the world and it will turn out to be absolutely great. For instance, this excerpt starts about swinging ponytails that every runner has followed at some point, but ends up about being excessive Harvard hubris.
 
-![](./asset-2.png)
+![](/assets/blog/what-i-talk-about-when-i-talk-about-running/asset-2.png)
 
 This is the kind of writing that inspires you to write!
 
@@ -59,4 +59,4 @@ I ended up hearing this book over a few back-to-back 6-mile runs. It’s made me
 
 _This is #41 in a series of book reviews published weekly on this site._
 
-![“The only opponent you have to beat is yourself, the way you used to be.”](./asset-3.jpeg)
+![“The only opponent you have to beat is yourself, the way you used to be.”](/assets/blog/what-i-talk-about-when-i-talk-about-running/asset-3.jpeg)

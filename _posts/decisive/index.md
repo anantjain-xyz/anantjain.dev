@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![Decisive: How to Make Better Decisions](./decisive-book-cover.jpg)
+![Decisive: How to Make Better Decisions](/assets/blog/decisive/decisive-book-cover.jpg)
 
 I really liked Heath Brothers' books _Made to Stick_ ([Review](/made-to-stick-why-some-ideas-survive-and-others-die/)) and _Power of Moments_ ([Review](/the-power-of-moments/)) earlier, and decided to give _Decisive_ a shot.
 

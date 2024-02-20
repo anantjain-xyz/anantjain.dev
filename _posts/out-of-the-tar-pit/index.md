@@ -83,12 +83,12 @@ Complexity causes more problems in large software systems than anything else. Av
 
 Separation cannot be directly applied we believe the focus should be on avoiding state, avoiding explicit control where possible, and striving at all costs to get rid of code. So, what is the way out of the tar pit? What is the silver bullet?... it may not be FRP, but we believe there can be no doubt that it is simplicity.
 
-![Recommended Architecture](./recommended-architecture.png)
+![Recommended Architecture](/assets/blog/out-of-the-tar-pit/recommended-architecture.png)
 
 ### PDF
 
 - [Original](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
-- [Annotated copy](./out-of-the-tar-pit-annotated.pdf)
+- [Annotated copy](/assets/blog/out-of-the-tar-pit/out-of-the-tar-pit-annotated.pdf)
 
 ---
 

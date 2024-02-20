@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](./the-first-90-days.jpg)
+![The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](/assets/blog/the-first-90-days/the-first-90-days.jpg)
 
 _The First 90 Days_ is a business classic frequently recommended to leaders undergoing a role change or a career transition. This book aims to provide proven strategies that will dramatically shorten the time it takes you to reach the "breakeven point" where the value you provide to the organization is as much as the value you get from it. While anyone would benefit from the core ideas in this book and I recommend you read it, I have to add that it could've been a fifth of its original length without losing much of its value. In particular, the checklists at the end of each chapter are very helpful and pretty much all you need.
 

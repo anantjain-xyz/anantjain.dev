@@ -36,7 +36,7 @@ published: true
 ### PDF
 
 * [Original](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
-* [Annotated copy](./calm-theorem-annotated.pdf)
+* [Annotated copy](/assets/blog/calm-theorem/calm-theorem-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #28 in this [series](https://anantjain.dev/#paper-reviews).

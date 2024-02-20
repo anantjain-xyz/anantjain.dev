@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![](./new-one-minute-manager.jpg)
+![](/assets/blog/one-minute-manager/new-one-minute-manager.jpg)
 
 This book attempts to distill down the job of a _manager_ into a set of three one-minute components:
 
@@ -16,7 +16,7 @@ This book attempts to distill down the job of a _manager_ into a set of three on
 
 This is a pretty short book (111 pages), and I would recommend you read it if you manage anyone. However, you can learn a lot of what this book has to offer by going over the Game Plan at the end of the book:
 
-![The New One Minute Manager Game Plan](./game-plan.png)
+![The New One Minute Manager Game Plan](/assets/blog/one-minute-manager/game-plan.png)
 
 Here are my highlights from this book:
 

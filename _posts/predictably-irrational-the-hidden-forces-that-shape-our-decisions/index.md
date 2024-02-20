@@ -9,7 +9,7 @@ redirect_from:
   - /predictably-irrational-the-hidden-forces-that-shape-our-decisions-86c872d6e5a0
 ---
 
-![](./asset-1.png)
+![](/assets/blog/predictably-irrational-the-hidden-forces-that-shape-our-decisions/asset-1.png)
 
 This book review brings us back to a few of my favorite topics out there: psychology, behavioral economics, and the science of making decisions. _Predictably Irrational_ is about the irrationality that goes on behind-the-scenes in our decision making. If you’ve read Daniel Kahneman’s _Thinking, Fast and Slow_ ([review](https://anantjain.dev/thinking-fast-and-slow-d1ce7c58215b)), you won’t find any new ideas in this book — but it may be worth a read for new examples and case studies.
 
@@ -35,4 +35,4 @@ Reading, after all, is [_forgetting_](https://www.nybooks.com/daily/2015/06/26/r
 
 _This is #37 in a series of book reviews published weekly on this site._
 
-![“high-angle photography of grocery display gondola” by [Peter Bond](https://unsplash.com/@pvsbond)](./asset-2.png)
+![“high-angle photography of grocery display gondola” by [Peter Bond](https://unsplash.com/@pvsbond)](/assets/blog/predictably-irrational-the-hidden-forces-that-shape-our-decisions/asset-2.png)

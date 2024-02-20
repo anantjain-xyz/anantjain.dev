@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![](./war-of-art.jpg)
+![](/assets/blog/war-of-art/war-of-art.jpg)
 
 _The War of Art_ aims to inspire the writer or the artist within you to get started by overcoming ***"Resistance"***. It's a manifesto to kick you into action after days, months, or even years of uninspired sloth. Below are my highlights/notes from the book:
 

@@ -27,4 +27,4 @@ It is something that has been stolen from the trip — the part of your brai
 
 Only if we had ever paused to attempt that, we would be an artist too. For, an artist is someone audacious enough to do something for the sake of doing it, often not even realizing at the moment they are creating art that they are creating art. Art, where the rules have not been set yet, where you push your notions of what the word means. Things that are already out there for everyone to see and make something out of, and put it back for others to see, pause and marvel at the genius of the theft.
 
-![Photo by [Annie Spratt](https://unsplash.com/@anniespratt)](./asset-1.png)
+![Photo by [Annie Spratt](https://unsplash.com/@anniespratt)](/assets/blog/trip-3/asset-1.png)

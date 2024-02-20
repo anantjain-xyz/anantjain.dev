@@ -9,7 +9,7 @@ redirect_from:
   - /homo-deus-a-brief-history-of-tomorrow-fd8ba921a20f
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/homo-deus-a-brief-history-of-tomorrow/asset-1.jpeg)
 
 Homo Deus by Yuval Noah Harari is an excellent sequel to Sapiens. You may find small parts of it repetitive, but I’d argue that the spaced repetition helps solidify certain ideas in the head. While Sapiens was a brief history of the humankind, Homo Deus is all about what happens from here on.
 
@@ -61,4 +61,4 @@ _This is #15 in a series of book reviews published weekly on this site._
 
 ---
 
-![Coming soon to a planet near you :) (Credit: [Daniel Cheung](https://unsplash.com/@danielkcheung))](./asset-2.png)
+![Coming soon to a planet near you :) (Credit: [Daniel Cheung](https://unsplash.com/@danielkcheung))](/assets/blog/homo-deus-a-brief-history-of-tomorrow/asset-2.png)

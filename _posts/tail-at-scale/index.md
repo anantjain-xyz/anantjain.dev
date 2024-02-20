@@ -57,7 +57,7 @@ While some of the most powerful tail-tolerant techniques require additional reso
 ### PDF
 
 * [Original](https://www2.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf)
-* [Annotated copy](./the-tail-at-scale-annotated.pdf)
+* [Annotated copy](/assets/blog/tail-at-scale/the-tail-at-scale-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #31 in this [series](https://anantjain.dev/#paper-reviews).

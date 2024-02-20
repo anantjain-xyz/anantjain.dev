@@ -9,7 +9,7 @@ redirect_from:
   - /made-to-stick-why-some-ideas-survive-and-others-die-6dbd00563d48
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/made-to-stick-why-some-ideas-survive-and-others-die/asset-1.jpeg)
 
 This book is closely related to the Contagious book I reviewed last week — after all, for an idea to be contagious, it has to be sticky enough to be passed on along to at least more than one person. You’ll see a lot of overlapping elements from the previous review in this one. In addition, the structuring of the book was similar — this book can be summed into one acronym as well: the **SUCCESs** model which defines the six traits that an idea needs to be sticky:
 
@@ -43,4 +43,4 @@ For next week, I’ll review another book by the same authors (Heath brothers) t
 
 _This is #9 in a series of book reviews published weekly on this site._
 
-![Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema)](./asset-2.png)
+![Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema)](/assets/blog/made-to-stick-why-some-ideas-survive-and-others-die/asset-2.png)

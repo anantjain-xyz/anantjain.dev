@@ -47,4 +47,4 @@ redirect_from:
 -   Never Split the Difference: Negotiating As If Your Life Depended On It. Christopher Voss and Tahl Raz. ([Review](https://anantjain.dev/never-split-the-difference-a2f63dbc72fa))
 -   Skin in the Game. Nassim Nicholas Taleb. ([Review](https://anantjain.dev/skin-in-the-game-9bf95b82c0ff))
 
-![Photo by [Aaron Burden](https://unsplash.com/@aaronburden)](./asset-1.png)
+![Photo by [Aaron Burden](https://unsplash.com/@aaronburden)](/assets/blog/books-read-and-listened-to-in-2018/asset-1.png)

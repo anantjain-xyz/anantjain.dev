@@ -9,7 +9,7 @@ redirect_from:
   - /instagrams-igtv-is-the-new-media-format-creators-have-been-waiting-for-4f5aa2ac93d5
 ---
 
-![Source: Mashable’s Karissa Bell](./asset-1.jpeg)
+![Source: Mashable’s Karissa Bell](/assets/blog/instagrams-igtv-is-the-new-media-format-creators-have-been-waiting-for/asset-1.jpeg)
 
 If change is the only thing constant in the world, it’s most pronounced in the ways we communicate and entertain ourselves. We’ve seen more communication and media formats come up in recent years than the preceding century. Twitter, Vine and Snapchat are only a few examples of new communication formats that we’ve seen roll out over the past decade or so. On the other hand, while YouTube, Instagram, Medium and others didn’t invent new formats, they gave content creators novel, powerful ways to build and reach their audiences through the web.
 
@@ -25,7 +25,7 @@ What this means for marketers is that the creation of new platforms by big compa
 
 Beyond just a new marketing channel, IGTV could also potentially lead to the **birth of new startups**. YouTube provided a way to add videos to Myspace, which wasn’t possible at the time. Bitly made it possible to have shorter URLs on Twitter. Imgur gave Reddit contributors a place to host their images. What tools do amateur creators need today to shoot, edit and produce high-quality vertical videos? If you can solve their problems, you may be the one selling pickaxes in a gold rush.
 
-![](./asset-2.png)
+![](/assets/blog/instagrams-igtv-is-the-new-media-format-creators-have-been-waiting-for/asset-2.png)
 
 #### The Takeaway
 
@@ -33,6 +33,6 @@ If you’re a content creator, business owner or an aspiring YouTuber, take your
 
 You don’t have to wait to see if IGTV will live or die — in today’s world, you can’t afford to wait until the platform is saturated to take action. Given Instagram’s massive userbase (1 Billion monthly actives now!) and beastly execution on Stories over the past 2 years, I’d give it my vote of confidence.
 
-![](./asset-3.png)
+![](/assets/blog/instagrams-igtv-is-the-new-media-format-creators-have-been-waiting-for/asset-3.png)
 
 Anant Jain is a co-founder of [Commonlounge](https://www.commonlounge.com), an educational platform with wiki-based short courses. He also writes weekly book reviews and essays on tech, design, and fitness on his [blog](https://anantja.in) and talks to people on [Twitter](https://twitter.com/anantja_in).

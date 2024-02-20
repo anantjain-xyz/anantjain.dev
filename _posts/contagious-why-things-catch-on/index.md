@@ -9,7 +9,7 @@ redirect_from:
   - /contagious-why-things-catch-on-c4dfa405db14
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/contagious-why-things-catch-on/asset-1.jpeg)
 
 Contagious is another one of those easy-to-read, useful, short books. It’s a good read for anyone who wants to spread their thoughts and ideas — be it product people, advertising folks aka [_mad men_](https://en.wikipedia.org/wiki/Mad_Men) or even politicians. Jonah Berger provides a simple template to understand why things go viral — the **STEPPS** acronym sums it up:
 
@@ -21,7 +21,7 @@ Does talking about your product or message confer some social currency to the pe
 
 The more frequently people come across your product, or get triggered to think about it, the more viral it will be. A good reason for the virality behind Rebecca Black’s Friday video, besides everything else, was that Friday is a natural trigger. The graph from those days is actually quite beautiful:
 
-![It’s Friday, Friday. Gotta get down on Friday. Everybody’s lookin’ forward to the weekend, weekend. :)](./asset-2.jpeg)
+![It’s Friday, Friday. Gotta get down on Friday. Everybody’s lookin’ forward to the weekend, weekend. :)](/assets/blog/contagious-why-things-catch-on/asset-2.jpeg)
 
 Think about how you can trigger people to think about your product/idea more often. Can you bind it to a natural trigger that people encounter in their lives?
 
@@ -49,4 +49,4 @@ Happy Sunday!
 
 _This is #8 in a series of book reviews published weekly on this site._
 
-![Photo by [NASA](https://unsplash.com/@nasa)](./asset-3.png)
+![Photo by [NASA](https://unsplash.com/@nasa)](/assets/blog/contagious-why-things-catch-on/asset-3.png)

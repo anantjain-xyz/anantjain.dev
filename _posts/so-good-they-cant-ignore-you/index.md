@@ -9,7 +9,7 @@ redirect_from:
   - /so-good-they-cant-ignore-you-68bf993dae33
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/so-good-they-cant-ignore-you/asset-1.jpeg)
 
 Cal Newport is a Computer Science professor at Georgetown University who happens to write amazing books on the side (or vice versa.) This week and the next, I’ll revisit two of his books — _So Good They Can’t Ignore You_ and _Deep Work_. I read them back in early 2016 and was surprised to find so many nuggets of practical wisdom around choosing a career and doing meaningful work. Onto the review:
 
@@ -52,4 +52,4 @@ _This is #16 in a series of book reviews published weekly on this site._
 
 ---
 
-![Photo by [rawpixel.com](https://unsplash.com/@rawpixel)](./asset-2.png)
+![Photo by [rawpixel.com](https://unsplash.com/@rawpixel)](/assets/blog/so-good-they-cant-ignore-you/asset-2.png)

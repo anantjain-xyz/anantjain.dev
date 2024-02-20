@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![Resilient Management by Lara Hogan](./cover.webp)
+![Resilient Management by Lara Hogan](/assets/blog/resilient-management/cover.webp)
 
 *Resilient Management* by Lara Hogan repeatedly gets recommended by my manager friends as one of the highest signal-to-noise ratio reading to learn about the craft of building and supporting high-functioning teams. This book had been on my reading list for a while, and I’m very glad I finally got around to it.
 

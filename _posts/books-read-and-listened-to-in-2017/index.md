@@ -9,7 +9,7 @@ redirect_from:
   - /books-read-and-listened-to-in-2017-6c75a72af01b
 ---
 
-![Photo by [Kimberly Farmer](https://unsplash.com/photos/lUaaKCUANVI) on [Unsplash](https://unsplash.com/)](./asset-1.jpeg)
+![Photo by [Kimberly Farmer](https://unsplash.com/photos/lUaaKCUANVI) on [Unsplash](https://unsplash.com/)](/assets/blog/books-read-and-listened-to-in-2017/asset-1.jpeg)
 
 #### Books (18)
 

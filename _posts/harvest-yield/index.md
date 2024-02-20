@@ -81,7 +81,7 @@ published: true
 ### PDF
 
 - [Original](https://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf)
-- [Annotated copy](./harvest-yield-annotated.pdf)
+- [Annotated copy](/assets/blog/harvest-yield/harvest-yield-annotated.pdf)
 
 ---
 

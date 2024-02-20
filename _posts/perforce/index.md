@@ -44,7 +44,7 @@ There is some pain in being a pioneer: one recurring theme is that Perforce now 
 ### PDF
 
 * [Original](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/39983.pdf)
-* [Annotated copy](./perforce-annotated.pdf)
+* [Annotated copy](/assets/blog/perforce/perforce-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #32 in this [series](https://anantjain.dev/#paper-reviews).

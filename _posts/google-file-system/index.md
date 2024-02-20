@@ -28,7 +28,7 @@ In addition to create, delete, open, close, read, and write operations on files,
 
 ### Architecture
 
-![](./gfs-architecture.png)
+![](/assets/blog/google-file-system/gfs-architecture.png)
 
 * The **master maintains all file system metadata**. This includes the namespace, access control information, the mapping from files to chunks, and the current locations of chunks. It also controls system-wide activities such as chunk lease management, garbage collection of orphaned chunks, and chunk migration between chunkservers.
 
@@ -54,7 +54,7 @@ In addition to create, delete, open, close, read, and write operations on files,
 
 * **Leases and mutation order**: Each mutation is performed at all the chunk’s replicas. They use leases to maintain a consistent mutation order across replicas. The master grants a chunk lease to one of the replicas, called the primary. The primary picks a serial order for all mutations to the chunk. All replicas follow this order when applying mutations.
 
-![](./gfs-data-flow.png)
+![](/assets/blog/google-file-system/gfs-data-flow.png)
 
 * To **fully utilize each machine’s network bandwidth**, the data is pushed linearly along a chain of chunkservers rather than distributed in some other topology (e.g., tree). Thus, each machine’s full outbound bandwidth is used to transfer the data as fast as possible rather than divided among multiple recipients. The network topology is simple enough that “distances” can be accurately estimated from IP addresses.
 
@@ -75,7 +75,7 @@ In addition to create, delete, open, close, read, and write operations on files,
 ### PDF
 
 * [Original](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-* [Annotated copy](./gfs-annotated.pdf)
+* [Annotated copy](/assets/blog/google-file-system/gfs-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #4 in this [series](https://anantjain.dev/#paper-reviews).

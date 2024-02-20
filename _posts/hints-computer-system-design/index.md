@@ -18,7 +18,7 @@ published: true
 
 - The figure below organizes the slogans along two axes: Why it helps in making a good system: with functionality (does it work?), speed (is it fast enough?), or fault-tolerance (does it keep working?). Where in the system design it helps: in ensuring completeness, in choosing interfaces, or in devising implementations.
 
-![Summary of the slogans](./hints.png)
+![Summary of the slogans](/assets/blog/hints-computer-system-design/hints.png)
 
 ### Functionality
 
@@ -121,7 +121,7 @@ published: true
 ### PDF
 
 - [Original](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
-- [Annotated copy](./hints-computer-system-design-annotated.pdf)
+- [Annotated copy](/assets/blog/hints-computer-system-design/hints-computer-system-design-annotated.pdf)
 
 ---
 

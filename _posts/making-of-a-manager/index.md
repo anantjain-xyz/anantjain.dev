@@ -8,7 +8,7 @@ published: true
 
 > _For this week's Book Review, we have our first guest post on this blog! This review is written by my wife, [**Nupur**](https://www.linkedin.com/in/nupurbhade/), who recently became a manager herself. As she started thinking about transitioning to her new role, I couldn't think of a better book recommendation for her to start her journey into the world of people management. She was kind enough to write this book review for my blog after she was done. Nupur is a Senior Group Manager of Product Marketing at Twilio, and publishes a lot of Product Marketing wisdom on LinkedIn. [You should follow her there.](https://www.linkedin.com/in/nupurbhade/)_
 
-![The Making of a Manager: What to Do When Everyone Looks to You](./moam-cover.jpg)
+![The Making of a Manager: What to Do When Everyone Looks to You](/assets/blog/making-of-a-manager/moam-cover.jpg)
 
 I recently read the “Making of a Manager” by Julie Jhuo as a means to quickly read up and gain some confidence for myself before taking up my new role. What particularly stood out in this book that made it such an easy read was the book’s structure. Every chapter builds on the previous in a very natural manner, and yet can be read independently and referenced at any time — which I plan on doing a lot.
 

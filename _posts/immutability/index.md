@@ -14,7 +14,7 @@ published: true
 
 This is a fantastic, thought-provoking paper that goes deep into how the concept of immutability is not only something that we can now afford, but also makes distributed systems (and _big data_) possible in the first place. The paper explores how apps use immutability in their ongoing work, how apps generate immutable DataSets for later offline analysis, how SQL can expose and process immutable snapshots, how massively parallel “Big Data” work relies on immutable DataSets. In addition, updatability is layered atop the creation of new immutable files via techniques like LSF (Log Structure File systems), COW (Copy on Write), and LSM (Log Structured Merge trees). Finally, hardware folks have joined the party by leveraging these tricks in SSD and HDD. As the author says, it's turtles all the way down!
 
-![Immutability is a key architectural concept at many layers of the stack.](./immutability.png)
+![Immutability is a key architectural concept at many layers of the stack.](/assets/blog/immutability/immutability.png)
 
 ### Accountants Don't Use Erasers
 
@@ -75,7 +75,7 @@ This is a fantastic, thought-provoking paper that goes deep into how the concept
 ### PDF
 
 - [Original](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
-- [Annotated copy](./immutability-annotated.pdf)
+- [Annotated copy](/assets/blog/immutability/immutability-annotated.pdf)
 - [Talk Video](https://vimeo.com/52831373)
 - [Talk Slides](http://cloud.berkeley.edu/data/immutability.pptx)
 

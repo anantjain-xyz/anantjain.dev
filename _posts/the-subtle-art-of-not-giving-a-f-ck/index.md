@@ -9,7 +9,7 @@ redirect_from:
   - /the-subtle-art-of-not-giving-a-f-ck-884bee2b64ac
 ---
 
-![](./asset-1.png)
+![](/assets/blog/the-subtle-art-of-not-giving-a-f-ck/asset-1.png)
 
 To start off, the book’s title is incomplete. It should’ve been titled _The Subtle Art of Not Giving a F\*ck about Unimportant or Uncontrollable Stuff_. But again, that title wouldn’t be half as interesting. In this book, Mark Manson makes the core tenets behind [Apatheia](https://en.wikipedia.org/wiki/Apatheia), a cornerstone of the [Stoicism](https://en.wikipedia.org/wiki/Stoicism) philosophy, highly accessible to the layman. In case you were wondering, Apatheia roughly translates to not giving a fuck.
 
@@ -32,4 +32,4 @@ This book is full of great life advice that you can read if you’re feeling une
 
 _This is #18 in a series of book reviews published weekly on this site._
 
-![No fucks given. Image by [Robson Hatsukami Morgan](https://unsplash.com/@robsonhmorgan).](./asset-2.png)
+![No fucks given. Image by [Robson Hatsukami Morgan](https://unsplash.com/@robsonhmorgan).](/assets/blog/the-subtle-art-of-not-giving-a-f-ck/asset-2.png)

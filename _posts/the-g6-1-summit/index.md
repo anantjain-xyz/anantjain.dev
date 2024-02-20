@@ -9,7 +9,7 @@ redirect_from:
   - /the-g6-1-summit-a6c2c1efb746
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-g6-1-summit/asset-1.jpeg)
 
 I came across this iconic photo on Twitter…
 

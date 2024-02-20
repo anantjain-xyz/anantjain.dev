@@ -9,7 +9,7 @@ redirect_from:
   - /show-your-work-39e6466c4273
 ---
 
-![](./asset-1.png)
+![](/assets/blog/show-your-work/asset-1.png)
 
 Show Your Work makes for a great follow-on to [Steal Like an Artist](https://anantjain.dev/steal-like-an-artist-275d7027429d) that I reviewed last week. Austin sums it up aptly, “If _Steal Like an Artist_ was a book about stealing influence from other people, this book is about how to influence others by letting them steal from _you_.” I’ll follow a similar format for this one, and leave you with my favorite quotes from the book.
 
@@ -25,7 +25,7 @@ Take people behind the scenes. Become a documentarian of what you do. Take a lot
 
 Send out a daily dispatch. It’s even better than a resume or a portfolio, because it shows what you’re working on right now. The form of what you share doesn’t matter. Your daily dispatch can be anything you want — a blog post, an email, a tweet, a YouTube video, or some other little bit of media. Over time, you’ll be able to convert your flow into stock — the durable stuff that’s as interesting in two months (or two years) as it is today. Before you send out this daily dispatch, follow the “So What” test:
 
-![](./asset-2.jpeg)
+![](/assets/blog/show-your-work/asset-2.jpeg)
 
 Finally, own your domain name, build your website, and don’t abandon it for the newest, shiniest social network.
 
@@ -33,7 +33,7 @@ Finally, own your domain name, build your website, and don’t abandon it for th
 
 Don’t be a hoarder. Your influences are all worth sharing because they clue people in to who you are and what you do — sometimes even more than your own work. When you share your taste and your influences, have the guts to own all of it. Don’t give in to the pressure to self-edit too much. Finally credit is always due. If you don’t know where something came from or who made it, don’t share it unless you find the right credit.
 
-![](./asset-3.jpeg)
+![](/assets/blog/show-your-work/asset-3.jpeg)
 
 #### Tell good stories
 

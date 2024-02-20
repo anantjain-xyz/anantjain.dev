@@ -10,7 +10,7 @@ published: true
 > MapReduce is a programming model and an associated implementation for **processing and generating large data sets**. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key. Many real world tasks are expressible in this model, as shown in the paper. Programs written in this functional style are **automatically parallelized** and executed on a **large cluster of commodity machines**. The run-time system takes care of the details of **partitioning the input data**, **scheduling the program’s execution** across a set of machines, **handling machine failures**, and **managing the required inter-machine communication**. This allows programmers without any experience with parallel and distributed systems to easily utilize the resources of a large distributed system. Our implementation of MapReduce runs on a large cluster of commodity machines and is highly scalable: **a typical MapReduce computation processes many terabytes of data on thousands of machines**. Programmers find the system easy to use: hundreds of MapReduce programs have been implemented and upwards of one thousand MapReduce jobs are executed on Google’s clusters every day.
 
 ## Programming Model
-![Map Reduce Execution Overview](./map-reduce-execution-overview.png)
+![Map Reduce Execution Overview](/assets/blog/map-reduce/map-reduce-execution-overview.png)
 - The computation takes a set of input key/value pairs, and produces a set of output key/value pairs.
 - The user of the MapReduce library expresses the computation as two functions: `Map` and `Reduce`.
 - `Map`, written by the user, takes an input pair and produces a set of `intermediate` key/value pairs. The MapReduce library groups together all `intermediate` values associated with the same `intermediate` key `I` and passes them to the `Reduce` function.
@@ -85,7 +85,7 @@ MapReduce has been so successful because it makes it possible to write a simple 
 
 ### PDF
 * [Original](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-* [Annotated copy](./mapreduce-annotated.pdf)
+* [Annotated copy](/assets/blog/map-reduce/mapreduce-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #3 in this [series](https://anantjain.dev/#paper-reviews).

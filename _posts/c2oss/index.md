@@ -8,4 +8,4 @@ published: true
 
 List all open issues in the public Github repositories you have starred or are a member of.
 
-![](./c2oss.png)
+![](/assets/blog/c2oss/c2oss.png)

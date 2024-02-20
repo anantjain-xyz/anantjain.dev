@@ -9,7 +9,7 @@ redirect_from:
   - /originals-how-non-conformists-move-the-world-db8f3c802762
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/originals-how-non-conformists-move-the-world/asset-1.jpeg)
 
 In this book, Adam Grant breaks down what “being original” means by studying habits of highly creative professionals and dispelling a number of myths related to originality. His other famous book, _Give and Take_, taught me a lot about what professional networking should be — so I decided to give _Originals_ a shot too. Here’s what I learnt:
 
@@ -39,4 +39,4 @@ Overall, I liked this book as a good recap of a number of ideas I had encountere
 
 _This is #46 in a series of book reviews published weekly on this site._
 
-![Adam Grant](./asset-2.jpeg)
+![Adam Grant](/assets/blog/originals-how-non-conformists-move-the-world/asset-2.jpeg)

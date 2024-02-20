@@ -28,7 +28,7 @@ published: true
 
 - Dynamo uses a synthesis of well known techniques to achieve scalability and availability: Data is partitioned and replicated using consistent hashing, and consistency is facilitated by object versioning. The consistency among replicas during updates is maintained by a quorum-like technique and a decentralized replica synchronization protocol. Dynamo employs a gossip based distributed failure detection and membership protocol. Dynamo is a completely decentralized system with minimal need for manual administration. Storage nodes can be added and removed from Dynamo without requiring any manual partitioning or redistribution.
 
-![Summary of techniques used in Dynamo and their advantages](./dynamo-techniques.png)
+![Summary of techniques used in Dynamo and their advantages](/assets/blog/dynamo/dynamo-techniques.png)
 
 ### Background
 
@@ -135,7 +135,7 @@ A common approach in the industry for forming a performance oriented SLA is to d
 ### PDF
 
 * [Original](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
-* [Annotated copy](./dynamo-annotated.pdf)
+* [Annotated copy](/assets/blog/dynamo/dynamo-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #18 in this [series](https://anantjain.dev/#paper-reviews).

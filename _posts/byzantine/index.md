@@ -35,7 +35,7 @@ Achieving reliability in the face of arbitrary malfunctioning is a difficult pro
 ### PDF
 
 * [Original](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
-* [Annotated copy](./byzantine-annotated.pdf)
+* [Annotated copy](/assets/blog/byzantine/byzantine-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #33 in this [series](https://anantjain.dev/#paper-reviews).

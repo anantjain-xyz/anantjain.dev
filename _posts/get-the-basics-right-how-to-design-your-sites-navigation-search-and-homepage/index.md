@@ -9,7 +9,7 @@ redirect_from:
   - /get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage-adeb57a881f4
 ---
 
-![Source: [Galymzhan Abdugalimov](https://unsplash.com/@naffiq)](./asset-1.png)
+![Source: [Galymzhan Abdugalimov](https://unsplash.com/@naffiq)](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-1.png)
 
 > Steve Krug’s book “Don’t Make Me Think” is considered a classic amongst UX Designers. The book is extremely useful if you’re in the field of designing web products. Some of the core ideas from the book are summarized in this post. Today, we’ll look at how to design your site’s navigation, search, and homepage.
 
@@ -20,7 +20,7 @@ If you wanted to buy a new hammer from a hardware store, imagine how you would g
 
 It could be a mixture of the two as well — you may try to navigate a bit to see how easy it is. If you don’t find what you’re looking for, you may ask a clerk.
 
-![](./asset-2.png)
+![](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-2.png)
 
 If you think about it, this is exactly how we use websites as well. We go looking around for a bit (**Navigation**) and, if we cannot find what we came looking for, we hit the **Search** functionality. These are the two critical components of your site. Minor usability flaws here can cause major annoyance to your users.
 
@@ -40,7 +40,7 @@ When we want to return to something on a website, we can’t rely on a physical 
 
 **Navigation** puts this **conceptual hierarchy** up-front and center. It should ideally be a part of every page. It tells us what’s on the website and how to use it, making it a critical part of the user experience of your site.
 
-![](./asset-3.png)
+![](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-3.png)
 
 #### How should you design the navigation?
 
@@ -52,13 +52,13 @@ Persistent navigation is the set of elements that appear on top of **every page.
 -   **Utilities** like “My Account”, “Track Your Order”, and “Stores.” Don’t put more than five of these — the rest can go in the footer navigation.
 -   **Breadcrumbs**: this is another set of “You are here” indicators, like the highlighted section on top. Make breadcrumbs small and at the very top of a page, where they don’t interfere with the primary navigation. The best way to go about it is to use `>` between levels, and boldface the last item (the item you’re currently on and — since you’re on it — it should not be a link).
 
-![Breadcrumbs on Best Buy’s product page](./asset-4.png)
+![Breadcrumbs on Best Buy’s product page](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-4.png)
 
 -   **A page name:** which page are you on? Every web page should ideally have a name that matches the words clicked to get there. It needs to be prominent and in the right place. In the visual hierarchy of the page, it should appear to be framing the content that is unique to this page.
 -   **Local navigation** on left sidebar (optional): these are the options available at the current level.
 -   **Footer Navigation**: this is where all other utilities go.
 
-![Footer on [NNGroup.com](https://www.nngroup.com)](./asset-5.png)
+![Footer on [NNGroup.com](https://www.nngroup.com)](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-5.png)
 
 One of the most critical elements of navigation is a link to the Homepage, usually served by the Site ID (logo). It’s what the users click if they get lost — it’s the anchor that lets them return to the starting point if they want to start over.
 
@@ -68,7 +68,7 @@ So how should we design the search functionality? Very simply, make the search b
 
 Also, if scoping a search, add the word “for” so it reads like a sentence: “Search \_\_\_ for \_\_\_.” Here is a good alternative example where the placeholder text indicates that the search is scoped to just the publication:
 
-![When the search is scoped to just the publication, the search area indicates so.](./asset-6.png)
+![When the search is scoped to just the publication, the search area indicates so.](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-6.png)
 
 #### How do you know if you did a good job with the navigation?
 
@@ -105,7 +105,7 @@ There are three crucial places on the homepage where users expect to find explic
 2.  **The welcome blurb:** make sure it’s something that conveys what the site does.
 3.  **The “Learn More”:** innovative products tend to require a fair amount of explanation. People have become accustomed to watching short videos on their computers and mobile devices, and are often willing to watch one on the Homepage.
 
-![[Commonlounge](https://www.commonlounge.com) Homepage](./asset-7.png)
+![[Commonlounge](https://www.commonlounge.com) Homepage](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-7.png)
 
 **NN Group** published the following [list of 10 guidelines](https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/) for homepage usability, which doubles up as a great checklist before you launch:
 
@@ -122,14 +122,14 @@ There are three crucial places on the homepage where users expect to find explic
 
 This is the list in action on their own site:
 
-![[NNGroup](https://www.nngroup.com) Homepage, implementing most of their guidelines.](./asset-8.png)
+![[NNGroup](https://www.nngroup.com) Homepage, implementing most of their guidelines.](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-8.png)
 
 Remember that the homepage is a shared resource between all departments within a company — at least when it comes to what’s displayed first. Anything on top of the homepage gets promoted the most, so as a team you will have to focus and decide what needs to surface at the top.
 
-![](./asset-9.png)
+![](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-9.png)
 
 Thanks for reading this quick guide. This was originally published as part of the [UX Design course](https://www.commonlounge.com/discussion/d8c1c96e92024adf9f496fe41dcaad1a) on [Commonlounge](https://www.commonlounge.com/). It’s a platform that has courses with small bite-sized lessons like these on topics ranging from [Project Management](https://www.commonlounge.com/discussion/1013c511951f4c47a803c32c4e1ae0f2) to [Machine Learning](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232) that deliver the most value for the time you put in.
 
 You learn by working on real-world projects and getting feedback from industry mentors. You should check it out [here](https://www.commonlounge.com/)!
 
-![](./asset-10.png)
+![](/assets/blog/get-the-basics-right-how-to-design-your-sites-navigation-search-and-homepage/asset-10.png)

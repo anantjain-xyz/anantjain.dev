@@ -9,7 +9,7 @@ redirect_from:
   - /delivering-happiness-a-path-to-profits-passion-and-purpose-bfbe6a489f00
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/delivering-happiness-a-path-to-profits-passion-and-purpose/asset-1.jpeg)
 
 I recently came across a [thread on Twitter](https://twitter.com/AriannaSimpson/status/1031581886936567808) that gave me a great way to phrase my favorite type of books: _non-fiction that read like fiction_. Stories about founding of startups end up reading an awful lot like fiction, and _Delivering Happiness_ is no different. It’s the story of Tony Hseih and Zappos, the e-commerce company he founded that sold to Amazon for $1.2 billion in 2009.
 
@@ -39,4 +39,4 @@ _At Stripe, we've always been intentional about how we communicate, share inform
 
 _This is #33 in a series of book reviews published weekly on this site._
 
-![Photo by [Hardik Pandya](https://unsplash.com/@hvpandya)](./asset-2.png)
+![Photo by [Hardik Pandya](https://unsplash.com/@hvpandya)](/assets/blog/delivering-happiness-a-path-to-profits-passion-and-purpose/asset-2.png)

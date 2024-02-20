@@ -110,7 +110,7 @@ published: true
 ### PDF
 
 * [Original](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
-* [Annotated copy](./cap-annotated.pdf)
+* [Annotated copy](/assets/blog/cap/cap-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #22 in this [series](https://anantjain.dev/#paper-reviews).

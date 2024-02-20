@@ -13,7 +13,7 @@ I’m sure you must’ve come across **Fins Illusion** at some point in your lif
 
 > Of the two horizontal lines A and B in the figure below, which one is longer?
 
-![](./asset-1.jpeg)
+![](/assets/blog/on-meta-illusions/asset-1.jpeg)
 
 If you answered both are the same length, look again.
 
@@ -23,4 +23,4 @@ Over years, we have trained our brain to not be fooled by this optical illusion,
 
 Having finally finished Daniel Kahneman’s _Thinking Fast and Slow_, I have started appreciating the critical role cognitive illusions play in our everyday lives! If you are looking for your next read, I cannot recommend this one enough.
 
-![Photo by [Dawid Zawiła](https://unsplash.com/photos/T2apDcwWGLA) on [Unsplash](https://unsplash.com/)](./asset-2.jpeg)
+![Photo by [Dawid Zawiła](https://unsplash.com/photos/T2apDcwWGLA) on [Unsplash](https://unsplash.com/)](/assets/blog/on-meta-illusions/asset-2.jpeg)

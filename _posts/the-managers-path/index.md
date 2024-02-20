@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![](./managers-path-cover.png)
+![](/assets/blog/the-managers-path/managers-path-cover.png)
 
 The Manager's Path is one of the most recommended books in Engineering Management cicles. Looking at the table of contents, you can see that there's a chapter relevant to every stage of an engineering management career:
 

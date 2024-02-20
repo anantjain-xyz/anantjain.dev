@@ -9,7 +9,7 @@ redirect_from:
   - /the-bed-of-procrustes-875aeb87e7de
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-bed-of-procrustes/asset-1.jpeg)
 
 Nassim Nicholas Taleb’s _Incerto_ series consists of 4 books: _Fooled by Randomness_, _The Black Swan_, _The Bed of Procrustes_ and _Antifragile_. This is the third in the series, and the only book I hadn’t gotten around to until now. _The Bed of Procrustes_ is not a traditional non-fiction book. Instead, it’s a collection of philosophical aphorisms, with the overarching theme being the contradictions that we encounter in the world around us.
 
@@ -91,4 +91,4 @@ And finally,
 
 _This is #42 in a series of book reviews published weekly on this site._
 
-![“opened book on brown wooden surface” by [Roman Trifonov](https://unsplash.com/@cosmicrom)](./asset-2.png)
+![“opened book on brown wooden surface” by [Roman Trifonov](https://unsplash.com/@cosmicrom)](/assets/blog/the-bed-of-procrustes/asset-2.png)

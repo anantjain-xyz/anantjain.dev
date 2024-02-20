@@ -28,7 +28,7 @@ However, if you're starting from scratch, [fast.ai's MOOC](https://course.fast.a
 
 - While zero-shot performance improves steadily with model size, few-shot performance increases more rapidly, demonstrating that larger models are more proﬁcient at in-context learning
 
-![Zero-shot, one-shot and few-shot, contrasted with traditional fine-tuning.](./learning-modes.png)
+![Zero-shot, one-shot and few-shot, contrasted with traditional fine-tuning.](/assets/blog/gpt-3/learning-modes.png)
 
 - The authors use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer. To study the dependence of ML performance on model size, they train 8 different sizes of model, ranging over three orders of magnitude from 125 million parameters to 175 billion parameters, with the last being the model we call GPT-3. Previous work suggests that with enough training data, scaling of validation loss should be approximately a smooth power law as a function of size; training models of many different sizes allows us to test this hypothesis both for validation loss and for downstream language tasks.
 
@@ -49,7 +49,7 @@ However, if you're starting from scratch, [fast.ai's MOOC](https://course.fast.a
 ### PDF
 
 - [Original](https://arxiv.org/pdf/2005.14165.pdf)
-- [Annotated copy](./gpt-3-annotated.pdf)
+- [Annotated copy](/assets/blog/gpt-3/gpt-3-annotated.pdf)
 
 ---
 

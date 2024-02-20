@@ -11,7 +11,7 @@ redirect_from:
 
 The explosion of data and computing power has led to considerable advancements in A.I. over the past decade. Machine Learning algorithms rely on vast amounts of data to train models that are then used to guess various things, like who’s present in the photos that you clicked, or whether the voice your Alexa heard was yours or not.
 
-![](./asset-1.png)
+![](/assets/blog/five-reasons-for-chinas-emerging-dominance-in-artificial-intelligence/asset-1.png)
 
 Now let’s look at China.
 
@@ -25,7 +25,7 @@ Fourth, the **Chinese Government is highly focused on developing AI**. [Last sum
 
 Fifth and finally, the **Chinese Government is interested in collecting as much data on its citizens as possible**. Across China, a network of [176 million](https://www.huffingtonpost.com/entry/china-surveillance-camera-big-brother_us_5a2ff4dfe4b01598ac484acc) surveillance cameras watch the country’s 1.3 billion citizens. To test the full capabilities of the system, the BBC sent a journalist to Guiyang, a city of 3.5 million people, to see if he could get lost in the crowd. The Surveillance cameras readily identified the journalist and police had him in custody within just seven minutes. Chinese AI startup SenseTime, a company that develops people surveillance software for the country’s law enforcement, recently finished a new funding round worth [$600 million](https://techcrunch.com/2018/05/30/even-more-money-for-senstime-ai-china/) raising its total valuation to over $4.5 billion in May 2018.
 
-![([Source](http://www.followcn.com/china-installs-worlds-advanced-video-surveillance-system-20-million-street-cameras/))](./asset-2.jpeg)
+![([Source](http://www.followcn.com/china-installs-worlds-advanced-video-surveillance-system-20-million-street-cameras/))](/assets/blog/five-reasons-for-chinas-emerging-dominance-in-artificial-intelligence/asset-2.jpeg)
 
 If you put the above five factors together, you have the perfect brew for rapid A.I. advancements: a country with the largest number of internet-connected users who are more likely to share their data with feature-rich platforms in a walled garden served by a government focussed on developing A.I. and interested in collecting as much data on its citizens as possible.
 
@@ -41,4 +41,4 @@ Eric Schmidt, Executive Chairman of Google’s parent company Alphabet Inc., at 
 
 The United States is still ahead for now, but **China is focused, organized, and gaining rapidly.**
 
-![](./asset-3.png)
+![](/assets/blog/five-reasons-for-chinas-emerging-dominance-in-artificial-intelligence/asset-3.png)

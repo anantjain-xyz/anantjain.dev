@@ -9,7 +9,7 @@ redirect_from:
   - /the-power-of-habit-25418fa8f832
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-power-of-habit/asset-1.jpeg)
 
 I read this book exactly 2 years ago. As I mentioned in my post on [Losing 70+ Pounds over a year](https://anantjain.dev/losing-70-pounds-over-a-year-dd5e44d5a65b) from a year ago, this book motivated me a lot to think through habit design. There are three main sections in this book: The habits of individuals, the habits of successful organizations and the habits of societies. I’ll quickly review each of the three.
 
@@ -61,10 +61,10 @@ In particular, one story from the book stuck with me over the years:
 
 At times, some books change your lives so tangibly that you feel you should shoot a note to the author to thank them for helping you get the snowball rolling. You know you’ll never hear anything back since nobody has the time to reply to fan mail. Not in this case:
 
-![](./asset-2.png)
+![](/assets/blog/the-power-of-habit/asset-2.png)
 
 The best time to read this book was 6 years ago when it came out. The second best time is now. Here’s the [Amazon Smile link](https://smile.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/).
 
 _This is #11 in a series of book reviews published weekly on this site._
 
-![Photo by [Curtis MacNewton](https://unsplash.com/@curtismacnewton)](./asset-3.png)
+![Photo by [Curtis MacNewton](https://unsplash.com/@curtismacnewton)](/assets/blog/the-power-of-habit/asset-3.png)

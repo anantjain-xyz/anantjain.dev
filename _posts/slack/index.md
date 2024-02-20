@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](./slack-cover.jpg)
+![Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](/assets/blog/slack/slack-cover.jpg)
 
 I finished reading _Slack_ by Tom DeMarco this weekend — it's a quick short read with one main idea at its core: within organizations, efficiency and flexibility are unfortunately tied together in a tradeoff: as organizations get more efficient and get rid of slack, they lose their ability to change and reinvent themselves.
 
@@ -58,7 +58,7 @@ Since I read this one on a Kindle, I can share my top highlights from the book:
 
 - A more realistic model of how pressure impacts performance is shown in the graph below.
                 
-![](./slack-graph.png)
+![](/assets/blog/slack/slack-graph.png)
 
 - Here we see that pressure has a fairly limited capacity to reduce delivery time, maybe 10 or 15 percent at the most. And excessive pressure can quickly begin to worsen performance. The model is divided into three regions.
   - In Region I, workers are responding to increased pressure by trimming any remaining waste, by concentrating on the critical path, and by staying late.

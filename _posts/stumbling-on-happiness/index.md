@@ -9,7 +9,7 @@ redirect_from:
   - /stumbling-on-happiness-d64cb71b3691
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/stumbling-on-happiness/asset-1.jpeg)
 
 There’s a good chance that things you think will make you happy, won’t —this is the premise of _Stumbling on Happiness_ by Dan Gilbert. It was one of the most well-written and funny books I read in 2017. It can teach you a fair bit about psychology if you’re a complete beginner (like I was), and is a fairly interesting read, but it’s the writing style that wins it for me. To give you a flavor, the book is full of gems like these:
 
@@ -59,4 +59,4 @@ A word of warning: if you have read any text on psychology, you won’t find thi
 
 _This is #5 in a series of book reviews published weekly on this site._
 
-![Happiness, after all, is a choice. Photo by [Ben White](https://unsplash.com/photos/4K2lIP0zc_k) on [Unsplash](https://unsplash.com/search/photos/happiness).](./asset-2.jpeg)
+![Happiness, after all, is a choice. Photo by [Ben White](https://unsplash.com/photos/4K2lIP0zc_k) on [Unsplash](https://unsplash.com/search/photos/happiness).](/assets/blog/stumbling-on-happiness/asset-2.jpeg)

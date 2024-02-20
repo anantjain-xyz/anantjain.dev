@@ -9,7 +9,7 @@ redirect_from:
   - /the-design-of-everyday-things-56a16048e6e0
 ---
 
-![It’s okay to judge this one by its cover.](./asset-1.jpeg)
+![It’s okay to judge this one by its cover.](/assets/blog/the-design-of-everyday-things/asset-1.jpeg)
 
 I finally got around to Don Norman’s masterpiece in the later half of 2017, and I must say that it deserves every bit of praise that you may have heard about it. I’m in fact slightly upset at myself for not reading it earlier, since it bring together so much of the modern design philosophy. If you have anything to do with building products for people, you must read it — more so if you’re not the one _directly_ _responsible_ for designing it.
 
@@ -33,7 +33,7 @@ Perceived affordances often act as signifiers, but they can be ambiguous.
 
 Mappings between controls and their actions can be enhanced through good spatial correlations or through temporal contiguities. Think of the stoves and their control mappings, and how a bad mapping is so much worse than a good one:
 
-![Good mapping eliminates the need of labels](./asset-2.jpeg)
+![Good mapping eliminates the need of labels](/assets/blog/the-design-of-everyday-things/asset-2.jpeg)
 
 #### Conceptual Models
 
@@ -51,7 +51,7 @@ A **slip** occurs when you intend to do one action, but end up doing another. Sl
 
 I also particularly liked the _Swiss Cheese model_ of accidents:
 
-![Accidents happen when multiple holes of the Swiss cheese align together](./asset-3.png)
+![Accidents happen when multiple holes of the Swiss cheese align together](/assets/blog/the-design-of-everyday-things/asset-3.png)
 
 > Don’t blame the user, it’s usually bad design.
 
@@ -59,13 +59,13 @@ I also particularly liked the _Swiss Cheese model_ of accidents:
 
 Think about how any action you perform takes place: You first form the **goal** in your mind, followed by **planning** what to do, **specifying** the exact steps and finally **performing** it. Once done, you **perceive** the effects of your action, **interpret** them and **compare** to what you expected to happen. Planning and comparing happen at a **Reflective level**, specifying and interpreting at a **Behavioral level** and finally, actual performance and Perceival take place at a **Visceral level**.
 
-![The Seven Stages of action cycle](./asset-4.png)
+![The Seven Stages of action cycle](/assets/blog/the-design-of-everyday-things/asset-4.png)
 
 #### Design Thinking and Human-centered design
 
 The double diamond model of design:
 
-![The Double Diamond design process](./asset-5.png)
+![The Double Diamond design process](/assets/blog/the-design-of-everyday-things/asset-5.png)
 
 Before you start specifying the solution, specify the problem. Both the stages look like a diamond — divergence in the number of alternatives followed by convergence. And Human-centered design takes place within this double diamond diverge-converge process with four core activities: observe the users, generate ideas, prototype and test. And repeat.
 

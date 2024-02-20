@@ -6,7 +6,7 @@ categories: ['Book Review']
 published: true
 ---
 
-![Coders at Work: Reflections on the Craft of Programming](./coders-at-work-cover.jpg)
+![Coders at Work: Reflections on the Craft of Programming](/assets/blog/coders-at-work/coders-at-work-cover.jpg)
 
 Continuing on the trend of finishing books about programmers and programming that I've been reading for multiple years, I finally wrapped up _Coders at Work_ by Peter Seibel this weekend. Much in the same format as _Founders at Work_ (one of my all-time favorite books that is a collection of interviews with founders), _Coders at Work_ is a collection of interviews with unarguably the best "coders" of the past few decades. Some examples include Brendan Eich (creator of Javascript), Peter Norvig (director of Google Research), Ken Thompson (inventor of Unix), Donald Knuth (of The Art of Computer Programming textbooks), and so on. According to Amazon, it took me exactly 5 years to finish this book — my purchase history shows that I acquired this treasure on August 21, 2015 on my Kindle. What this necessarily means is that as I write this review, I'm very excited to review highlights from my Kindle since I very much don't recollect a single thing from the earlier interviews.
 

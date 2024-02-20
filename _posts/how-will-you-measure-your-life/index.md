@@ -9,7 +9,7 @@ redirect_from:
   - /how-will-you-measure-your-life-3bdd5f0708e8
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/how-will-you-measure-your-life/asset-1.jpeg)
 
 _How Will You Measure Your Life_ is a book that makes you pause and reflect on your work, your relationships, and your values. I first came across Clayton M. Christensen through his other, more famous book called _The Innovator’s Dilemma_ which popularized the concept of _Disruption theory_. I got a chance to read _How Will You Measure Your Life_ last month over many cups of coffee, and would highly recommend it. What follows are my favorite lines/quotes from the book —it consists of three parts:
 
@@ -43,4 +43,4 @@ Christensen wrote this book at a time of intense personal reflection — he 
 
 _This is #24 in a series of book reviews published weekly on this site._
 
-![Good question to ask yourself once in a while :)](./asset-2.png)
+![Good question to ask yourself once in a while :)](/assets/blog/how-will-you-measure-your-life/asset-2.png)

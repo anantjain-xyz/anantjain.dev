@@ -9,7 +9,7 @@ redirect_from:
   - /f-f7795d775f54
 ---
 
-![121x121](./asset-1.png)
+![121x121](/assets/blog/multiples-of-11/asset-1.png)
 
 > The logo starts with a 121x121 solid square on the top left.
 
@@ -21,7 +21,7 @@ redirect_from:
 
 ---
 
-![r=121](./asset-2.png)
+![r=121](/assets/blog/multiples-of-11/asset-2.png)
 
 > The logo starts with a solid circle with radius 121.
 
@@ -33,7 +33,7 @@ redirect_from:
 
 ---
 
-![1331x121](./asset-3.png)
+![1331x121](/assets/blog/multiples-of-11/asset-3.png)
 
 > The logo starts with a 1331x121 solid rectangle.
 

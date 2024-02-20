@@ -9,7 +9,7 @@ redirect_from:
   - /influence-the-psychology-of-persuasion-4805ae32300f
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/influence-the-psychology-of-persuasion/asset-1.jpeg)
 
 _Influence_ is a fun practical book that is valuable right from the first page. While this book officially lies in the territory of _psychological manipulation_, I believe it’s still important to read these books for two reasons: to guard yourself better from getting influenced by scrupulous manipulators, as well as, of course, to use these methods for good. If you build products for others, and think what you make genuinely makes your users’ lives better, you will still have to influence them to try your product for the first time. I’ll try to keep this one short. Here are the six methods of influencing others:
 
@@ -39,4 +39,4 @@ People want more of something that they can have less of. Just go check your inb
 
 _This is #6 in a series of book reviews published weekly on this site._
 
-![Photo by [Elijah Macleod](https://unsplash.com/photos/9xaLKZvYxnA) on [Unsplash](https://unsplash.com/search/photos/influence)](./asset-2.jpeg)
+![Photo by [Elijah Macleod](https://unsplash.com/photos/9xaLKZvYxnA) on [Unsplash](https://unsplash.com/search/photos/influence)](/assets/blog/influence-the-psychology-of-persuasion/asset-2.jpeg)

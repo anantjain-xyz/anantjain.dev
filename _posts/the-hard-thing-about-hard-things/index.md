@@ -9,7 +9,7 @@ redirect_from:
   - /the-hard-thing-about-hard-things-950e3c371743
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/the-hard-thing-about-hard-things/asset-1.jpeg)
 
 You know I’m lagging a lot on reading when I start reviewing the old classics. _The Hard Things about Hard Things_ is the one absolute must-read for any startup founder. I read it as soon as it came out back in March 2014 — mainly because I’ve been a long-time ardent fan of Ben Horowitz/Marc Andreessen/a16z.
 
@@ -58,4 +58,4 @@ Again, this book is a must-read for any startup founder. This review does no jus
 
 _This is #34 in a series of book reviews published weekly on this site._
 
-![](./asset-2.jpeg)
+![](/assets/blog/the-hard-thing-about-hard-things/asset-2.jpeg)

@@ -121,7 +121,7 @@ There are good reasons that good programmers build BIG BALLS OF MUD. It may well
 ### PDF
 
 - [Original](https://s3.amazonaws.com/systemsandpapers/papers/bigballofmud.pdf)
-- [Annotated copy](./big-ball-of-mud-annotated.pdf)
+- [Annotated copy](/assets/blog/big-ball-of-mud/big-ball-of-mud-annotated.pdf)
 
 ---
 

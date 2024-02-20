@@ -67,7 +67,7 @@ Let us consider the inherent properties of this irreducible essence of modern so
 ### PDF
 
 - [Original](https://s3.amazonaws.com/systemsandpapers/papers/Frederick_Brooks_87-No_Silver_Bullet_Essence_and_Accidents_of_Software_Engineering.pdf)
-- [Annotated copy](./no-silver-bullet-annotated.pdf)
+- [Annotated copy](/assets/blog/no-silver-bullet/no-silver-bullet-annotated.pdf)
 
 ---
 

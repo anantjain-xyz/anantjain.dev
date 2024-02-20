@@ -9,7 +9,7 @@ redirect_from:
   - /managing-oneself-15ce1f09c127
 ---
 
-![](./asset-1.png)
+![](/assets/blog/managing-oneself/asset-1.png)
 
 _Managing Oneself_ is a very short 60-page read by Peter F. Drucker, also the author of the popular book _The Effective Executive_. In this book, Mr. Drucker gives a short framework through which you answer certain questions about yourself. Knowing answers to these will hopefully better position you to make your greatest contributions, and stay mentally alert and engaged during your 50-year working life.
 

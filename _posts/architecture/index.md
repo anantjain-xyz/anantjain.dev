@@ -11,7 +11,7 @@ redirect_from:
 
 I recently came across a beautiful episode on _Bjarke Ingels_, the Danish architect while binging Netflix’s docu-series called _Abstract: The Art of Design_. It ruffled a bunch of feathers deep within somewhere, and I thought I’d write about it.
 
-![Photo by [André Sanano](https://unsplash.com/photos/gQ06DrUzNIk) on [Unsplash](https://unsplash.com/)](./asset-1.jpeg)
+![Photo by [André Sanano](https://unsplash.com/photos/gQ06DrUzNIk) on [Unsplash](https://unsplash.com/)](/assets/blog/architecture/asset-1.jpeg)
 
 Like _Ingels_, my dad is an architect. I had been surrounded by architecture all my life till I turned 18 and moved to college. And by that, I mean the kind of architecture that you see in the day-to-day life of an architect — the finer nitty-gritties of the craft, not the history or the appreciation part. A little before I was born, my dad quit his job and started his own architectural practice — a small setup with no more than a handful employees at any time. I saw him run the business, and all that that comes with running a consulting firm like this: scoring clients at big pitch-meetings, managing the balance sheet, managing employees, finding creativity and a sense of purpose in your work, and very rarely, even pulling off all-nighters.
 
@@ -19,7 +19,7 @@ Growing up, like every kid I wanted to be an astronaut as well, until one day at
 
 The day of the exam arrived, and even though I had already appeared for the IIT one by this point and was pretty confident of my odds of making it, I still went for it — it was a fun 3 hour long session with mostly math, some 3D puzzles, some drawing etc. A month or two later, the results poured in:
 
-![What 18 years of osmosis looks like](./asset-2.png)
+![What 18 years of osmosis looks like](/assets/blog/architecture/asset-2.png)
 
 If my dad ever needed any paternity test, here it was. I don’t know how this happened, but I guess it’s safe to say that more than _nature, nurture_ was  responsible for this. Although I had already decided to pursue either Computer Science, or a related field at one of the IITs, this still made it a little hard to say goodbye to the profession of architecture once and for all.
 
@@ -27,4 +27,4 @@ It’s been 9 years since that summer of 2008, and I’ve had a stellar time doi
 
 **_Happy Father’s Day, dad!_**
 
-![](./asset-3.jpeg)
+![](/assets/blog/architecture/asset-3.jpeg)

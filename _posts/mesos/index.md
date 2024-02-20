@@ -32,7 +32,7 @@ published: true
     - Mesos decides how many resources to offer each framework, while frameworks decide which resources to accept and which tasks to run on them.
     - Resource offers are simple and efﬁcient to implement, allowing Mesos to be highly scalable and robust to failures.
 
-![Resource offer example.](./resource-offer.png)
+![Resource offer example.](/assets/blog/mesos/resource-offer.png)
 
 - Mesos also provides other benefits to practitioners:
     - Run multiple instances of that framework in the same cluster, or multiple versions of the framework.
@@ -51,7 +51,7 @@ published: true
 
 ### Architecture
 
-![Mesos architecture diagram, showing two running frameworks (Hadoop and MPI)](./mesos-architecture.png)
+![Mesos architecture diagram, showing two running frameworks (Hadoop and MPI)](/assets/blog/mesos/mesos-architecture.png)
 
 - Pushing control of task scheduling and execution to the frameworks:
     - First, it allows frameworks to implement diverse approaches to various problems in the cluster.
@@ -141,7 +141,7 @@ Mesos performs very well when frameworks can scale up and down elastically, task
 
 - An implementation of logistic regression in Hadoop must run each iteration as a separate MapReduce job, because each iteration depends on the `w` computed at the previous one. This imposes overhead because every iteration must re-read the input ﬁle into memory. In Dryad, the whole job can be expressed as a data ﬂow DAG as shown in the figure below, but the data must still must be reloaded from disk at each iteration.
 
-![Data flow of a logistic regression job in Dryad vs. Spark. Solid lines show data flow within the framework. Dashed lines show reads from a distributed file system. Spark reuses in-memory data across iterations to improve efficiency.](./spark.png)
+![Data flow of a logistic regression job in Dryad vs. Spark. Solid lines show data flow within the framework. Dashed lines show reads from a distributed file system. Spark reuses in-memory data across iterations to improve efficiency.](/assets/blog/mesos/spark.png)
 
 - Spark uses the long-lived nature of Mesos executors to cache a slice of the dataset in memory at each executor, and then run multiple iterations on this cached data.
 
@@ -186,7 +186,7 @@ Mesos describes a distributed scheduling mechanism called resource offers that d
 ### PDF
 
 * [Original](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
-* [Annotated copy](./mesos-annotated.pdf)
+* [Annotated copy](/assets/blog/mesos/mesos-annotated.pdf)
 
 ---
 Over the next few Saturdays, I'll be going through some of the foundational papers in Computer Science, and publishing my notes here. This is #16 in this [series](https://anantjain.dev/#paper-reviews).

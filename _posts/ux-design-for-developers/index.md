@@ -9,7 +9,7 @@ redirect_from:
   - /ux-design-for-developers-d3429200a1da
 ---
 
-![Photo by [Headway](https://unsplash.com/@headwayio)](./asset-1.png)
+![Photo by [Headway](https://unsplash.com/@headwayio)](/assets/blog/ux-design-for-developers/asset-1.png)
 
 As a web or mobile developer, you may have often wondered what is it really that the UX Designers do? How do you get hands on this _magic dust_ that makes some companies’ products noticeably easier and fun to use? How do you build products with great usability when you don’t have the budget of hiring a UX Designer for your solo side-project?
 
@@ -23,7 +23,7 @@ It’s important to identify the user’s goals before we start designing anythi
 
 There are usually multiple user goals within an application: we will break each of these goals into a list of tasks that the user must accomplish to achieve their goal.
 
-![](./asset-2.png)
+![](/assets/blog/ux-design-for-developers/asset-2.png)
 
 ### Task Lists
 
@@ -40,7 +40,7 @@ Once you’ve identified a user goal, you can start breaking it down into a list
 
 Task lists look very simple at the face of it but can end up becoming complicated and confusing. For instance, Uber made a conscious decision to add a Confirm pickup spot step (Step 6) even though they can be reasonably confident that the GPS would pick your location accurately. Additionally, some tasks can be done in any order, some tasks may require other tasks to be done before them (step 7), or some tasks may even be optional (step 8).
 
-![](./asset-3.png)
+![](/assets/blog/ux-design-for-developers/asset-3.png)
 
 ### User Flow Diagrams
 
@@ -48,7 +48,7 @@ Given a task list, you can convert it into a User Flow Diagram to show how a use
 
 Here are two User Flow diagrams comparing Uber to Grab:
 
-![([Source](http://zoe4meii.com/project/ride-hailing-app))](./asset-4.png)
+![([Source](http://zoe4meii.com/project/ride-hailing-app))](/assets/blog/ux-design-for-developers/asset-4.png)
 
 ### Empathy Map
 
@@ -62,7 +62,7 @@ Here’s how you make an empathy map:
 2.  Label them Seeing, Thinking & Feeling, Hearing and Saying.
 3.  Interview your users, and during the interview fill out these quadrants as you observe their interaction with the prototype/product, or the problem as they encounter it in a real setting.
 
-![Empathy map for a user who is trying to record and upload a video in 2004. ([Source](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067))](./asset-5.png)
+![Empathy map for a user who is trying to record and upload a video in 2004. ([Source](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067))](/assets/blog/ux-design-for-developers/asset-5.png)
 
 Once you collect enough empathy maps for individual users (I recommend at least 3 to 5), you’ll start to see patterns — these patterns inform User Personas that you’ll create later.
 
@@ -72,7 +72,7 @@ A User Journey Map is very similar in concept to an Empathy Map, except it shows
 
 In essence, it’s a series of Empathy maps on a timeline as the user progresses through a user flow in your product. For example:
 
-![User Journey map for a user who is trying to record and upload a video in 2004. ([Source](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067))](./asset-6.png)
+![User Journey map for a user who is trying to record and upload a video in 2004. ([Source](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067))](/assets/blog/ux-design-for-developers/asset-6.png)
 
 In the User Journey map above, you’ll notice that different stages of the experience are on the X-axis, and we are trying to identify various aspects of the user’s experience on the Y-axis.
 
@@ -105,7 +105,7 @@ All the information you need should be in your research and data. If you can’t
 
 #### Example of a bad persona
 
-![](./asset-7.png)
+![](/assets/blog/ux-design-for-developers/asset-7.png)
 
 > Persona A is a female, between the ages of 35–45 with an above average income and education. They have at least one child and own at least one new vehicle. They are outgoing and career-oriented and tend to be right-brain thinkers.
 
@@ -113,7 +113,7 @@ All the information you need should be in your research and data. If you can’t
 
 #### Example of a useful persona:
 
-![](./asset-8.png)
+![](/assets/blog/ux-design-for-developers/asset-8.png)
 
 > Persona B is an experienced manager, mostly interested in one or two areas of expertise. They visit often, but they are pressed for time, so they focus on “collecting” content to read on the weekends. They tend to be prolific social media sharers, mostly to Twitter and LinkedIn. They consider themselves thought-leaders, so the public image is important.
 
@@ -127,7 +127,7 @@ All the information you need should be in your research and data. If you can’t
 
 Here’s an example of a real persona:
 
-![([Source](http://www.christinanghiem.com/images/persona-01.jpg))](./asset-9.jpeg)
+![([Source](http://www.christinanghiem.com/images/persona-01.jpg))](/assets/blog/ux-design-for-developers/asset-9.jpeg)
 
 ### What’s next?
 
@@ -139,10 +139,10 @@ Next time, when you look at the list of possible features you can add to your pr
 
 Because it does.
 
-![](./asset-10.png)
+![](/assets/blog/ux-design-for-developers/asset-10.png)
 
 Thanks for reading this quick guide. This was originally published as part of the [UX Design course](https://www.commonlounge.com/discussion/d8c1c96e92024adf9f496fe41dcaad1a) (it has real-world projects on these concepts!) on [Commonlounge](https://www.commonlounge.com/), a platform that has courses with small bite-sized lessons like these on topics ranging from [Django](https://www.commonlounge.com/discussion/8053bde657804a6b9135c0d781c9d2c7) to [Machine Learning](https://www.commonlounge.com/discussion/35ccdb70826e434a876d612504297232) that deliver the most value for the time you put in.
 
 You learn by working on real-world projects and getting feedback from industry mentors.
 
-![](./asset-11.png)
+![](/assets/blog/ux-design-for-developers/asset-11.png)

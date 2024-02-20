@@ -9,7 +9,7 @@ redirect_from:
   - /sapiens-a-brief-history-of-humankind-af4aee2aaa04
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/sapiens-a-brief-history-of-humankind/asset-1.jpeg)
 
 Sir Francis Bacon said that some books are to be tasted, others to be swallowed, and some few to be chewed and digested. This masterpiece by Yuval Noah Harari squarely lies in the last category.
 
@@ -19,7 +19,7 @@ There’s no way I can do this book any justice by trying to review it. Instead,
 
 Two hundred thousand years ago, Homo sapiens evolved in East Africa. We were an animal of no special significance. To be sure, we were not the the only humans to walk this planet either. Homo Neanderthalensis, Homo Erectus, Homo Habilis, etc. were all as “human” as well. Today, only we survive. Homo sapiens try to forget that we’ve been responsible for extinction of all our fellow human species. So much so that we draw Human “evolution” illustrations like the one below as if one came after another. This is a myth.
 
-![This isn’t a timeline](./asset-2.jpeg)
+![This isn’t a timeline](/assets/blog/sapiens-a-brief-history-of-humankind/asset-2.jpeg)
 
 How were we so successful? The Cognitive Revolution started with the development of a massive human brain 70,000 years ago. No one really understands what first triggered the development of our species’ extraordinary intelligence. This new intelligence not just gave us speech, but also the ability to create myths. Speech is effective for gossiping within small groups, of say, up to 150 or so. Gossiping may seem frivolous, but our unique language was supple enough that we could gossip and talk behind each others’ backs for hours, thereby leading to more effective groups where people knew who to trust. Our chimpanzee friends couldn’t do so.
 
@@ -87,4 +87,4 @@ _This is #14 in a series of book reviews published weekly on this site._
 
 ---
 
-![Homo Sapiens (Credit: [Simon Wijers](https://unsplash.com/@simonwijers))](./asset-3.png)
+![Homo Sapiens (Credit: [Simon Wijers](https://unsplash.com/@simonwijers))](/assets/blog/sapiens-a-brief-history-of-humankind/asset-3.png)

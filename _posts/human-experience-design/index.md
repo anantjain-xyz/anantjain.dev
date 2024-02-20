@@ -11,7 +11,7 @@ redirect_from:
 
 As product designers, we care a lot about the user experience of things we make. We obsess over our products’ usability, the information architecture, and how it feels like to use the product. But more often than not, we throw out all this care and attention when it comes to our own selves. We don’t think as much about what other people’s experience of interacting with us is like. We try to empathize with the users of our products, but not with the people we cross paths with on a day-to-day basis.
 
-![Empathy, for your product users, and for everyone else too!](./asset-1.png)
+![Empathy, for your product users, and for everyone else too!](/assets/blog/human-experience-design/asset-1.png)
 
 We all want to build authentic personal relationships and not be a shitty person to others — yet it’s not uncommon for everyone to slip once in awhile and do something less than pleasant. The care and attention we put into our User Experience Designs could be well translated to how we think of the experience with our own selves. Think of yourself as a product. What’s the UX of this product? We can even call it _Human Experience Design_ if you wish! Think about it:
 

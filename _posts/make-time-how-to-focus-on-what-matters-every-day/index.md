@@ -9,13 +9,13 @@ redirect_from:
   - /make-time-how-to-focus-on-what-matters-every-day-e793d6544b24
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/make-time-how-to-focus-on-what-matters-every-day/asset-1.jpeg)
 
 This latest book by Jake Knapp and John Zeratsky is not your normal bag of productivity tips and tricks to help you get more done in the office. It’s about “_making time_” for things that truly matter to you — like being fully present around your children, or writing that book you’ve always wanted to. It’s about distilling focus across all your activities so that you can live a fuller life.
 
 As is usually the case with these kind of books, it’s somewhat possible to summarize them with one diagram:
 
-![Source: [https://maketimebook.com/how-it-works/](https://maketimebook.com/how-it-works/)](./asset-2.png)
+![Source: [https://maketimebook.com/how-it-works/](https://maketimebook.com/how-it-works/)](/assets/blog/make-time-how-to-focus-on-what-matters-every-day/asset-2.png)
 
 -   **Highlight:** Set a single intention at the start of each day. You’ll be more satisfied, joyful and effective. The highlight should take 60–90 minutes and will define your day. Of course, it’s not the only thing you’ll do over your day, but it’s the most important one.
 -   **Laser:** Instead of relying on your willpower, create real, physical barriers around distractions to focus your attention like a laser beam on your highlight. Delete all the social apps from your phone.

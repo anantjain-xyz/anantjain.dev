@@ -9,7 +9,7 @@ redirect_from:
   - /outliers-the-story-of-success-66cc3e63a5b7
 ---
 
-![](./asset-1.jpeg)
+![](/assets/blog/outliers-the-story-of-success/asset-1.jpeg)
 
 Outliers is a book about success — or rather, the myths surrounding it steeped in our culture. The central theme of this book is that the success of Outliers, the people that break the norm and succeed, has less to do with _nature_ and more to do with _nurture_:
 
@@ -43,4 +43,4 @@ I’ll keep this review short and end it here. As always, I really enjoy Gladwel
 
 _This is #23 in a series of book reviews published weekly on this site._
 
-![Photo by [Jeroen den Otter](https://unsplash.com/@jeroendenotter)](./asset-2.png)
+![Photo by [Jeroen den Otter](https://unsplash.com/@jeroendenotter)](/assets/blog/outliers-the-story-of-success/asset-2.png)
