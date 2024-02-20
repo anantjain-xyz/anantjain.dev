@@ -15,7 +15,7 @@ export function PostHeader({ title, date, categories }: Props) {
         <div className="mb-2 text-lg font-bold tracking-tighter">
           <DateFormatter dateString={date} />
         </div>
-        <div className="mb-24">
+        <div className="mb-12">
           {categories &&
             categories.length > 0 &&
             categories.map((category) => (
