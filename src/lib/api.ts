@@ -6,7 +6,8 @@ import { join } from "path";
 const postsDirectory = join(process.cwd(), "_posts");
 
 export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory);
+  const slugs = fs.readdirSync(postsDirectory);
+  return slugs.filter((item) => !/(^|\/)\.[^\/\.]/g.test(item));
 }
 
 export function getPostBySlug(slug: string) {
