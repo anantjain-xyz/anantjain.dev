@@ -12,10 +12,10 @@ export function PostHeader({ title, date, categories }: Props) {
     <>
       <div className="max-w-2xl mx-auto">
         <PostTitle>{title}</PostTitle>
-        <div className="mb-2 text-lg font-bold tracking-tighter">
+        <div className="mb-2 text-lg font-bold tracking-tighter text-center sm:text-left">
           <DateFormatter dateString={date} />
         </div>
-        <div className="mb-12">
+        <div className="mb-12 text-center sm:text-left">
           {categories &&
             categories.length > 0 &&
             categories.map((category) => (
