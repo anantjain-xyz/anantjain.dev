@@ -4,6 +4,6 @@ export type Post = {
   date: string;
   excerpt: string;
   content: string;
-  preview?: boolean;
+  published?: boolean;
   categories: string[];
 };
