@@ -61,7 +61,13 @@ export default function Index() {
           const posts = allPosts.filter((post) => {
             return post.categories.indexOf(category.tagName) > -1;
           });
-          return <PostList title={category.displayName} posts={posts} />;
+          return (
+            <PostList
+              title={category.displayName}
+              key={category.slugName}
+              posts={posts}
+            />
+          );
         })}
       </Container>
     </main>
