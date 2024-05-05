@@ -1,14 +1,14 @@
 ---
 title: "Books read and listened to in 2024 (so far)"
 description: "1 book and 4 audiobooks"
-date: "2024-04-20"
+date: "2024-05-05"
 categories: ["Book List"]
 published: true
 ---
 
 #### Books (1)
 
-1. The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change. Tanya Reilly.
+1. Tidy First?: A Personal Exercise in Empirical Software Design. Kent Beck.
 
 ---
 
