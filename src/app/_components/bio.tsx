@@ -8,7 +8,7 @@ export function Bio() {
         {" "}
         I'm part of the engineering team at{" "}
         <a
-          className="text-blue-600 dark:text-blue-500 hover:underline"
+          className="font-medium text-blue-800 dark:text-blue-500"
           href="https://brex.com"
           target="_blank"
           rel="noopener noreferrer"
@@ -21,7 +21,7 @@ export function Bio() {
       <p className="mb-4">
         At{" "}
         <a
-          className="text-blue-600 dark:text-blue-500 hover:underline"
+          className="font-medium text-blue-800 dark:text-blue-500"
           href="https://composelabs.com"
           target="_blank"
           rel="noopener noreferrer"
@@ -31,7 +31,7 @@ export function Bio() {
         , we built tools to automatically generate videos from text articles —
         Brex acquired the team in March 2020.{" "}
         <a
-          className="text-blue-600 dark:text-blue-500 hover:underline"
+          className="font-medium text-blue-800 dark:text-blue-500"
           href="https://youtu.be/zsblxTZ3vww?t=267"
           target="_blank"
           rel="noopener noreferrer"
@@ -48,7 +48,7 @@ export function Bio() {
         operating highly functional engineering teams in a distributed,
         remote-first world. You can reach me at{" "}
         <a
-          className="text-blue-600 dark:text-blue-500 hover:underline"
+          className="font-medium text-blue-800 dark:text-blue-500"
           href="mailto:me@anantjain.dev"
           target="_blank"
           rel="noopener noreferrer"
@@ -57,7 +57,7 @@ export function Bio() {
         </a>{" "}
         or{" "}
         <a
-          className="text-blue-600 dark:text-blue-500 hover:underline"
+          className="font-medium text-blue-800 dark:text-blue-500"
           href="https://twitter.com/@anantja_in"
         >
           @anantja_in
@@ -67,7 +67,7 @@ export function Bio() {
       <p>
         Subscribe to my{" "}
         <a
-          className="text-blue-600 dark:text-blue-500 hover:underline"
+          className="font-medium text-blue-800 dark:text-blue-500"
           href="https://anantjain.substack.com/"
           target="_blank"
           rel="noopener noreferrer"

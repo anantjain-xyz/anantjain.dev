@@ -5,7 +5,7 @@ export function Socials() {
       url: "https://twitter.com/anantja_in",
       icon: (
         <svg
-          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-600 dark:hover:text-blue-500"
+          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-800 dark:hover:text-blue-500"
           aria-hidden="true"
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
@@ -21,7 +21,7 @@ export function Socials() {
       url: "https://github.com/anantja-in",
       icon: (
         <svg
-          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-600 dark:hover:text-blue-500"
+          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-800 dark:hover:text-blue-500"
           aria-hidden="true"
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
@@ -37,7 +37,7 @@ export function Socials() {
       url: "https://www.linkedin.com/in/anantja-in/",
       icon: (
         <svg
-          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-600 dark:hover:text-blue-500"
+          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-800 dark:hover:text-blue-500"
           aria-hidden="true"
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
@@ -53,7 +53,7 @@ export function Socials() {
       url: "https://www.instagram.com/anantja.in/",
       icon: (
         <svg
-          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-600 dark:hover:text-blue-500"
+          className="w-4 h-4 mx-1 text-gray-400 hover:text-blue-800 dark:hover:text-blue-500"
           aria-hidden="true"
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
