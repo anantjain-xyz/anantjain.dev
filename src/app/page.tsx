@@ -48,8 +48,6 @@ export default function Index() {
       slugName: "side-projects",
     },
     { tagName: "Fitness", displayName: "Fitness", slugName: "fitness" },
-    { tagName: "Art", displayName: "Art", slugName: "art" },
-    { tagName: "Misc", displayName: "Miscellaneous", slugName: "misc" },
   ];
 
   return (
