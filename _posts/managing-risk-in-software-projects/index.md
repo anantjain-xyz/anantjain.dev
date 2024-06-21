@@ -1,5 +1,5 @@
 ---
-title: "Managing Risk in Software Projects"
+title: "Managing risk in software projects"
 description: "Minimizing risk across User Experience, Execution, and Integration & Testing"
 date: "2024-06-19"
 categories: ["Tech"]
@@ -22,7 +22,7 @@ Without a clear understanding of what problem you're trying to solve for the use
 
 Smooth execution is the backbone of any successful project. Execution risk often arises from fuzzy API contracts unresolved dependencies:
 
-- **API Contracts:** Ensure that all necessary API contracts within and across teams are in place early in the project lifecycle. For eg., two teams collaborating on a project may agree on an internal gRPC contract between their services, or frontend/backend engineers within a team may kick off work based on a GraphQL API serving mocks.
+- **API Contracts:** Ensure that all necessary API contracts within and across teams are in place early in the project lifecycle. For eg., two teams collaborating on a project may agree on an internal gRPC contract between their services, or frontend/backend engineers within a team may kick off work based on a GraphQL API serving mocks. When collaborating with external teams/vendors, closely track whether the API actually fulfills its contract, and is well documented and supported.
 
 - **Dependency Trees:** Chart out a dependency tree for complex projects that have interdependencies with other in-flight projects or migrations, and track all these dependencies diligently. A common execution risk I've seen time and again is being "surprised" that a certain project or migration hasn't fully landed, and the project team presumed its completion as a prerequisite.
 
