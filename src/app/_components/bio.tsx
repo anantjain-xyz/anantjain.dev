@@ -13,8 +13,8 @@ export function Bio() {
         >
           Complete
         </a>
-        , where we're on a mission to make compensation a winning advantage for
-        the world's highest-impact companies like Render, Vercel, Brex, Linear,
+        — we're on a mission to make compensation a winning advantage for the
+        world's highest-impact companies like Render, Vercel, Brex, Linear,
         Roblox, etc. We are breaking leveling and compensation cycle planning
         out from spreadsheets and bringing them into the 21st century, and are
         backed by Accel and YC. I'm hiring Senior/Staff engineers at Complete.
@@ -34,7 +34,7 @@ export function Bio() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          careers page
+          Careers page
         </a>
         .
       </p>
@@ -49,7 +49,7 @@ export function Bio() {
         >
           Brex
         </a>
-        's Travel, Bill Pay, Procurement and Vendor Management products. Before
+        's Travel, Bill Pay, Procurement, Vendors, and Banking products. Before
         Brex, I co-founded two startups: Compose Labs and EagerPanda.
       </p>
       <p className="mb-4">
