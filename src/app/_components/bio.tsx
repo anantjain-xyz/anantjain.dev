@@ -1,12 +1,46 @@
 export function Bio() {
   return (
     <section className="mt-8 mb-8 md:mb-12">
+      <p className="mb-4">Hi! I’m Anant. 👋 </p>
       <p className="mb-4">
-        Hi! I’m Anant. Welcome to my little home on the web.{" "}
+        {" "}
+        I lead engineering at{" "}
+        <a
+          className="font-medium text-blue-800 dark:text-blue-500"
+          href="https://complete.so"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Complete
+        </a>
+        , where we're on a mission to make compensation a winning advantage for
+        the world's highest-impact companies like Render, Vercel, Brex, Linear,
+        Roblox, etc. We are breaking leveling and compensation cycle planning
+        out from spreadsheets and bringing them into the 21st century, and are
+        backed by Accel and YC. I'm hiring Senior/Staff engineers at Complete.
+        Drop me a note at{" "}
+        <a
+          className="font-medium text-blue-800 dark:text-blue-500"
+          href="mailto:anant@complete.so"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          anant@complete.so
+        </a>{" "}
+        or find open roles at our{" "}
+        <a
+          className="font-medium text-blue-800 dark:text-blue-500"
+          href="https://www.complete.so/careers"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          careers page
+        </a>
+        .
       </p>
       <p className="mb-4">
         {" "}
-        I'm part of the engineering team at{" "}
+        Prior to Complete, I led the engineering groups building{" "}
         <a
           className="font-medium text-blue-800 dark:text-blue-500"
           href="https://brex.com"
@@ -15,9 +49,9 @@ export function Bio() {
         >
           Brex
         </a>
-        . Before Brex, I co-founded two startups: Compose Labs and EagerPanda.
+        's Travel, Bill Pay, Procurement and Vendor Management products. Before
+        Brex, I co-founded two startups: Compose Labs and EagerPanda.
       </p>
-
       <p className="mb-4">
         At{" "}
         <a
@@ -28,8 +62,8 @@ export function Bio() {
         >
           Compose Labs
         </a>
-        , we built tools to automatically generate videos from text articles —
-        Brex acquired the team in March 2020.{" "}
+        , we built tools to automatically generate videos from text articles
+        (acquired by Brex in March 2020) and{" "}
         <a
           className="font-medium text-blue-800 dark:text-blue-500"
           href="https://youtu.be/zsblxTZ3vww?t=267"
@@ -39,30 +73,7 @@ export function Bio() {
           EagerPanda
         </a>{" "}
         was a publishing platform with a realtime, multiplayer editor with
-        version controls (think Google Docs + Medium + GitHub).
-      </p>
-
-      <p className="mb-4">
-        After spending 10+ years across multiple engineering and product roles
-        in high-growth startups, I'm currently focusing on building and
-        operating highly functional engineering teams in a distributed,
-        remote-first world. You can reach me at{" "}
-        <a
-          className="font-medium text-blue-800 dark:text-blue-500"
-          href="mailto:me@anantjain.dev"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          me@anantjain.dev
-        </a>{" "}
-        or{" "}
-        <a
-          className="font-medium text-blue-800 dark:text-blue-500"
-          href="https://twitter.com/@anantja_in"
-        >
-          @anantja_in
-        </a>
-        .
+        version controls — think Google Docs + Medium + GitHub.
       </p>
       <p>
         Subscribe to my{" "}

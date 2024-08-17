@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export function Intro() {
   return (
-    <div className="mt-16 mb-16 md:mb-12 max-w-6xl flex flex-row items-start">
+    <div className="mt-16 mb-4 max-w-6xl flex flex-row items-start">
       <section className="">
         <div className="flex flex-col md:flex-row items-center">
           <h1 className="text-5xl font-bold tracking-tighter leading-tight pb-2 md:pr-8 md:pb-0">
