@@ -1,7 +1,7 @@
 ---
 title: "Books read and listened to in 2024 (so far)"
-description: "2 books and 6 audiobooks"
-date: "2024-07-04"
+description: "2 books and 9 audiobooks"
+date: "2024-08-17"
 categories: ["Book List"]
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 
 ---
 
-#### Audiobooks (6)
+#### Audiobooks (9)
 
 1. Scaling People. Claire Hughes Johnson.
 2. The Happiest Toddler on the Block. Harvey Karp.
@@ -21,3 +21,6 @@ published: true
 4. Start With Why: How Great Leaders Inspire Everyone to Take Action. Simon Sinek.
 5. Why We Get Fat: And What to Do About It. Gary Taubes.
 6. Slow Productivity: The Lost Art of Accomplishment Without Burnout. Cal Newport.
+7. Range: Why Generalists Triumph in a Specialized World. David Epstein.
+8. The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever. Michael Bungay Stanier.
+9. The Engineering Executive's Primer. Will Larson.
