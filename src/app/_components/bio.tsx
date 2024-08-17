@@ -85,7 +85,7 @@ export function Bio() {
         >
           newletter on Substack
         </a>{" "}
-        to get new posts delivered directly to your email inbox.
+        to get new posts delivered directly to your email.
       </p>
     </section>
   );
