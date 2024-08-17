@@ -12,7 +12,7 @@ export function Bio() {
           rel="noopener noreferrer"
         >
           Complete
-        </a>
+        </a>{" "}
         — we're on a mission to make compensation a winning advantage for the
         world's highest-impact companies like Render, Vercel, Brex, Linear,
         Roblox, etc. We are breaking leveling and compensation cycle planning
