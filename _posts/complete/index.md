@@ -29,7 +29,7 @@ Complete has a small but a formidable team. [Rani](https://www.linkedin.com/in/r
 
 On top of that, every engineer I met during the interview process had just the right mix of humility, intensity, and compassion. This balance made it obvious that I would be excited to come to work every day. Spending a few hours with the team made it very clear that Complete moves [*fast*](https://patrickcollison.com/fast), perhaps faster than most startups at this stage!
 
-On top of all this, we have a community of technology leaders and operators like Will Larson (CTO of Carta), Eric Sagar (COO of Plaid), Mathilde Collin (CEO of Front) as our angels and/or advisors, and I very much look forward to learning from this group.
+On top of all this, we have a community of technology leaders and operators like [Will Larson](https://lethain.com/) (CTO of Carta), Eric Sagar (COO of Plaid), Mathilde Collin (CEO of Front) as our angels and/or advisors, and I very much look forward to learning from this group.
 
 ### Market
 
