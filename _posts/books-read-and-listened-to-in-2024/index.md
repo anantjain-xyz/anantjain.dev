@@ -1,7 +1,7 @@
 ---
 title: "Books read and listened to in 2024 (so far)"
-description: "2 books and 9 audiobooks"
-date: "2024-08-17"
+description: "2 books and 12 audiobooks"
+date: "2024-09-21"
 categories: ["Book List"]
 published: true
 ---
@@ -24,3 +24,6 @@ published: true
 7. Range: Why Generalists Triumph in a Specialized World. David Epstein.
 8. The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever. Michael Bungay Stanier.
 9. The Engineering Executive's Primer. Will Larson.
+10. Playing to Win: How Strategy Really Works. A.G. Lafley, Roger L. Martin.
+11. Elon Musk. Walter Isaacson.
+12. Supercommunicators: How to Unlock the Secret Language of Connection. Charles Duhigg.
