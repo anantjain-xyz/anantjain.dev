@@ -1,7 +1,7 @@
 ---
-title: "Books read and listened to in 2024 (so far)"
-description: "2 books and 12 audiobooks"
-date: "2024-09-21"
+title: "Books read and listened to in 2024"
+description: "2 books and 19 audiobooks"
+date: "2024-12-27"
 categories: ["Book List"]
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 
 ---
 
-#### Audiobooks (9)
+#### Audiobooks (19)
 
 1. Scaling People. Claire Hughes Johnson.
 2. The Happiest Toddler on the Block. Harvey Karp.
@@ -27,3 +27,10 @@ published: true
 10. Playing to Win: How Strategy Really Works. A.G. Lafley, Roger L. Martin.
 11. Elon Musk. Walter Isaacson.
 12. Supercommunicators: How to Unlock the Secret Language of Connection. Charles Duhigg.
+13. Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork. Reeves Wiedeman.
+14. The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal. M. Mitchell Waldrop.
+15. Building a Second Brain. Tiago Forte.
+16. Oh Crap! Jamie Glowacki.
+17. Zen and the Art of Motorcycle Maintenance. Robert M. Pirsig.
+18. Enlightenment Now: The Case for Reason, Science, Humanism, and Progress. Steven Pinker.
+19. First, Break All the Rules: What the World's Greatest Managers Do Differently. Marcus Buckingham, Gallup Press, et al.
