@@ -13,30 +13,8 @@ export function Bio() {
         >
           Complete
         </a>{" "}
-        — we're on a mission to make compensation a winning advantage for the
-        world's highest-impact companies like Render, Vercel, Brex, Linear,
-        Roblox, etc. We are breaking leveling and compensation cycle planning
-        out from spreadsheets and bringing them into the 21st century, and are
-        backed by Accel and YC. I'm hiring Senior/Staff engineers at Complete.
-        Drop me a note at{" "}
-        <a
-          className="font-medium text-blue-800 dark:text-blue-500"
-          href="mailto:anant@complete.so"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          anant@complete.so
-        </a>{" "}
-        or find open roles at our{" "}
-        <a
-          className="font-medium text-blue-800 dark:text-blue-500"
-          href="https://www.complete.so/careers"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Careers page
-        </a>
-        .
+        — we're changing the way fast-growth companies and enterprises 
+        (Linear, Render, Brex, Roblox, etc.) close talent and manage compensation.
       </p>
       <p className="mb-4">
         {" "}
