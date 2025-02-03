@@ -3,7 +3,7 @@ title: "Joining Complete"
 description: ""
 date: "2024-08-20"
 categories: ["Tech"]
-published: true
+published: false
 ---
 
 tl;dr: After 4.5 years of building Brex, I’m returning to my startup roots to join [**Complete**](https://complete.so) as Head of Engineering. I’m hiring Senior/Staff engineers in our SF office: drop me a note at [**anant@complete.so**](mailto:anant@complete.so) or find open roles on our [**Careers page**](https://www.complete.so/careers).
