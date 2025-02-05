@@ -2,23 +2,8 @@ export function Bio() {
   return (
     <section className="mt-8 mb-8 md:mb-12">
       <p className="mb-4">Hi! I’m Anant. 👋 </p>
-      <p className="mb-4">
-        {" "}
-        I lead engineering at{" "}
-        <a
-          className="font-medium text-blue-800 dark:text-blue-500"
-          href="https://complete.so"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Complete
-        </a>{" "}
-        — we're changing the way fast-growth companies and enterprises 
-        (Linear, Render, Brex, Roblox, etc.) close talent and manage compensation.
-      </p>
-      <p className="mb-4">
-        {" "}
-        Prior to Complete, I led the engineering groups building{" "}
+      <p className="mb-4">I write about building startups and engineering teams.
+        Until recently, I led the engineering groups building{" "}
         <a
           className="font-medium text-blue-800 dark:text-blue-500"
           href="https://brex.com"
