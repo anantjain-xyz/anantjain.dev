@@ -6,7 +6,6 @@ categories: ["Tech"]
 published: true
 ---
 
-## Introduction  
 Measuring your performance as a Startup CTO at a Seed/Series A startup is a unique challenge. As the CTO[1], you're typically a founder driving direction and growth by talking to users and building something they want. You're both an individual contributor writing code every day and a "line Engineering Manager" directly responsible for the engineering team's management. While there are multiple career frameworks out there[2], ladders for individual contributors or engineering managers don’t capture this hybrid role.
 
 After leading multiple teams and organizations at Brex, when I returned to startups, I wanted to adapt the engineering career path we had to a CTO role. I always appreciated the way we structured the role of engineering leadership and wanted to emulate some of those value functions in my future roles.
