@@ -20,7 +20,7 @@ If you're using platforms like **Render or Railway**, expect pushback. These pla
 
 **Mitigation Strategy:**
 
-- **Single Tenancy**: Start thinking about it early. Offering an enterprise the option to deploy in their own VPC can remove security roadblocks.
+- **Single Tenancy**: Start thinking about it early and offer enterprises the option to deploy your silution in their own VPC.
 - **Cloud Provider Transparency**: If you must use an alternative platform, be ready with detailed security documentation, SOC 2 reports (if available), and a clear explanation of how your hosting provider ensures security.
 
 ## 3. The Hidden Costs of Security
