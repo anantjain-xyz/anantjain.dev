@@ -1,5 +1,5 @@
 ---
-title: "Productivity Tips, Vol 1"
+title: "Productivity Tips"
 description: "Individual Contributor version"
 date: "2024-07-05"
 categories: ["Tech"]
