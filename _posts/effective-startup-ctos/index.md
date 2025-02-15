@@ -1,5 +1,5 @@
 ---
-title: "Measuring Your Performance as a Startup CTO (Seed/Series A Stage)"
+title: "Measuring your performance as a startup CTO (Seed/Series A stage)"
 description: "A framework to measure your performance in the earliest stages"
 date: "2024-09-13"
 categories: ["Tech"]

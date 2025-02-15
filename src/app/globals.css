@@ -30,4 +30,15 @@
   a {
     @apply text-blue-800 dark:text-blue-500;
   }
+  
+  /* Add table styles */
+  table {
+    @apply w-full my-4;
+  }
+  th {
+    @apply border px-4 py-2 bg-gray-100 font-semibold;
+  }
+  td {
+    @apply border px-4 py-2;
+  }
 }
