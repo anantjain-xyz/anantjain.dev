@@ -11,42 +11,45 @@ Measuring your performance as a Startup CTO at a Seed or Series A startup is a u
 
 After my time at Brex, when I returned to startups, I heavily adapted the engineering career path we had. I always appreciated the way we structured the role of engineering leadership and wanted to emulate some of those values in my future roles.
 
-The following is the rubric that I have been using in my own role, and numerous other Seed/Series A CTOs I've talked to have found it tremendously helpful as well:
+The following is the rubric spanning five areas that I have been using in my own role, and numerous other Seed/Series A CTOs I've talked to about this topic have found it useful as well:
 
-**1. Getting Things Done**
+---
 
-**Timely and efficient delivery** of solutions to real customer problems, building something users want. Tying this to top-level company metrics has typically worked best for me:
+**A. Getting Things Done**: **Timely and efficient delivery** of solutions to real customer problems, building something users want. Tying this to top-level company metrics has typically worked best for me:
+1. Increase in ARR (e.g., from X to Y)
+2. Improvement in Net Revenue Retention (e.g., from X to Y)
 
-1. Metric: Increase in ARR (e.g., from X to Y)
-2. Metric: Improvement in Net Revenue Retention (e.g., from X to Y)
+---
 
-**2. Technical Excellence**
+**B. Technical Excellence**: **Drive technical vision** and **strategy,** promoting a culture of building scalable, maintainable, and reliable systems. Something as simple as DORA metrics is sufficient in the earliest stages.
 
-**Drive technical vision** and **strategy,** promoting a culture of building scalable, maintainable, and reliable systems. Something as simple as DORA metrics is sufficient in the earliest stages.
+1. Deployment Frequency
+2. Lead time to deployment
+3. Change Failure Rate
+4. Mean Time to Restore
 
-1. Metric: Deployment Frequency
-2. Metric: Lead time to deployment
-3. Metric: Change Failure Rate
-4. Metric: Mean Time to Restore
+---
 
-**3. Direction**
+**C. Direction**: Shape the **product and technical direction** for the company.
 
-Shape the **product and technical direction** for the company.
+1. Technical bets that keep execution as fast as today a year from now.
+2. Technical bets that simplify the tech stack or keep it simple.
+3. Technical/Product bets that add a 10x competitive differentiation.
 
-1. Metric: Technical bets that keep execution as fast as today a year from now.
-2. Metric: Technical bets that simplify the tech stack or keep it simple.
-3. Metric: Technical/Product bets that add a 10x competitive differentiation.
+---
 
-**4. People & Culture**
+**D. Recruiting and Growth**: Be the primary point person for sourcing, interviewing, closing, and retaining **top engineering talent** throughout the company, as well as developing **leaders**.
 
-Be the primary point person for sourcing, interviewing, closing, and retaining **top engineering talent** throughout the company, as well as developing **leaders**.
+1. Engineering headcount growth
+2. Counter-metric of attrition (including non-regretted)
 
-1. Metric: Engineering headcount growth
-2. Metric: Counter-metric of attrition (including non-regretted)
+---
 
-**Accountable** for the **culture and health** of engineering. Drive **growth**, **development**, and **calibration** of all engineers.
+**E. Culture**: Accountable for the health of engineering team. Drive **growth**, **development**, and **calibration** of all engineers.
 
-1. Metric: Employee Retention
-2. Metric: Developer happiness (you can run monthly surveys, but usually this is quite subjective to measure at this stage)
+1. Employee Retention
+2. Developer happiness (you can run monthly surveys, but usually this is quite subjective to measure at this stage)
+
+---
 
 [1] By CTO, I’m referring to the person who the engineering team reports to. In some startups, there’s a CTO (usually a cofounder) who is a better fit as the “chief architect” and hires a VP Engineering / Head of Engineering / etc. to actually manage and grow the team.
