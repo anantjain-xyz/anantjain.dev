@@ -36,7 +36,7 @@ Below is a step-by-step process I’ve found effective for quarterly planning, w
 
 ### Step 2: Create the Product Roadmap
 
-- Identify key projects in Linear that should be prioritized for the next quarter.
+- Identify key projects that should be prioritized for the next quarter.
 - Focus the team on one or two themes per quarter rather than spreading efforts across many projects.
 - Rate each project's Impact and Effort, including brief justifications to enable asynchronous feedback.
 - Sort the table by `Impact/Effort`
@@ -45,7 +45,7 @@ Below is a step-by-step process I’ve found effective for quarterly planning, w
 | **Project Name** | **Tags** | **Impact** | **Effort** | **Impact/Effort** |
 | --- | --- | --- | --- | --- |
 | **Project A** | Product Bet | 90 | 10 | 9 |
-| Project B | Product Excellence | 70 | 10 | 7 |
+| **Project B** | Product Excellence | 70 | 10 | 7 |
 | **Project C** | Customer commitment | 60 | 10 | 6 |
 | … |  |  |  |  |
 
@@ -54,7 +54,7 @@ Below is a step-by-step process I’ve found effective for quarterly planning, w
 Account for these often overlooked time commitments:
 
 - Oncall and customer success work
-- Planned vacations and Holidys
+- Planned vacations and Holidays
 - Onboarding new team members
 - Any team offsites or planning days
 - Unexpected PTO
@@ -80,6 +80,6 @@ Account for these often overlooked time commitments:
 | **Project 2** | Eng Excellence | 50 | 10 | 5 |
 | **Project 3** | Eng Excellence | 70 | 20 | 3.5 |
 
-### Step 5: Make it official in Linear
+### Step 5: Make it official
 
-Use Initiatives and Projects in Linear to record the roadmap.
+I love using Initiatives and Projects in Linear to record and execute on the roadmap.
