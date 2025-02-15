@@ -25,25 +25,41 @@ Below is a step-by-step process I’ve found effective for quarterly planning, w
 - Rate each project's Impact and Effort on a scale of 1 to 10.
 - Include brief justifications for each rating to facilitate asynchronous feedback.
 - Sort the table by `Impact/Effort`
+- The output for this step should look like as below:
 
-## Step 2: Create the Product Roadmap
+| **Project** | **Impact** | **Effort** | **Impact/Effort** |
+| --- | --- | --- | --- |
+| **Project 1** | 30 | 5 | 6 |
+| **Project 2** | 50 | 10 | 5 |
+| **Project 3** | 70 | 20 | 3.5 |
+| **…** |  |  |  |
+
+### Step 2: Create the Product Roadmap
 
 - Identify key projects in Linear that should be prioritized for the next quarter.
 - Focus the team on one or two themes per quarter rather than spreading efforts across many projects.
 - Rate each project's Impact and Effort, including brief justifications to enable asynchronous feedback.
 - Sort the table by `Impact/Effort`
+- The output for this step should look like as below:
 
-## Step 3: Estimate team capacity
+| **Project Name** | **Tags** | **Impact** | **Effort** | **Impact/Effort** |
+| --- | --- | --- | --- | --- |
+| **Project A** | Product Bet | 90 | 10 | 9 |
+| Project B | Product Excellence | 70 | 10 | 7 |
+| **Project C** | Customer commitment | 60 | 10 | 6 |
+| … |  |  |  |  |
+
+### Step 3: Estimate team capacity
 
 Account for these often overlooked time commitments:
 
-- Oncall time
-- Vacation
-- Holidays
-- Team offsites/planning days
+- Oncall and customer success work
+- Planned vacations and Holidys
+- Onboarding new team members
+- Any team offsites or planning days
 - Unexpected PTO
 
-## Step 4: Combine and draw a cutline
+### Step 4: Combine and draw a cutline
 
 - Bring the top projects from Step 1 into the doc for Step 2.
 - It’s okay to adjust `Impact/Effort` to fit better in the context of the table in Step 2.
@@ -51,7 +67,19 @@ Account for these often overlooked time commitments:
 - Based on the capacity in Step 3, you’ll be able to see the cutline of what you can realistically accomplish.
 - Based on the cutline, think about what’s below the cutline that should absolutely be done. If so, it’s okay to bump up its impact.
 - Alternatively, try to think of ways where you can break the work into two parts, where the first part requires less effort but meets the imminent need, and the second part can be deferred to later.
+- The output of this step should look like the following table:
 
-## Step 5: Make it official in Linear
+| **Project Name** | **Tags** | **Impact** | **Effort** | **Impact/Effort** |
+| --- | --- | --- | --- | --- |
+| **Project A** | Product Bet | 90 | 10 | 9 |
+| **Project B** | Product Excellence | 70 | 10 | 7 |
+| **Project 1** | Eng Excellence | 30 | 5 | 6 |
+| **Project C** | Customer commitment | 60 | 10 | 6 |
+| **…** |  |  |  |  |
+| **[Cutline]** |  |  |  |  |
+| **Project 2** | Eng Excellence | 50 | 10 | 5 |
+| **Project 3** | Eng Excellence | 70 | 20 | 3.5 |
+
+### Step 5: Make it official in Linear
 
 Use Initiatives and Projects in Linear to record the roadmap.
