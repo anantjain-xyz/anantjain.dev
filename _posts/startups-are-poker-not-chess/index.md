@@ -1,7 +1,7 @@
 ---
 title: "Startups are poker, not chess"
 description: "Three mistakes to avoid when building startups"
-date: "2024-02-04"
+date: "2025-02-04"
 categories: ["Tech"]
 published: true
 ---
