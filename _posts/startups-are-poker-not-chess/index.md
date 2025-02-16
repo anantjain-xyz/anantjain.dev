@@ -6,7 +6,7 @@ categories: ["Tech"]
 published: true
 ---
 
-Many founders treat startups like chess—thinking there’s a perfect move if they just plan ahead. But startups aren’t chess. They’re poker.
+Many founders treat startups like chess—thinking there’s a perfect move if they just plan ahead. But startups aren’t chess, they’re poker.
 
 In poker, uncertainty is the norm. You make decisions with incomplete information, weigh probabilities, and manage risk. The best founders do the same. But many fall into these three traps:
 
