@@ -3,7 +3,7 @@ title: "We Need to Start Afresh with Online Education"
 description: "Learning should not stop once you graduate from high school or college. In fact, most of the skills required to be an effective producer…"
 date: "2018-06-06T14:04:29.744Z"
 categories: ["Tech", "Education"]
-published: true
+published: false
 canonical_link: https://medium.com/@anant90/we-need-to-start-afresh-with-online-education-acc1c2969254
 redirect_from:
   - /we-need-to-start-afresh-with-online-education-acc1c2969254

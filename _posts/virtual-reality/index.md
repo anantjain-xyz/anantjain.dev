@@ -3,7 +3,7 @@ title: "Virtual Reality"
 description: "December 2014"
 date: "2017-05-27T20:08:30.190Z"
 categories: ["Tech"]
-published: true
+published: false
 canonical_link: https://medium.com/@anant90/virtual-reality-88ec5449455f
 redirect_from:
   - /virtual-reality-88ec5449455f

@@ -3,7 +3,7 @@ title: "Five reasons for China’s emerging dominance in Artificial Intelligence
 description: "Five factors are coming together in China that will make it an A.I. superpower in the next decade or so."
 date: "2018-08-01T13:16:00.944Z"
 categories: ["Tech", "AI"]
-published: true
+published: false
 canonical_link: https://medium.com/@anant90/chinas-emerging-dominance-in-artificial-intelligence-7ece623daf9b
 redirect_from:
   - /chinas-emerging-dominance-in-artificial-intelligence-7ece623daf9b

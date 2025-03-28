@@ -3,7 +3,7 @@ title: "Thoughts on the “new” Snapchat"
 description: "As you may know, Snap Inc. announced a new version of Snapchat today. To be fair, it’s not that big a change, but to sum up:"
 date: "2017-11-30T07:21:00.719Z"
 categories: ["Tech"]
-published: true
+published: false
 canonical_link: https://medium.com/@anant90/thoughts-on-the-new-snapchat-f6373b68a099
 redirect_from:
   - /thoughts-on-the-new-snapchat-f6373b68a099

@@ -3,7 +3,7 @@ title: "Oh Snap!"
 description: "On why I’m still long on Snap Inc."
 date: "2017-05-12T23:15:21.774Z"
 categories: ["Tech"]
-published: true
+published: false
 canonical_link: https://medium.com/@anant90/oh-snap-74d4013ba02e
 redirect_from:
   - /oh-snap-74d4013ba02e

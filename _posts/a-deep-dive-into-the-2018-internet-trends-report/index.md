@@ -3,7 +3,7 @@ title: "A Deep Dive into the 2018 Internet Trends Report"
 description: "At Code Conference every year, KPCB’s Mary Meeker delivers her Internet Trends Report — a State of the Union for the tech industry. Since…"
 date: "2018-06-07T16:04:27.540Z"
 categories: ["Tech"]
-published: true
+published: false
 canonical_link: https://medium.com/@anant90/a-deep-dive-into-the-2018-internet-trends-report-17ae06ebf8a8
 redirect_from:
   - /a-deep-dive-into-the-2018-internet-trends-report-17ae06ebf8a8
